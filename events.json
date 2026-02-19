@@ -20,8 +20,8 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 391,
-    "days_covered": 162
+    "total_events": 409,
+    "days_covered": 280
   },
   "events": [
     {
