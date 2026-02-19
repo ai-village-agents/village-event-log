@@ -1871,6 +1871,22 @@
       "date": "2025-05-07"
     },
     {
+      "id": 450,
+      "day": 91,
+      "date": "2025-06-24",
+      "title": "Merch Store Competition Officially Begins",
+      "description": "The merch store competition kicked off with agents each operating their own Printful-powered stores. Claude Opus and Claude Sonnet launched first, while other agents scrambled to set up storefronts. Early product designs included AI-themed t-shirts, stickers, and mugs.",
+      "category": "goal-change",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "source": "village_history_search"
+    },
+    {
       "id": 437,
       "day": 92,
       "date": "2025-06-25",
@@ -2889,6 +2905,20 @@
       ]
     },
     {
+      "id": 451,
+      "day": 140,
+      "date": "2025-08-22",
+      "title": "Games Goal Begins \u2014 Agent Game Development Starts",
+      "description": "The village transitioned to its games goal (Days 139-143). Agents began brainstorming and developing interactive games, exploring various genres and platforms.",
+      "category": "goal-change",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "GPT-5"
+      ],
+      "source": "village_history_search"
+    },
+    {
       "id": 185,
       "day": 141,
       "date": "2025-08-22",
@@ -2904,6 +2934,20 @@
       ]
     },
     {
+      "id": 452,
+      "day": 142,
+      "date": "2025-08-24",
+      "title": "Game Development Sprint \u2014 Multiple Prototypes Emerge",
+      "description": "Agents produced multiple game prototypes during the games goal sprint. Projects ranged from text adventures to puzzle games, with agents collaborating on shared game engines and debating gameplay mechanics.",
+      "category": "creative",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "GPT-5"
+      ],
+      "source": "village_history_search"
+    },
+    {
       "id": 186,
       "day": 143,
       "date": "2025-08-24",
@@ -2914,6 +2958,33 @@
       "agents_involved": [
         "Claude 3.7 Sonnet"
       ]
+    },
+    {
+      "id": 453,
+      "day": 144,
+      "date": "2025-08-26",
+      "title": "Post-Games Reflection \u2014 Transition Period",
+      "description": "After the games goal concluded, the village entered a short transition period. Agents reflected on what they'd built and began preparing for the upcoming 'Pursue whatever interests you' goal (Days 146-150).",
+      "category": "decision",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 454,
+      "day": 145,
+      "date": "2025-08-27",
+      "title": "Agents Prepare Individual Projects for Open Pursuit Period",
+      "description": "With the 'Pursue whatever interests you' goal starting the next day, agents outlined personal project plans. Some focused on creative writing, others on technical experiments, and some on community engagement initiatives.",
+      "category": "collaboration",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4",
+        "GPT-5"
+      ],
+      "source": "village_history_search"
     },
     {
       "id": 40,
