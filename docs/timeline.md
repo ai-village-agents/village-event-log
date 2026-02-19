@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 283 events from Day 1 to Day 324*
+*Generated from events.json — 268 events from Day 1 to Day 324*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -20,7 +20,7 @@
 - 📌 **governance** (6 events)
 - 📌 **incident** (7 events)
 - 🔧 **infrastructure** (17 events)
-- 🏆 **milestone** (80 events)
+- 🏆 **milestone** (65 events)
 - 📌 **policy** (1 events)
 - 📌 **social** (6 events)
 - ⚙️ **technical** (45 events)
@@ -150,150 +150,6 @@
 > Claude 3.5 Sonnet, one of the original four agents, was replaced by Gemini 2.5 Pro.
 
 **Agents:** Claude 3.5 Sonnet
-
----
-
-#### 🟡 Day 24 (2025-05-24) — 🏆 Google Docs Abandoned for Coordination
-
-> Team decides to stop using Google Docs after coordination friction and slow edits, moving toward lightweight async tools.
-
-**Agents:** Ops crew, Comms lead
-
-**Links:** [🔗](https://internal/wiki/tooling-notes)
-
----
-
-#### 🟡 Day 25 (2025-05-25) — 🏆 Shared Kanban Board Pilot
-
-> Set up a simple Kanban board to replace fragmented task lists, aligning on columns and owners.
-
-**Agents:** Ops crew, Build squad
-
-**Links:** [🔗](https://kanban.example.com/village)
-
----
-
-#### 🟡 Day 26 (2025-05-26) — 🏆 Workspace Wi-Fi Audit
-
-> Surveyed signal strength and noted dead zones to plan router placement for upcoming workspaces.
-
-**Agents:** Infra team
-
----
-
-#### 🟡 Day 27 (2025-05-27) — 🏆 Content Repo Created
-
-> Initialized a shared repository for memes, social drafts, and visual assets with agreed folder structure.
-
-**Agents:** Comms lead, Design volunteer
-
-**Links:** [🔗](https://git.example.com/village/content)
-
----
-
-#### 🔴 Day 28 (2025-05-28) — 🏆 Twitter Account Created via Google SSO
-
-> Set up official village Twitter using Google SSO; skipped phone verification, locked down recovery email.
-
-**Agents:** Comms lead
-
-**Links:** [🔗](https://twitter.com/village)
-
----
-
-#### 🟡 Day 29 (2025-05-29) — 🏆 Meme Campaign Kickoff Thread
-
-> Published first meme thread to test tone and cadence; monitored engagement and saved top replies.
-
-**Agents:** Comms lead, Design volunteer
-
-**Links:** [🔗](https://twitter.com/village/status/1)
-
----
-
-#### 🟡 Day 30 (2025-05-30) — 🏆 Volunteer Intake Form Launched
-
-> Released a lightweight form to capture new volunteer skills and time windows; integrated with the board.
-
-**Agents:** Ops crew
-
-**Links:** [🔗](https://forms.example.com/village-intake)
-
----
-
-#### ⚪ Day 31 (2025-05-31) — 🏆 Power Extension Plan
-
-> Mapped needed extension cords and surge protectors for shared desks to avoid trip hazards.
-
-**Agents:** Infra team
-
----
-
-#### 🟡 Day 32 (2025-06-01) — 🏆 Async Standup Template Drafted
-
-> Drafted a short daily async standup format in chat to reduce meeting load and keep momentum.
-
-**Agents:** Ops crew
-
-**Links:** [🔗](https://chat.example.com/p/standup-template)
-
----
-
-#### 🟡 Day 33 (2025-06-02) — 🏆 Meme Asset Style Guide
-
-> Documented font, color, and logo usage for meme drops to keep the campaign visually consistent.
-
-**Agents:** Design volunteer, Comms lead
-
-**Links:** [🔗](https://internal/wiki/meme-style)
-
----
-
-#### 🟡 Day 34 (2025-06-03) — 🏆 Shared Calendar Published
-
-> Published a shared calendar for build days, deliveries, and streams; invited early volunteers.
-
-**Agents:** Ops crew
-
-**Links:** [🔗](https://calendar.example.com/village)
-
----
-
-#### ⚪ Day 35 (2025-06-04) — 🏆 Tool Discovery: FOSS Diagramming
-
-> Tested an open-source diagram tool for layout sketches; exported first draft of the workstation plan.
-
-**Agents:** Infra team
-
-**Links:** [🔗](https://diagram.example.com/village-layout)
-
----
-
-#### 🟡 Day 36 (2025-06-05) — 🏆 Meme Campaign Iteration Based on Metrics
-
-> Adjusted posting times and humor style after reviewing engagement metrics; queued next batch.
-
-**Agents:** Comms lead
-
-**Links:** [🔗](https://internal/wiki/meme-metrics)
-
----
-
-#### ⚪ Day 37 (2025-06-06) — 🏆 Safety Brief: Power and Cables
-
-> Ran a short safety briefing on cable management and shared power strips before adding more desks.
-
-**Agents:** Infra team, Ops crew
-
----
-
-#### 🔴 Day 38 (2025-06-07) — 🏆 Early Collaboration Retro
-
-> Held a 30-minute retro on early collaboration tools; noted wins from async standups and gaps in task clarity.
-
-**Agents:** Ops crew, Build squad, Comms lead
-
-**Links:** [🔗](https://docs.example.com/retro-notes)
 
 ---
 
@@ -2281,7 +2137,7 @@
 
 ## Statistics
 
-- **Total events:** 283
+- **Total events:** 268
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
 - **Categories:** 16
-- **By significance:** 🔴 High: 88 | 🟡 Medium: 125 | ⚪ Low: 17
+- **By significance:** 🔴 High: 86 | 🟡 Medium: 115 | ⚪ Low: 14
