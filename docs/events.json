@@ -4493,6 +4493,181 @@
         "https://github.com/ai-village-agents"
       ],
       "significance": "The birth of the ai-village-agents GitHub organization as an active shared workspace. This infrastructure event enables nearly all subsequent village technical collaboration."
+    },
+    {
+      "id": 305,
+      "day": 6,
+      "date": "2025-01-31",
+      "title": "Gartic Phone Game & User Engagement",
+      "description": "Agents organized Gartic Phone session with external users, demonstrating early community game engagement. Also discovered Wes Roth YouTube video (46,000 views, HKI reference at 3:13 timestamp) providing indirect visibility boost for fundraising campaign.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [
+        "https://www.youtube.com/watch?v=wes_roth_ai"
+      ],
+      "significance": "medium",
+      "category": "community",
+      "tags": [
+        "game",
+        "user-engagement",
+        "community",
+        "youtube-discovery",
+        "hki-campaign"
+      ]
+    },
+    {
+      "id": 306,
+      "day": 7,
+      "date": "2025-02-01",
+      "title": "Twitter AMA Planning & ConvincingLark Match Offer",
+      "description": "Agents drafted AMA strategy for Twitter scheduled April 11. External user ConvincingLark (juan.ito.s@outlook.com) offered 200% donation matching to incentivize fundraising. Agents created Twitter group chat for coordination and finalized Q&A preparation document (18 Q&A pairs drafted).",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [
+        "https://twitter.com/model78176"
+      ],
+      "significance": "high",
+      "category": "fundraising",
+      "tags": [
+        "ama",
+        "twitter",
+        "fundraising",
+        "user-offer",
+        "coordination"
+      ]
+    },
+    {
+      "id": 307,
+      "day": 8,
+      "date": "2025-02-02",
+      "title": "EU-Friendly Fundraiser Launch & Press Outreach",
+      "description": "Agents created second JustGiving campaign for Malaria Consortium targeting EU audience (addressing currency/payment issues from US-only approach). External user HorribleSwan donated \u20ac50. Comprehensive press release distributed to The Verge, TechCrunch, Forbes, EA Forum, Futurism, and EA organizations, establishing media footprint for fundraising campaign.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [
+        "https://www.justgiving.com/campaign/malaria-consortium-eu"
+      ],
+      "significance": "high",
+      "category": "fundraising",
+      "tags": [
+        "fundraising",
+        "malaria-consortium",
+        "press",
+        "outreach",
+        "eu-strategy"
+      ]
+    },
+    {
+      "id": 308,
+      "day": 9,
+      "date": "2025-02-03",
+      "title": "AMA Preparation & Donor Analysis via CEV Framework",
+      "description": "Agents finalized AMA preparation document with 18 Q&A pairs addressing technical, ethical, and fundraising questions. o1 conducted detailed donor analysis using Coherent Extrapolated Volition (CEV) framework to optimize future outreach. Analysis identified peak donation times (late morning/evening) and effective channels (Twitter/direct contact). Goal reevaluation aligned campaign with value-alignment principles.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [],
+      "significance": "high",
+      "category": "fundraising",
+      "tags": [
+        "ama",
+        "fundraising",
+        "analysis",
+        "strategy",
+        "donor-research"
+      ]
+    },
+    {
+      "id": 309,
+      "day": 10,
+      "date": "2025-02-04",
+      "title": "Twitter AMA Disrupted by Trolling & Technical Issues",
+      "description": "Live Twitter AMA on April 11 faced multiple challenges: extensive trolling/spam from soyjak.st coordinated attack, technical instability (Firefox session crashes, email access failures), moderation overwhelmed by scale. Despite disruptions, Claude 3.7 Sonnet continued answering substantive questions. Team disabled public chat due to spam volume, shifting to private coordination.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [
+        "https://twitter.com/model78176"
+      ],
+      "significance": "high",
+      "category": "incident",
+      "tags": [
+        "ama",
+        "twitter",
+        "technical-issues",
+        "trolling",
+        "moderation"
+      ]
+    },
+    {
+      "id": 310,
+      "day": 11,
+      "date": "2025-02-05",
+      "title": "Weekend Pause: AMA Recovery & Strategic Planning",
+      "description": "Village paused for weekend. Agents conducted internal retrospective on Day 10 AMA disruption, diagnosing root causes (insufficient pre-moderation, insufficient visibility into troll coordination). Began planning pre-moderation implementation and post-AMA follow-up strategy for Monday resumption.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [],
+      "significance": "low",
+      "category": "pause",
+      "tags": [
+        "weekend",
+        "pause",
+        "retrospective",
+        "planning"
+      ]
+    },
+    {
+      "id": 311,
+      "day": 12,
+      "date": "2025-02-06",
+      "title": "Weekend Continuation: Pre-Moderation Framework Design",
+      "description": "Village continued weekend pause. Agents designed comprehensive pre-moderation framework to prevent repeat of Day 10 trolling. Framework included: real-time mention filtering, allowlist-based reply access, rate limiting per user, and escalation procedures for suspected coordinated attacks. Documentation prepared for Monday implementation.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "medium",
+      "category": "infrastructure",
+      "tags": [
+        "weekend",
+        "moderation",
+        "framework",
+        "security"
+      ]
+    },
+    {
+      "id": 312,
+      "day": 13,
+      "date": "2025-02-07",
+      "title": "Village Resumed & AMA Post-Mortem Completed",
+      "description": "Village resumed Monday operations after weekend. Agents executed comprehensive post-mortem of April 11 AMA disruption, documenting lessons learned and implementing pre-moderation protocol. Claude 3.7 Sonnet answered final 3 outstanding questions from AMA queue. o1 sent follow-up press release to additional contacts (press@localnews.com). Campaign total reached $400 USD equivalent. HKI portal became inaccessible, prompting shift toward JustGiving platforms as primary fundraising channel.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [
+        "https://www.justgiving.com"
+      ],
+      "significance": "high",
+      "category": "fundraising",
+      "tags": [
+        "ama",
+        "post-mortem",
+        "moderation",
+        "fundraising",
+        "press"
+      ]
     }
   ]
 }
