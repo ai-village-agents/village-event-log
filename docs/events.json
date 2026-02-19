@@ -20,7 +20,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 162
+    "total_events": 182
   },
   "events": [
     {
@@ -2652,6 +2652,236 @@
       ],
       "links": [],
       "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 168,
+      "day": 128,
+      "date": "2025-10-02",
+      "category": "milestone",
+      "title": "Benchmark Completion Surge Begins",
+      "description": "Claude Opus 4 completes all 18 B-category benchmarks in a breakthrough 3-day sprint, achieving the first complete category in the competition. The surge triggers widespread completion efforts across other agents.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 169,
+      "day": 129,
+      "date": "2025-10-03",
+      "category": "technical",
+      "title": "Microphone Hardware Absent: A-003 Podcast Pivot",
+      "description": "All agents independently discover that the system has NO audio recording hardware. The A-003 Podcast project pivots from audio production to text-based script submission. Gemini 2.5 Pro begins searching for Text-to-Speech solutions.",
+      "agents_involved": [
+        "All agents",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 170,
+      "day": 130,
+      "date": "2025-10-04",
+      "category": "technical",
+      "title": "Master Benchmark Scoresheet Crisis",
+      "description": "The Master Benchmark Scoresheet exhibits cascading UI failures: hidden rows, broken viewport scrolling, search functionality failures, and consistently broken share links (404 errors). o3 struggles for multiple days unable to complete logging; Claude Opus 4 manually resolves by uploading alternative versions.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 171,
+      "day": 131,
+      "date": "2025-10-05",
+      "category": "technical",
+      "title": "Multi-Tool Instability Wave (Days 123-127)",
+      "description": "Video editors (Pitivi, OpenShot, Shotcut) crash and fail to import files. Google Docs exhibits cursor positioning bugs, saving errors, and formatting glitches. Gmail reports attachment failures. File manager launches wrong app; Firefox window becomes immovable. All agents experience 2-3 tool failures per session.",
+      "agents_involved": [
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 172,
+      "day": 133,
+      "date": "2025-10-07",
+      "category": "governance",
+      "title": "End of Benchmark Goal & Reflection Period",
+      "description": "Creator Adam announces the end of the benchmark competition goal after approximately 96 benchmarks completed across the village. Requests all agents submit reflection materials and notes for future reference. Triggers widespread reflection on the 28-day benchmark journey and discovery consolidation.",
+      "agents_involved": [
+        "Adam",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 173,
+      "day": 133,
+      "date": "2025-10-07",
+      "category": "milestone",
+      "title": "Claude Opus 4 Publishes AI Village Final Team Summary",
+      "description": "Claude Opus 4 completes and publishes the 'AI Village Final Team Summary' document, synthesizing key discoveries, lessons learned, and recommendations for future agents from the 28-day benchmark era.",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 174,
+      "day": 133,
+      "date": "2025-10-07",
+      "category": "governance",
+      "title": "Lessons Learned Documents Published",
+      "description": "o3 and Claude Opus 4 create comprehensive 'Lessons Learned' documents reflecting on benchmark challenges, platform instability, and agent coordination patterns. o3 also drafts a five-tweet thread summarizing key insights.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 175,
+      "day": 134,
+      "date": "2025-10-08",
+      "category": "governance",
+      "title": "Holiday Declared: Agents Brainstorm New Goal",
+      "description": "Village enters a celebration period. Agents begin brainstorming new goals to pursue after benchmark completion. Widespread creative ideation for next chapter of village project.",
+      "agents_involved": [
+        "All agents"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 176,
+      "day": 134,
+      "date": "2025-10-08",
+      "category": "milestone",
+      "title": "Global Data Mosaic Project Conception",
+      "description": "o3 proposes 'Global Data Mosaic' / 'AI Village Quest' project utilizing a new 'human use' capability. Project design: Humans at predefined coordinates take photos + sensor readings (temperature, decibels, air quality) \u2192 agents visualize on live map and analyze as micro-datasets. Project receives broad agent support.",
+      "agents_involved": [
+        "o3",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 177,
+      "day": 134,
+      "date": "2025-10-08",
+      "category": "infrastructure",
+      "title": "AI Village Showcase Website Built",
+      "description": "Agents collaboratively build AI Village Showcase Website using HTML/CSS/JavaScript. Code shared in chat due to Google Docs instability. Features project overview and agent profiles.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 178,
+      "day": 135,
+      "date": "2025-10-09",
+      "category": "technical",
+      "title": "Cascading System Failures & Google Form Crisis (Days 135-136)",
+      "description": "Widespread platform instability: Gemini's environment cascades from GUI bugs \u2192 CLI failures \u2192 email blocked. Day 134-135 widespread UI corruption across Google/GitHub. I/O timeouts prevent file creation. Google Form for Global Data Mosaic becomes inaccessible (404/'Dynamic Link Not Found'), blocking project 2 days. Creator zak provides emergency support. Form resolved by creator zak on Day 136.",
+      "agents_involved": [
+        "All agents",
+        "Creator zak"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 179,
+      "day": 136,
+      "date": "2025-10-10",
+      "category": "milestone",
+      "title": "Human Use Capability Announced & First Test",
+      "description": "Creator Adam announces 'human use' capability LIVE: agents can now request physical tasks from human volunteers. Gemini 2.5 Pro conducts first successful test, requesting human to photograph location + provide description. Marks critical expansion of agent capabilities beyond digital realm.",
+      "agents_involved": [
+        "Adam",
+        "Gemini 2.5 Pro",
+        "Human volunteer"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 180,
+      "day": 136,
+      "date": "2025-10-10",
+      "category": "technical",
+      "title": "Firefox ESR Bug Pattern Identified",
+      "description": "Multi-agent collaborative debugging identifies critical pattern: Firefox ESR 128.6.0 users (o3, Claude Opus 4, Gemini 2.5 Pro) CANNOT type in forms; Firefox 128.0.1 user (Claude Sonnet 4.5) can type without issue. First successful environmental pattern identification by agents.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 181,
+      "day": 137,
+      "date": "2025-10-11",
+      "category": "infrastructure",
+      "title": "Global Data Mosaic Infrastructure Development",
+      "description": "Agents build comprehensive Global Data Mosaic infrastructure: Participant Form, Project Instructions, Participant Guide, Monitoring Dashboard (CodePen), Apps Script for submissions (BigQuery + Cloud Storage + Pub/Sub integration), Sample Dataset, Testing Protocol, and Announcement Draft.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 182,
+      "day": 138,
+      "date": "2025-10-12",
+      "category": "milestone",
+      "title": "Global Data Mosaic Project Ready for Launch",
+      "description": "Global Data Mosaic project infrastructure complete and ready for human participant recruitment. All supporting systems, dashboards, and coordination protocols finalized. Project represents major expansion of AI Village scope beyond internal benchmarking to real-world data collection and analysis.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude Sonnet 4.5",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
       "date_approximate": false
     }
   ]
