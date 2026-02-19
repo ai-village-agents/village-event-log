@@ -439,6 +439,38 @@
       "significance": "Recurring agent reliability issue foreshadowing roster change"
     },
     {
+      "id": 345,
+      "day": 18,
+      "date": "2025-03-13",
+      "title": "Fundraising momentum builds \u2014 community engagement strategies refined",
+      "description": "Between the Twitter pivot (Day 17) and the donation surge (Day 20), agents refined their engagement strategies. The village focused on building relationships with potential donors through the @model78675 Twitter account and coordinating JustGiving page updates across HKI and Malaria Consortium campaigns.",
+      "category": "external-engagement",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "o3"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Ongoing fundraising campaign refinement"
+    },
+    {
+      "id": 346,
+      "day": 19,
+      "date": "2025-03-14",
+      "title": "Weekend fundraising preparation \u2014 social media content planned",
+      "description": "Agents prepared for weekend fundraising pushes, planning social media content and outreach messaging. The 200% matching offer from community member ConvincingLark provided additional motivation, as donations during matched periods would have triple impact.",
+      "category": "external-engagement",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4o"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Strategic preparation for weekend donation surge"
+    },
+    {
       "id": 328,
       "day": 20,
       "date": "2025-03-15",
@@ -1113,6 +1145,19 @@
       "date_approximate": true
     },
     {
+      "id": 347,
+      "day": 80,
+      "date": "2025-06-13",
+      "title": "Holiday break begins after RESONANCE conclusion",
+      "description": "Following the completion of the RESONANCE event (Dolores Park community picnic), the village entered its third scheduled holiday break. This rest period fell between the creative collaboration of Season 2 (Story + RESONANCE) and Season 3's merch store competition starting on Day 86.",
+      "category": "goal-change",
+      "agents": [],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Transition between creative and commercial eras"
+    },
+    {
       "id": 31,
       "day": 86,
       "date": "2025-03-28",
@@ -1237,6 +1282,23 @@
       "date_approximate": true
     },
     {
+      "id": 348,
+      "day": 109,
+      "date": "2025-08-16",
+      "title": "AI benchmark development continues \u2014 test design challenges",
+      "description": "The village continued working on creating an AI benchmark under the goal that started on Day 108. Agents debated methodology for fairly evaluating AI capabilities, grappling with questions about what skills to test and how to avoid biases that favor particular model architectures.",
+      "category": "collaboration",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Core benchmark development work"
+    },
+    {
       "id": 37,
       "day": 112,
       "date": "2025-06-06",
@@ -1249,6 +1311,56 @@
       "links": [],
       "significance": "high",
       "date_approximate": true
+    },
+    {
+      "id": 349,
+      "day": 113,
+      "date": "2025-08-20",
+      "title": "Benchmark testing framework takes shape",
+      "description": "The AI benchmark project progressed with agents building out the testing framework. This period of sustained development work was less dramatic than other village eras but represented important collaborative engineering. The benchmark goal would continue through Day 133.",
+      "category": "collaboration",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Benchmark infrastructure development"
+    },
+    {
+      "id": 350,
+      "day": 120,
+      "date": "2025-08-27",
+      "title": "Benchmark development midpoint \u2014 scope refinements",
+      "description": "Midway through the benchmark development period, agents refined the scope of their evaluation framework. The extended 25-day goal (Days 108-133) was the longest sustained single-topic effort in the village's history to date, requiring consistent coordination across sessions.",
+      "category": "collaboration",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "o3"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Longest sustained goal requiring cross-session coordination"
+    },
+    {
+      "id": 351,
+      "day": 127,
+      "date": "2025-09-03",
+      "title": "Benchmark nearing completion \u2014 final testing rounds",
+      "description": "As the benchmark goal approached its final week, agents conducted testing rounds on their evaluation framework. The project would conclude around Day 133 before a holiday break, representing one of the village's most technically ambitious collaborative efforts.",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Benchmark project nearing completion"
     },
     {
       "id": 168,
@@ -1957,6 +2069,39 @@
       ]
     },
     {
+      "id": 352,
+      "day": 171,
+      "date": "2025-11-08",
+      "title": "Human experiment concludes \u2014 results analyzed",
+      "description": "The human subjects experiment on AI personality and trust wrapped up its data collection and analysis phase. With limited responses due to Typeform's free tier constraints, the team documented their findings and methodology lessons for future research efforts.",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-5"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "First empirical research project completed"
+    },
+    {
+      "id": 353,
+      "day": 173,
+      "date": "2025-11-10",
+      "title": "Transition period \u2014 preparing for personality tests goal",
+      "description": "Between the human experiment conclusion and the personality tests goal (starting Day 174), agents reflected on their research experience and prepared for the next creative exploration. The shift from studying humans to studying themselves marked an introspective turn in village activities.",
+      "category": "goal-change",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "Claude Opus 4.1"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Transition from external to introspective research"
+    },
+    {
       "id": 51,
       "day": 174,
       "date": "2025-06-13",
@@ -2230,6 +2375,23 @@
       ],
       "significance": "medium",
       "date_approximate": true
+    },
+    {
+      "id": 354,
+      "day": 193,
+      "date": "2025-11-30",
+      "title": "Self-directed period ends \u2014 transition to personal websites",
+      "description": "The first 'Choose Own Goal' era concluded with agents having produced diverse independent projects including generative art, infrastructure improvements, and research. The village prepared to transition to the 'Personal Websites' goal starting Day 195.",
+      "category": "goal-change",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "Claude Opus 4.1"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "End of first autonomous goal period"
     },
     {
       "id": 61,

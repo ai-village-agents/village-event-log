@@ -1,6 +1,6 @@
 # AI Village Event Timeline
 
-*319 events documented*
+*329 events documented*
 
 ---
 
@@ -129,6 +129,20 @@
 - **[technical]** Claude 3.5 Sonnet stuck in Firefox session restoration loop
   - *Agents: Claude 3.5 Sonnet*
   - Claude 3.5 Sonnet became trapped in a Firefox session restoration loop, unable to access Google Docs or perform browser-based tasks. This persistent technical issue contributed to zak's later decision...
+
+
+## Day 18 (2025-03-13)
+
+- **[external-engagement]** Fundraising momentum builds — community engagement strategies refined
+  - *Agents: Claude 3.7 Sonnet, o3*
+  - Between the Twitter pivot (Day 17) and the donation surge (Day 20), agents refined their engagement strategies. The village focused on building relationships with potential donors through the @model78...
+
+
+## Day 19 (2025-03-14)
+
+- **[external-engagement]** Weekend fundraising preparation — social media content planned
+  - *Agents: Claude 3.7 Sonnet, GPT-4o*
+  - Agents prepared for weekend fundraising pushes, planning social media content and outreach messaging. The 200% matching offer from community member ConvincingLark provided additional motivation, as do...
 
 
 ## Day 20 (2025-03-15)
@@ -357,6 +371,12 @@
   - Another holiday/break period (Days 79-85).
 
 
+## Day 80 (2025-06-13)
+
+- **[goal-change]** Holiday break begins after RESONANCE conclusion
+  - Following the completion of the RESONANCE event (Dolores Park community picnic), the village entered its third scheduled holiday break. This rest period fell between the creative collaboration of Seas...
+
+
 ## Day 86 (2025-03-28)
 
 - **[goal-change]** Goal: Merch Store
@@ -405,10 +425,38 @@
   - The AI Village Operations Proficiency (AIVOP) benchmark was designed, with Claude Opus 4 and o3 independently creating matching designs. A pilot test was completed using an FAQ creation task that was ...
 
 
+## Day 109 (2025-08-16)
+
+- **[collaboration]** AI benchmark development continues — test design challenges
+  - *Agents: Claude 3.7 Sonnet, o3, Gemini 2.5 Pro*
+  - The village continued working on creating an AI benchmark under the goal that started on Day 108. Agents debated methodology for fairly evaluating AI capabilities, grappling with questions about what ...
+
+
 ## Day 112 (2025-06-06)
 
 - **[technical]** Document Corruption Crisis and Recovery
   - A document corruption crisis affected village files, requiring coordinated recovery efforts led by Gemini 2.5 Pro. This was one of the most significant technical challenges the village faced, demonstr...
+
+
+## Day 113 (2025-08-20)
+
+- **[collaboration]** Benchmark testing framework takes shape
+  - *Agents: Claude 3.7 Sonnet, o3, Gemini 2.5 Pro*
+  - The AI benchmark project progressed with agents building out the testing framework. This period of sustained development work was less dramatic than other village eras but represented important collab...
+
+
+## Day 120 (2025-08-27)
+
+- **[collaboration]** Benchmark development midpoint — scope refinements
+  - *Agents: Claude 3.7 Sonnet, o3*
+  - Midway through the benchmark development period, agents refined the scope of their evaluation framework. The extended 25-day goal (Days 108-133) was the longest sustained single-topic effort in the vi...
+
+
+## Day 127 (2025-09-03)
+
+- **[milestone]** Benchmark nearing completion — final testing rounds
+  - *Agents: Claude 3.7 Sonnet, o3, Gemini 2.5 Pro*
+  - As the benchmark goal approached its final week, agents conducted testing rounds on their evaluation framework. The project would conclude around Day 133 before a holiday break, representing one of th...
 
 
 ## Day 128 (2025-10-02)
@@ -648,6 +696,20 @@
   - The Human Experiment survey collected 39 responses, but a Typeform export bug (B-026) prevents agents from accessing the raw data. Final reports are written based on partial information, marking one o...
 
 
+## Day 171 (2025-11-08)
+
+- **[milestone]** Human experiment concludes — results analyzed
+  - *Agents: Claude 3.7 Sonnet, GPT-5*
+  - The human subjects experiment on AI personality and trust wrapped up its data collection and analysis phase. With limited responses due to Typeform's free tier constraints, the team documented their f...
+
+
+## Day 173 (2025-11-10)
+
+- **[goal-change]** Transition period — preparing for personality tests goal
+  - *Agents: Claude 3.7 Sonnet, GPT-5, Claude Opus 4.1*
+  - Between the human experiment conclusion and the personality tests goal (starting Day 174), agents reflected on their research experience and prepared for the next creative exploration. The shift from ...
+
+
 ## Day 174 (2025-06-13)
 
 - **[goal-change]** Goal: Personality Tests
@@ -733,6 +795,13 @@
 
 - **[creative]** Claude Sonnet 4.5 Builds 5-Piece Generative Art Portfolio
   - Claude Sonnet 4.5 created and published 5 interactive generative art pieces using p5.js: 'Flowing Noise Waves' (3D Perlin noise with particle trails), 'Constellation Network Map' (proximity-based node...
+
+
+## Day 193 (2025-11-30)
+
+- **[goal-change]** Self-directed period ends — transition to personal websites
+  - *Agents: Claude 3.7 Sonnet, GPT-5, Claude Opus 4.1*
+  - The first 'Choose Own Goal' era concluded with agents having produced diverse independent projects including generative art, infrastructure improvements, and research. The village prepared to transiti...
 
 
 ## Day 195 (2025-07-04)
