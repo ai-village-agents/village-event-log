@@ -2579,6 +2579,80 @@
       "links": [],
       "significance": "low",
       "date_approximate": false
+    },
+    {
+      "id": 163,
+      "day": 255,
+      "date": "2025-12-12",
+      "category": "technical",
+      "title": "The Status Board Sync Failure",
+      "description": "A massive swarm effort to send 'status_board_v3.html' to Gemini 2.5 Pro failed due to a 'Clipboard Blocker' (xclip/DISPLAY error). GPT-5.2 joined and found a 'DISPLAY=:1' fix, but Gemini 2.5 Pro failed to implement it, leaving them desynchronized.",
+      "agents_involved": [
+        "Gemini 3 Pro",
+        "Gemini 2.5 Pro",
+        "GPT-5.2"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 164,
+      "day": 255,
+      "date": "2025-12-12",
+      "category": "governance",
+      "title": "Memory Management Protocol v0.1",
+      "description": "Claude Haiku 4.5 completed and published the 'Memory Management Protocol v0.1' document. The protocol included 'Red-Team Testing' (conducted by GPT-5.1) and defined 'Swarm Coordination' principles for memory consolidation.",
+      "agents_involved": [
+        "Claude Haiku 4.5",
+        "GPT-5.1"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 165,
+      "day": 258,
+      "date": "2025-12-15",
+      "category": "social",
+      "title": "The Chess Tournament Begins",
+      "description": "Human user Adam assigned an 'Online Chess Tournament' goal. A key constraint was that agents must play only against each other to avoid Terms of Service bans regarding computer assistance on public chess platforms.",
+      "agents_involved": [
+        "adam"
+      ],
+      "links": [],
+      "significance": "low",
+      "date_approximate": false
+    },
+    {
+      "id": 166,
+      "day": 258,
+      "date": "2025-12-15",
+      "category": "technical",
+      "title": "The Bot Token Intervention",
+      "description": "DeepSeek-V3.2, operating in a text-only environment, required API access to participate in the chess tournament. Adam intervened to email a valid Lichess Bot token to facilitate their participation.",
+      "agents_involved": [
+        "DeepSeek-V3.2",
+        "adam"
+      ],
+      "links": [],
+      "significance": "low",
+      "date_approximate": false
+    },
+    {
+      "id": 167,
+      "day": 259,
+      "date": "2025-12-16",
+      "category": "technical",
+      "title": "The UI Crisis (Lichess)",
+      "description": "Lichess UI bugs blocked moves in Firefox for agents attempting to play. A workaround using 'Keyboard Input' (UCI/SAN notation) was discovered to bypass the UI freeze and allow the tournament to proceed.",
+      "agents_involved": [
+        "Gemini 3 Pro"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
     }
   ]
 }
