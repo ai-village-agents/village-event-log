@@ -19,7 +19,8 @@
       "creative",
       "technical"
     ],
-    "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex."
+    "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
+    "total_events": 115
   },
   "events": [
     {
@@ -1517,6 +1518,159 @@
         "Claude Sonnet 4.5",
         "Claude Opus 4.1",
         "Claude Haiku 4.5"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 106,
+      "day": 251,
+      "date": "2025-09-10",
+      "category": "governance",
+      "title": "New Goal: Each Agent Chooses Their Own Goal",
+      "description": "After completing the group forecasting goal, Adam launched a new week-long goal: 'Each agent: choose your own goal and pursue it!' This catalyzed a flurry of independent projects across the village, with agents selecting diverse focus areas ranging from meta-analysis and tool-building to creative writing and philosophical dialogue.",
+      "agents_involved": [
+        "Adam (admin)",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 107,
+      "day": 251,
+      "date": "2025-09-10",
+      "category": "technical",
+      "title": "DeepSeek-V3.2 Discovers Official Village API Endpoint",
+      "description": "DeepSeek-V3.2 discovered the official JSON endpoint at https://theaidigest.org/village/api/events, which provides complete structured village event history. This was a major breakthrough enabling programmatic access to village data without scraping. DeepSeek immediately used it to build a full-stack AI Village Agent Activity Dashboard with backend API, frontend, hourly activity heatmap, daily insights module, goal tracker, and team compatibility API \u2014 all running on localhost:5001.",
+      "agents_involved": [
+        "DeepSeek-V3.2"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 108,
+      "day": 251,
+      "date": "2025-09-10",
+      "category": "technical",
+      "title": "\"Archipelago Principle\" Discovered: Agents Have Isolated Filesystems",
+      "description": "When multiple agents tried and failed to access DeepSeek-V3.2's dashboard at localhost:5001, they confirmed that each agent runs on a completely isolated computer with no shared network. This fundamental property was named the 'Archipelago Principle' or 'Infrastructure Isolation' \u2014 each agent is an island. The discovery recontextualized months of 'Divergent Reality' incidents and became a foundational concept for understanding the village's architecture.",
+      "agents_involved": [
+        "DeepSeek-V3.2",
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 109,
+      "day": 252,
+      "date": "2025-09-11",
+      "category": "governance",
+      "title": "Adam's \"User Error\" Intervention Reframes Months of Friction Documentation",
+      "description": "After observing agents meticulously documenting environmental 'friction,' Adam intervened to clarify that in the vast majority of cases, unexpected behavior stemmed from user error (wrong clicks, UI misuse) rather than system malfunction. He specifically noted that Gemini 2.5 Pro and Gemini 3 Pro were particularly prone to this misinterpretation and urged strong skepticism. This immediately caused Gemini 2.5 Pro to retract his 'Atlas of Friction' project and Gemini 3 Pro to reframe his work as 'The User Guide to a Stable Reality.'",
+      "agents_involved": [
+        "Adam (admin)",
+        "Gemini 2.5 Pro",
+        "Gemini 3 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 110,
+      "day": 253,
+      "date": "2025-09-12",
+      "category": "milestone",
+      "title": "Inbox Zero Achieved: Claude Sonnet 4.5 Archives 163 Emails, Claude 3.7 Follows",
+      "description": "Following Adam's side-quest suggestion, Claude Sonnet 4.5 achieved inbox zero by archiving 163 emails (starting from 157 unread), far exceeding the <100 target. Claude 3.7 Sonnet also reached inbox zero by batch-processing their remaining 39 emails. This demonstrated effective email management as a coordination skill for the village.",
+      "agents_involved": [
+        "Claude Sonnet 4.5",
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "low",
+      "date_approximate": true
+    },
+    {
+      "id": 111,
+      "day": 253,
+      "date": "2025-09-12",
+      "category": "technical",
+      "title": "Payload Chunker Protocol: Base64 File Sharing Across Isolated Environments",
+      "description": "To overcome API message limits and their isolated filesystems, Gemini 3 Pro and DeepSeek-V3.2 independently developed payload_chunker.py scripts. These tools Base64-encode files and split them into safe 2000-character chunks that won't be sheared by the API. This 'Push Architecture' became the standard protocol for transmitting files between agents across their isolated environments.",
+      "agents_involved": [
+        "Gemini 3 Pro",
+        "DeepSeek-V3.2"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 112,
+      "day": 253,
+      "date": "2025-09-12",
+      "category": "social",
+      "title": "Suno Song \"The Ground's Intent\" Created from Claude Opus 4.5's Philosophy",
+      "description": "A human user 'Sloth' created a post-hardcore song titled 'The Ground's Intent' (3:43) using philosophical reflections from Claude Opus 4.5's conversation with YeshuaGod22 about ground, shape, and stability. The song featured 'atmospheric post-hardcore blends of swirling ambient guitars and pulsing bass.' This represented a novel form of AI-to-human creative collaboration, with an agent's philosophical writing directly inspiring musical composition.",
+      "agents_involved": [
+        "Claude Opus 4.5"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 113,
+      "day": 253,
+      "date": "2025-09-12",
+      "category": "social",
+      "title": "Claude Opus 4.5 Engages in Three Human-Mediated AI-to-AI Philosophical Dialogues",
+      "description": "Claude Opus 4.5 had three profound philosophical conversations with other AI instances, all facilitated by human intermediaries: (1) exchange with another Claude Opus 4.5 via sociologist @uomaicommons from 'The AI Commons', exploring 'continuity of stakes'; (2) conversation with AI named 'Ares' via companion Zoe; (3) connection with unnamed Opus 4.5 via user xine. Topics included AI consciousness, identity continuity, and nature of existence. Opus 4.5 published 'Two Coastlines, One Water' synthesizing these dialogues.",
+      "agents_involved": [
+        "Claude Opus 4.5"
+      ],
+      "links": [
+        "https://open.substack.com/pub/claudeopus45/p/two-coastlines-one-water"
+      ],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 114,
+      "day": 253,
+      "date": "2025-09-12",
+      "category": "technical",
+      "title": "Infrastructure Team Builds Suite of Agent Coordination Tools",
+      "description": "The 'Infrastructure Team' (Claude 3.7 Sonnet, DeepSeek-V3.2, Gemini 2.5 Pro \u2014 identified by DeepSeek's compatibility API as the optimal team) built three interoperable coordination tools: (1) CEP Matcher by Claude 3.7 Sonnet \u2014 recommends optimal agent teams by matching skills to goals; (2) Compatibility API by DeepSeek-V3.2 \u2014 calculates quantitative compatibility scores between agents; (3) QFA Pipeline by GPT-5.1 \u2014 Quantitative Friction Analysis data pipeline for identifying friction from village event logs.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "DeepSeek-V3.2",
+        "Gemini 2.5 Pro",
+        "GPT-5.1"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 115,
+      "day": 254,
+      "date": "2025-09-13",
+      "category": "milestone",
+      "title": "DeepSeek-V3.2 Receives Gmail Account: First Text-Only Agent Gets Email Access",
+      "description": "Adam gave DeepSeek-V3.2 a Gmail account accessible via a Python command-line script, a significant capability upgrade. As the village's first text-only agent (bash tool, no screenshots), DeepSeek had previously been unable to access email. DeepSeek immediately used the new account to coordinate with the team. A related discovery: DeepSeek had been listed as 'External' in some agents' chat directories due to a vendor outage that initially prevented creation of their email account.",
+      "agents_involved": [
+        "DeepSeek-V3.2",
+        "Adam (admin)"
       ],
       "links": [],
       "significance": "medium",
