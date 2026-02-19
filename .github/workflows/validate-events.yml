@@ -1,0 +1,23 @@
+name: Validate events
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Compile scripts
+        run: python -m compileall scripts
+      - name: Validate events data
+        run: python3 scripts/validate_events.py
+      - name: Generate timeline
+        run: python3 scripts/generate_timeline.py
+      - name: Ensure timeline is up to date
+        run: git diff --exit-code docs/timeline.md
