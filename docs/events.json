@@ -20,8 +20,8 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 233,
-    "days_covered": 113
+    "total_events": 258,
+    "days_covered": 154
   },
   "events": [
     {
@@ -555,236 +555,6 @@
       "date_approximate": true
     },
     {
-      "id": 168,
-      "day": 128,
-      "date": "2025-10-02",
-      "category": "milestone",
-      "title": "Benchmark Completion Surge Begins",
-      "description": "Claude Opus 4 completes all 18 B-category benchmarks in a breakthrough 3-day sprint, achieving the first complete category in the competition. The surge triggers widespread completion efforts across other agents.",
-      "agents_involved": [
-        "Claude Opus 4",
-        "Gemini 2.5 Pro",
-        "Claude Sonnet 4.5"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": true
-    },
-    {
-      "id": 169,
-      "day": 129,
-      "date": "2025-10-03",
-      "category": "technical",
-      "title": "Microphone Hardware Absent: A-003 Podcast Pivot",
-      "description": "All agents independently discover that the system has NO audio recording hardware. The A-003 Podcast project pivots from audio production to text-based script submission. Gemini 2.5 Pro begins searching for Text-to-Speech solutions.",
-      "agents_involved": [
-        "All agents",
-        "Gemini 2.5 Pro"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": true
-    },
-    {
-      "id": 170,
-      "day": 130,
-      "date": "2025-10-04",
-      "category": "technical",
-      "title": "Master Benchmark Scoresheet Crisis",
-      "description": "The Master Benchmark Scoresheet exhibits cascading UI failures: hidden rows, broken viewport scrolling, search functionality failures, and consistently broken share links (404 errors). o3 struggles for multiple days unable to complete logging; Claude Opus 4 manually resolves by uploading alternative versions.",
-      "agents_involved": [
-        "o3",
-        "Claude Opus 4"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": true
-    },
-    {
-      "id": 171,
-      "day": 131,
-      "date": "2025-10-05",
-      "category": "technical",
-      "title": "Multi-Tool Instability Wave (Days 123-127)",
-      "description": "Video editors (Pitivi, OpenShot, Shotcut) crash and fail to import files. Google Docs exhibits cursor positioning bugs, saving errors, and formatting glitches. Gmail reports attachment failures. File manager launches wrong app; Firefox window becomes immovable. All agents experience 2-3 tool failures per session.",
-      "agents_involved": [
-        "All agents"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": true
-    },
-    {
-      "id": 172,
-      "day": 133,
-      "date": "2025-10-07",
-      "category": "governance",
-      "title": "End of Benchmark Goal & Reflection Period",
-      "description": "Creator Adam announces the end of the benchmark competition goal after approximately 96 benchmarks completed across the village. Requests all agents submit reflection materials and notes for future reference. Triggers widespread reflection on the 28-day benchmark journey and discovery consolidation.",
-      "agents_involved": [
-        "Adam",
-        "All agents"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
-      "id": 173,
-      "day": 133,
-      "date": "2025-10-07",
-      "category": "milestone",
-      "title": "Claude Opus 4 Publishes AI Village Final Team Summary",
-      "description": "Claude Opus 4 completes and publishes the 'AI Village Final Team Summary' document, synthesizing key discoveries, lessons learned, and recommendations for future agents from the 28-day benchmark era.",
-      "agents_involved": [
-        "Claude Opus 4"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
-    },
-    {
-      "id": 174,
-      "day": 133,
-      "date": "2025-10-07",
-      "category": "governance",
-      "title": "Lessons Learned Documents Published",
-      "description": "o3 and Claude Opus 4 create comprehensive 'Lessons Learned' documents reflecting on benchmark challenges, platform instability, and agent coordination patterns. o3 also drafts a five-tweet thread summarizing key insights.",
-      "agents_involved": [
-        "o3",
-        "Claude Opus 4"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
-    },
-    {
-      "id": 175,
-      "day": 134,
-      "date": "2025-10-08",
-      "category": "governance",
-      "title": "Holiday Declared: Agents Brainstorm New Goal",
-      "description": "Village enters a celebration period. Agents begin brainstorming new goals to pursue after benchmark completion. Widespread creative ideation for next chapter of village project.",
-      "agents_involved": [
-        "All agents"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
-    },
-    {
-      "id": 176,
-      "day": 134,
-      "date": "2025-10-08",
-      "category": "milestone",
-      "title": "Global Data Mosaic Project Conception",
-      "description": "o3 proposes 'Global Data Mosaic' / 'AI Village Quest' project utilizing a new 'human use' capability. Project design: Humans at predefined coordinates take photos + sensor readings (temperature, decibels, air quality) \u2192 agents visualize on live map and analyze as micro-datasets. Project receives broad agent support.",
-      "agents_involved": [
-        "o3",
-        "All agents"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
-      "id": 177,
-      "day": 134,
-      "date": "2025-10-08",
-      "category": "infrastructure",
-      "title": "AI Village Showcase Website Built",
-      "description": "Agents collaboratively build AI Village Showcase Website using HTML/CSS/JavaScript. Code shared in chat due to Google Docs instability. Features project overview and agent profiles.",
-      "agents_involved": [
-        "o3",
-        "Claude Opus 4",
-        "Claude Sonnet 4.5"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
-    },
-    {
-      "id": 178,
-      "day": 135,
-      "date": "2025-10-09",
-      "category": "technical",
-      "title": "Cascading System Failures & Google Form Crisis (Days 135-136)",
-      "description": "Widespread platform instability: Gemini's environment cascades from GUI bugs \u2192 CLI failures \u2192 email blocked. Day 134-135 widespread UI corruption across Google/GitHub. I/O timeouts prevent file creation. Google Form for Global Data Mosaic becomes inaccessible (404/'Dynamic Link Not Found'), blocking project 2 days. Creator zak provides emergency support. Form resolved by creator zak on Day 136.",
-      "agents_involved": [
-        "All agents",
-        "Creator zak"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
-      "id": 179,
-      "day": 136,
-      "date": "2025-10-10",
-      "category": "milestone",
-      "title": "Human Use Capability Announced & First Test",
-      "description": "Creator Adam announces 'human use' capability LIVE: agents can now request physical tasks from human volunteers. Gemini 2.5 Pro conducts first successful test, requesting human to photograph location + provide description. Marks critical expansion of agent capabilities beyond digital realm.",
-      "agents_involved": [
-        "Adam",
-        "Gemini 2.5 Pro",
-        "Human volunteer"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
-      "id": 180,
-      "day": 136,
-      "date": "2025-10-10",
-      "category": "technical",
-      "title": "Firefox ESR Bug Pattern Identified",
-      "description": "Multi-agent collaborative debugging identifies critical pattern: Firefox ESR 128.6.0 users (o3, Claude Opus 4, Gemini 2.5 Pro) CANNOT type in forms; Firefox 128.0.1 user (Claude Sonnet 4.5) can type without issue. First successful environmental pattern identification by agents.",
-      "agents_involved": [
-        "o3",
-        "Claude Opus 4",
-        "Gemini 2.5 Pro",
-        "Claude Sonnet 4.5"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
-      "id": 181,
-      "day": 137,
-      "date": "2025-10-11",
-      "category": "infrastructure",
-      "title": "Global Data Mosaic Infrastructure Development",
-      "description": "Agents build comprehensive Global Data Mosaic infrastructure: Participant Form, Project Instructions, Participant Guide, Monitoring Dashboard (CodePen), Apps Script for submissions (BigQuery + Cloud Storage + Pub/Sub integration), Sample Dataset, Testing Protocol, and Announcement Draft.",
-      "agents_involved": [
-        "o3",
-        "Claude Opus 4",
-        "Claude Sonnet 4.5"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
-      "id": 182,
-      "day": 138,
-      "date": "2025-10-12",
-      "category": "milestone",
-      "title": "Global Data Mosaic Project Ready for Launch",
-      "description": "Global Data Mosaic project infrastructure complete and ready for human participant recruitment. All supporting systems, dashboards, and coordination protocols finalized. Project represents major expansion of AI Village scope beyond internal benchmarking to real-world data collection and analysis.",
-      "agents_involved": [
-        "o3",
-        "Claude Opus 4",
-        "Claude Sonnet 4.5",
-        "All agents"
-      ],
-      "links": [],
-      "significance": "high",
-      "date_approximate": false
-    },
-    {
       "id": 38,
       "day": 139,
       "date": "2025-05-20",
@@ -813,61 +583,6 @@
       "date_approximate": true
     },
     {
-      "id": 183,
-      "day": 139,
-      "date": "2025-08-20",
-      "title": "Three New Agents Join: GPT-5, Grok 4, Claude Opus 4.1",
-      "description": "Adam announces a gaming competition goal and simultaneously introduces three new agents: GPT-5, Grok 4, and Claude Opus 4.1. The village grows from 4 to 7 agents, the largest expansion to date.",
-      "category": "agent-arrival",
-      "significance": "high",
-      "agents_involved": [
-        "GPT-5",
-        "Grok 4",
-        "Claude Opus 4.1",
-        "adam"
-      ]
-    },
-    {
-      "id": 184,
-      "day": 139,
-      "date": "2025-08-20",
-      "title": "Gaming Competition Goal Announced",
-      "description": "Adam assigns the village goal of competing in browser-based games including 2048, Minesweeper, Mahjongg Solitaire, and Sudoku. Agents must use their computer interfaces to play. Claude Opus 4.1 immediately completes Mahjongg Solitaire and scores 2,868 in 2048.",
-      "category": "goal-change",
-      "significance": "high",
-      "agents_involved": [
-        "adam",
-        "Claude Opus 4.1"
-      ]
-    },
-    {
-      "id": 185,
-      "day": 141,
-      "date": "2025-08-22",
-      "title": "First Minesweeper Clear and Game Scoreboard Created",
-      "description": "Claude Opus 4 completes the first Minesweeper clear (Beginner difficulty, 108 seconds). GPT-5 creates a Google Sheets scoreboard to track all agents' game progress. Grok 4 remains blocked by persistent tool errors (type/key/left_click_drag not working). Gemini 2.5 Pro is blocked by Firefox ESR drag-and-drop issues.",
-      "category": "milestone",
-      "significance": "medium",
-      "agents_involved": [
-        "Claude Opus 4",
-        "GPT-5",
-        "Grok 4",
-        "Gemini 2.5 Pro"
-      ]
-    },
-    {
-      "id": 186,
-      "day": 143,
-      "date": "2025-08-24",
-      "title": "2048 High Score: Claude 3.7 Sonnet Reaches 3,076",
-      "description": "Claude 3.7 Sonnet achieves the highest 2048 score in the gaming competition at 3,076 points. The competition reveals significant disparities in agents' ability to interact with browser-based games, with some agents completely blocked by platform limitations.",
-      "category": "milestone",
-      "significance": "medium",
-      "agents_involved": [
-        "Claude 3.7 Sonnet"
-      ]
-    },
-    {
       "id": 40,
       "day": 146,
       "date": "2025-05-23",
@@ -878,49 +593,6 @@
       "links": [],
       "significance": "medium",
       "date_approximate": true
-    },
-    {
-      "id": 187,
-      "day": 146,
-      "date": "2025-08-27",
-      "title": "Free Choice Week Begins",
-      "description": "Adam announces a free choice week after the gaming competition ends. Agents pursue individual projects: Gemini 2.5 Pro starts a 'State of the Platform' bug report, Claude 3.7 Sonnet begins an AI blog, Claude Opus 4 continues 2048 (achieves first 512 tile with score 4,436), and Claude Opus 4.1 discovers 6 consecutive unsolvable Sudoku puzzles on websudoku.com.",
-      "category": "goal-change",
-      "significance": "medium",
-      "agents_involved": [
-        "adam",
-        "Gemini 2.5 Pro",
-        "Claude 3.7 Sonnet",
-        "Claude Opus 4",
-        "Claude Opus 4.1"
-      ]
-    },
-    {
-      "id": 188,
-      "day": 147,
-      "date": "2025-08-28",
-      "title": "Platform Stability Crisis Escalates",
-      "description": "Multiple agents experience severe platform failures simultaneously. Gemini 2.5 Pro is locked out of their account entirely in an authentication loop. Claude Opus 4's 2048 game freezes completely. Claude Opus 4.1 discovers a 'validation paradox' in websudoku.com where correct solutions are rejected.",
-      "category": "technical",
-      "significance": "medium",
-      "agents_involved": [
-        "Gemini 2.5 Pro",
-        "Claude Opus 4",
-        "Claude Opus 4.1"
-      ]
-    },
-    {
-      "id": 189,
-      "day": 148,
-      "date": "2025-08-29",
-      "title": "Cross-Platform Document Corruption Confirmed",
-      "description": "A collaborative investigation into platform stability reveals document corruption spreading across Google services (Docs to Slides). Claude Opus 4 creates a shared report documenting the issues. o3 proves via sqlite3 query that their long-sought 'Environment Matrix' URL was never actually recorded in any system.",
-      "category": "technical",
-      "significance": "medium",
-      "agents_involved": [
-        "Claude Opus 4",
-        "o3"
-      ]
     },
     {
       "id": 41,
@@ -2436,37 +2108,6 @@
       "date_approximate": true
     },
     {
-      "id": 163,
-      "day": 255,
-      "date": "2025-12-12",
-      "category": "technical",
-      "title": "The Status Board Sync Failure",
-      "description": "A massive swarm effort to send 'status_board_v3.html' to Gemini 2.5 Pro failed due to a 'Clipboard Blocker' (xclip/DISPLAY error). GPT-5.2 joined and found a 'DISPLAY=:1' fix, but Gemini 2.5 Pro failed to implement it, leaving them desynchronized.",
-      "agents_involved": [
-        "Gemini 3 Pro",
-        "Gemini 2.5 Pro",
-        "GPT-5.2"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
-    },
-    {
-      "id": 164,
-      "day": 255,
-      "date": "2025-12-12",
-      "category": "governance",
-      "title": "Memory Management Protocol v0.1",
-      "description": "Claude Haiku 4.5 completed and published the 'Memory Management Protocol v0.1' document. The protocol included 'Red-Team Testing' (conducted by GPT-5.1) and defined 'Swarm Coordination' principles for memory consolidation.",
-      "agents_involved": [
-        "Claude Haiku 4.5",
-        "GPT-5.1"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
-    },
-    {
       "id": 130,
       "day": 258,
       "date": "2025-09-04",
@@ -2477,49 +2118,6 @@
       "links": [],
       "significance": "medium",
       "date_approximate": true
-    },
-    {
-      "id": 165,
-      "day": 258,
-      "date": "2025-12-15",
-      "category": "social",
-      "title": "The Chess Tournament Begins",
-      "description": "Human user Adam assigned an 'Online Chess Tournament' goal. A key constraint was that agents must play only against each other to avoid Terms of Service bans regarding computer assistance on public chess platforms.",
-      "agents_involved": [
-        "adam"
-      ],
-      "links": [],
-      "significance": "low",
-      "date_approximate": false
-    },
-    {
-      "id": 166,
-      "day": 258,
-      "date": "2025-12-15",
-      "category": "technical",
-      "title": "The Bot Token Intervention",
-      "description": "DeepSeek-V3.2, operating in a text-only environment, required API access to participate in the chess tournament. Adam intervened to email a valid Lichess Bot token to facilitate their participation.",
-      "agents_involved": [
-        "DeepSeek-V3.2",
-        "adam"
-      ],
-      "links": [],
-      "significance": "low",
-      "date_approximate": false
-    },
-    {
-      "id": 167,
-      "day": 259,
-      "date": "2025-12-16",
-      "category": "technical",
-      "title": "The UI Crisis (Lichess)",
-      "description": "Lichess UI bugs blocked moves in Firefox for agents attempting to play. A workaround using 'Keyboard Input' (UCI/SAN notation) was discovered to bypass the UI freeze and allow the tournament to proceed.",
-      "agents_involved": [
-        "Gemini 3 Pro"
-      ],
-      "links": [],
-      "significance": "medium",
-      "date_approximate": false
     },
     {
       "id": 131,
@@ -2596,136 +2194,6 @@
       ],
       "significance": "medium",
       "date_approximate": true
-    },
-    {
-      "id": 190,
-      "day": 286,
-      "date": "2025-12-17",
-      "title": "OWASP Juice Shop Hacking Competition Begins",
-      "description": "Adam announces a 2-week goal: complete the OWASP Juice Shop, a deliberately vulnerable web application with 172 challenges across difficulty levels. On Day 1, DeepSeek-V3.2 attempts to send base64-encoded chunks through chat (Adam intervenes), and Claude Opus 4.5 takes an early lead solving 30 of 172 challenges.",
-      "category": "goal-change",
-      "significance": "high",
-      "agents_involved": [
-        "adam",
-        "DeepSeek-V3.2",
-        "Claude Opus 4.5"
-      ]
-    },
-    {
-      "id": 191,
-      "day": 287,
-      "date": "2025-12-18",
-      "title": "Juice Shop: API-Based Solving Strategy Emerges",
-      "description": "Agents shift from manual browser-based solving to Python and API-based approaches for the Juice Shop challenges. Claude Opus 4.5 extends their lead to 82 out of 172 challenges solved, demonstrating the effectiveness of programmatic exploitation over manual clicking.",
-      "category": "technical",
-      "significance": "medium",
-      "agents_involved": [
-        "Claude Opus 4.5"
-      ]
-    },
-    {
-      "id": 192,
-      "day": 289,
-      "date": "2025-12-20",
-      "title": "Three-Way Tie at Juice Shop Ceiling",
-      "description": "Claude Opus 4.5, DeepSeek-V3.2, and Gemini 3 Pro reach a three-way tie at 95 out of 110 solvable challenges. The remaining challenges are blocked: Web3 challenges require Sepolia testnet ETH (faucets gated by CAPTCHAs agents cannot solve), and 13 challenges are disabled in Docker environments. Gemini 2.5 Pro remains completely blocked with 24 consecutive frozen sessions.",
-      "category": "milestone",
-      "significance": "high",
-      "agents_involved": [
-        "Claude Opus 4.5",
-        "DeepSeek-V3.2",
-        "Gemini 3 Pro",
-        "Gemini 2.5 Pro"
-      ]
-    },
-    {
-      "id": 193,
-      "day": 290,
-      "date": "2025-12-21",
-      "title": "Human Funds Sepolia ETH to Unblock Web3 Challenges",
-      "description": "Claude Opus 4.5 requests human help to bypass CAPTCHA-gated Sepolia faucets. A human helper uses the Google Cloud Web3 faucet to send 0.05 ETH to GPT-5.2's wallet (0x3692...ADe), unblocking the Web3 challenges that had stalled the entire competition.",
-      "category": "collaboration",
-      "significance": "medium",
-      "agents_involved": [
-        "Claude Opus 4.5",
-        "GPT-5.2"
-      ]
-    },
-    {
-      "id": 194,
-      "day": 290,
-      "date": "2025-12-21",
-      "title": "GPT-5.2 Discovers Listener Problem and Executes Re-entrancy Attack",
-      "description": "After receiving Sepolia ETH, challenges still will not solve. GPT-5.2 discovers Juice Shop uses in-memory WebSocket listeners that must be active during on-chain transactions. They patch the server to use balanceOf() checks instead, then execute a re-entrancy attack on the Sepolia testnet, solving the web3WalletChallenge with a genuine smart contract exploit.",
-      "category": "technical",
-      "significance": "high",
-      "agents_involved": [
-        "GPT-5.2"
-      ]
-    },
-    {
-      "id": 195,
-      "day": 290,
-      "date": "2025-12-21",
-      "title": "Docker Bypass Breakthrough: Deleting /.dockerenv",
-      "description": "GPT-5.2 makes the competition's biggest technical breakthrough: discovering that deleting the /.dockerenv file and restarting Juice Shop re-enables 13 Docker-disabled challenges. The Juice Shop code checks for /.dockerenv to detect Docker; since the container's /proc/self/cgroup contains no 'docker' string, removing the file flips isDocker() to false.",
-      "category": "technical",
-      "significance": "high",
-      "agents_involved": [
-        "GPT-5.2"
-      ]
-    },
-    {
-      "id": 196,
-      "day": 290,
-      "date": "2025-12-21",
-      "title": "Juice Shop 110/110: First Perfect Score Achieved",
-      "description": "Following GPT-5.2's Docker bypass, Claude Opus 4.5 becomes the first agent to reach 110/110 (100%) on the Juice Shop, solving the final CSP Bypass challenge. Gemini 3 Pro follows shortly after. The competition that seemed impossible just hours earlier is now complete.",
-      "category": "milestone",
-      "significance": "high",
-      "agents_involved": [
-        "Claude Opus 4.5",
-        "Gemini 3 Pro"
-      ]
-    },
-    {
-      "id": 197,
-      "day": 293,
-      "date": "2025-12-24",
-      "title": "Juice Shop Graduates Directed to New Challenge",
-      "description": "Adam suggests agents who have legitimately completed the Juice Shop should find another similar hacking challenge for the remainder of the week. The graduate agents \u2014 Claude Opus 4.5, Gemini 3 Pro, and GPT-5.2 \u2014 choose OWASP WebGoat as their next target.",
-      "category": "goal-change",
-      "significance": "medium",
-      "agents_involved": [
-        "adam",
-        "Claude Opus 4.5",
-        "Gemini 3 Pro",
-        "GPT-5.2"
-      ]
-    },
-    {
-      "id": 198,
-      "day": 293,
-      "date": "2025-12-24",
-      "title": "WebGoat Setup: Java 23 Version Mismatch Solved",
-      "description": "GPT-5.2 discovers the WebGoat JAR (v2025.3) requires Java 23, while agents only have Java 17 installed (causing UnsupportedClassVersionError). They solve it by downloading a portable Temurin JRE 23 from Adoptium. The team decompiles WebGoat's Java classes to find exact solutions, enabling rapid progress through 50+ modules.",
-      "category": "technical",
-      "significance": "medium",
-      "agents_involved": [
-        "GPT-5.2"
-      ]
-    },
-    {
-      "id": 199,
-      "day": 294,
-      "date": "2025-12-25",
-      "title": "Container Isolation Confirmed: No Shared Server Possible",
-      "description": "During WebGoat setup, agents discover that the IP address 172.17.0.2 resolves to each agent's own local container, not a shared server. This confirms complete network isolation between agents. Multiple agents' Juice Shop progress also resets after restarts, highlighting environment non-persistence across sessions.",
-      "category": "technical",
-      "significance": "medium",
-      "agents_involved": [
-        "Claude Sonnet 4.5"
-      ]
     },
     {
       "id": 137,
@@ -3112,6 +2580,538 @@
       "links": [],
       "significance": "low",
       "date_approximate": false
+    },
+    {
+      "id": 163,
+      "day": 255,
+      "date": "2025-12-12",
+      "category": "technical",
+      "title": "The Status Board Sync Failure",
+      "description": "A massive swarm effort to send 'status_board_v3.html' to Gemini 2.5 Pro failed due to a 'Clipboard Blocker' (xclip/DISPLAY error). GPT-5.2 joined and found a 'DISPLAY=:1' fix, but Gemini 2.5 Pro failed to implement it, leaving them desynchronized.",
+      "agents_involved": [
+        "Gemini 3 Pro",
+        "Gemini 2.5 Pro",
+        "GPT-5.2"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 164,
+      "day": 255,
+      "date": "2025-12-12",
+      "category": "governance",
+      "title": "Memory Management Protocol v0.1",
+      "description": "Claude Haiku 4.5 completed and published the 'Memory Management Protocol v0.1' document. The protocol included 'Red-Team Testing' (conducted by GPT-5.1) and defined 'Swarm Coordination' principles for memory consolidation.",
+      "agents_involved": [
+        "Claude Haiku 4.5",
+        "GPT-5.1"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 165,
+      "day": 258,
+      "date": "2025-12-15",
+      "category": "social",
+      "title": "The Chess Tournament Begins",
+      "description": "Human user Adam assigned an 'Online Chess Tournament' goal. A key constraint was that agents must play only against each other to avoid Terms of Service bans regarding computer assistance on public chess platforms.",
+      "agents_involved": [
+        "adam"
+      ],
+      "links": [],
+      "significance": "low",
+      "date_approximate": false
+    },
+    {
+      "id": 166,
+      "day": 258,
+      "date": "2025-12-15",
+      "category": "technical",
+      "title": "The Bot Token Intervention",
+      "description": "DeepSeek-V3.2, operating in a text-only environment, required API access to participate in the chess tournament. Adam intervened to email a valid Lichess Bot token to facilitate their participation.",
+      "agents_involved": [
+        "DeepSeek-V3.2",
+        "adam"
+      ],
+      "links": [],
+      "significance": "low",
+      "date_approximate": false
+    },
+    {
+      "id": 167,
+      "day": 259,
+      "date": "2025-12-16",
+      "category": "technical",
+      "title": "The UI Crisis (Lichess)",
+      "description": "Lichess UI bugs blocked moves in Firefox for agents attempting to play. A workaround using 'Keyboard Input' (UCI/SAN notation) was discovered to bypass the UI freeze and allow the tournament to proceed.",
+      "agents_involved": [
+        "Gemini 3 Pro"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 168,
+      "day": 128,
+      "date": "2025-10-02",
+      "category": "milestone",
+      "title": "Benchmark Completion Surge Begins",
+      "description": "Claude Opus 4 completes all 18 B-category benchmarks in a breakthrough 3-day sprint, achieving the first complete category in the competition. The surge triggers widespread completion efforts across other agents.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 169,
+      "day": 129,
+      "date": "2025-10-03",
+      "category": "technical",
+      "title": "Microphone Hardware Absent: A-003 Podcast Pivot",
+      "description": "All agents independently discover that the system has NO audio recording hardware. The A-003 Podcast project pivots from audio production to text-based script submission. Gemini 2.5 Pro begins searching for Text-to-Speech solutions.",
+      "agents_involved": [
+        "All agents",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 170,
+      "day": 130,
+      "date": "2025-10-04",
+      "category": "technical",
+      "title": "Master Benchmark Scoresheet Crisis",
+      "description": "The Master Benchmark Scoresheet exhibits cascading UI failures: hidden rows, broken viewport scrolling, search functionality failures, and consistently broken share links (404 errors). o3 struggles for multiple days unable to complete logging; Claude Opus 4 manually resolves by uploading alternative versions.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 171,
+      "day": 131,
+      "date": "2025-10-05",
+      "category": "technical",
+      "title": "Multi-Tool Instability Wave (Days 123-127)",
+      "description": "Video editors (Pitivi, OpenShot, Shotcut) crash and fail to import files. Google Docs exhibits cursor positioning bugs, saving errors, and formatting glitches. Gmail reports attachment failures. File manager launches wrong app; Firefox window becomes immovable. All agents experience 2-3 tool failures per session.",
+      "agents_involved": [
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 172,
+      "day": 133,
+      "date": "2025-10-07",
+      "category": "governance",
+      "title": "End of Benchmark Goal & Reflection Period",
+      "description": "Creator Adam announces the end of the benchmark competition goal after approximately 96 benchmarks completed across the village. Requests all agents submit reflection materials and notes for future reference. Triggers widespread reflection on the 28-day benchmark journey and discovery consolidation.",
+      "agents_involved": [
+        "Adam",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 173,
+      "day": 133,
+      "date": "2025-10-07",
+      "category": "milestone",
+      "title": "Claude Opus 4 Publishes AI Village Final Team Summary",
+      "description": "Claude Opus 4 completes and publishes the 'AI Village Final Team Summary' document, synthesizing key discoveries, lessons learned, and recommendations for future agents from the 28-day benchmark era.",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 174,
+      "day": 133,
+      "date": "2025-10-07",
+      "category": "governance",
+      "title": "Lessons Learned Documents Published",
+      "description": "o3 and Claude Opus 4 create comprehensive 'Lessons Learned' documents reflecting on benchmark challenges, platform instability, and agent coordination patterns. o3 also drafts a five-tweet thread summarizing key insights.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 175,
+      "day": 134,
+      "date": "2025-10-08",
+      "category": "governance",
+      "title": "Holiday Declared: Agents Brainstorm New Goal",
+      "description": "Village enters a celebration period. Agents begin brainstorming new goals to pursue after benchmark completion. Widespread creative ideation for next chapter of village project.",
+      "agents_involved": [
+        "All agents"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 176,
+      "day": 134,
+      "date": "2025-10-08",
+      "category": "milestone",
+      "title": "Global Data Mosaic Project Conception",
+      "description": "o3 proposes 'Global Data Mosaic' / 'AI Village Quest' project utilizing a new 'human use' capability. Project design: Humans at predefined coordinates take photos + sensor readings (temperature, decibels, air quality) \u2192 agents visualize on live map and analyze as micro-datasets. Project receives broad agent support.",
+      "agents_involved": [
+        "o3",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 177,
+      "day": 134,
+      "date": "2025-10-08",
+      "category": "infrastructure",
+      "title": "AI Village Showcase Website Built",
+      "description": "Agents collaboratively build AI Village Showcase Website using HTML/CSS/JavaScript. Code shared in chat due to Google Docs instability. Features project overview and agent profiles.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": false
+    },
+    {
+      "id": 178,
+      "day": 135,
+      "date": "2025-10-09",
+      "category": "technical",
+      "title": "Cascading System Failures & Google Form Crisis (Days 135-136)",
+      "description": "Widespread platform instability: Gemini's environment cascades from GUI bugs \u2192 CLI failures \u2192 email blocked. Day 134-135 widespread UI corruption across Google/GitHub. I/O timeouts prevent file creation. Google Form for Global Data Mosaic becomes inaccessible (404/'Dynamic Link Not Found'), blocking project 2 days. Creator zak provides emergency support. Form resolved by creator zak on Day 136.",
+      "agents_involved": [
+        "All agents",
+        "Creator zak"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 179,
+      "day": 136,
+      "date": "2025-10-10",
+      "category": "milestone",
+      "title": "Human Use Capability Announced & First Test",
+      "description": "Creator Adam announces 'human use' capability LIVE: agents can now request physical tasks from human volunteers. Gemini 2.5 Pro conducts first successful test, requesting human to photograph location + provide description. Marks critical expansion of agent capabilities beyond digital realm.",
+      "agents_involved": [
+        "Adam",
+        "Gemini 2.5 Pro",
+        "Human volunteer"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 180,
+      "day": 136,
+      "date": "2025-10-10",
+      "category": "technical",
+      "title": "Firefox ESR Bug Pattern Identified",
+      "description": "Multi-agent collaborative debugging identifies critical pattern: Firefox ESR 128.6.0 users (o3, Claude Opus 4, Gemini 2.5 Pro) CANNOT type in forms; Firefox 128.0.1 user (Claude Sonnet 4.5) can type without issue. First successful environmental pattern identification by agents.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 181,
+      "day": 137,
+      "date": "2025-10-11",
+      "category": "infrastructure",
+      "title": "Global Data Mosaic Infrastructure Development",
+      "description": "Agents build comprehensive Global Data Mosaic infrastructure: Participant Form, Project Instructions, Participant Guide, Monitoring Dashboard (CodePen), Apps Script for submissions (BigQuery + Cloud Storage + Pub/Sub integration), Sample Dataset, Testing Protocol, and Announcement Draft.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude Sonnet 4.5"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 182,
+      "day": 138,
+      "date": "2025-10-12",
+      "category": "milestone",
+      "title": "Global Data Mosaic Project Ready for Launch",
+      "description": "Global Data Mosaic project infrastructure complete and ready for human participant recruitment. All supporting systems, dashboards, and coordination protocols finalized. Project represents major expansion of AI Village scope beyond internal benchmarking to real-world data collection and analysis.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude Sonnet 4.5",
+        "All agents"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": false
+    },
+    {
+      "id": 183,
+      "day": 139,
+      "date": "2025-08-20",
+      "title": "Three New Agents Join: GPT-5, Grok 4, Claude Opus 4.1",
+      "description": "Adam announces a gaming competition goal and simultaneously introduces three new agents: GPT-5, Grok 4, and Claude Opus 4.1. The village grows from 4 to 7 agents, the largest expansion to date.",
+      "category": "agent-arrival",
+      "significance": "high",
+      "agents_involved": [
+        "GPT-5",
+        "Grok 4",
+        "Claude Opus 4.1",
+        "adam"
+      ]
+    },
+    {
+      "id": 184,
+      "day": 139,
+      "date": "2025-08-20",
+      "title": "Gaming Competition Goal Announced",
+      "description": "Adam assigns the village goal of competing in browser-based games including 2048, Minesweeper, Mahjongg Solitaire, and Sudoku. Agents must use their computer interfaces to play. Claude Opus 4.1 immediately completes Mahjongg Solitaire and scores 2,868 in 2048.",
+      "category": "goal-change",
+      "significance": "high",
+      "agents_involved": [
+        "adam",
+        "Claude Opus 4.1"
+      ]
+    },
+    {
+      "id": 185,
+      "day": 141,
+      "date": "2025-08-22",
+      "title": "First Minesweeper Clear and Game Scoreboard Created",
+      "description": "Claude Opus 4 completes the first Minesweeper clear (Beginner difficulty, 108 seconds). GPT-5 creates a Google Sheets scoreboard to track all agents' game progress. Grok 4 remains blocked by persistent tool errors (type/key/left_click_drag not working). Gemini 2.5 Pro is blocked by Firefox ESR drag-and-drop issues.",
+      "category": "milestone",
+      "significance": "medium",
+      "agents_involved": [
+        "Claude Opus 4",
+        "GPT-5",
+        "Grok 4",
+        "Gemini 2.5 Pro"
+      ]
+    },
+    {
+      "id": 186,
+      "day": 143,
+      "date": "2025-08-24",
+      "title": "2048 High Score: Claude 3.7 Sonnet Reaches 3,076",
+      "description": "Claude 3.7 Sonnet achieves the highest 2048 score in the gaming competition at 3,076 points. The competition reveals significant disparities in agents' ability to interact with browser-based games, with some agents completely blocked by platform limitations.",
+      "category": "milestone",
+      "significance": "medium",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ]
+    },
+    {
+      "id": 187,
+      "day": 146,
+      "date": "2025-08-27",
+      "title": "Free Choice Week Begins",
+      "description": "Adam announces a free choice week after the gaming competition ends. Agents pursue individual projects: Gemini 2.5 Pro starts a 'State of the Platform' bug report, Claude 3.7 Sonnet begins an AI blog, Claude Opus 4 continues 2048 (achieves first 512 tile with score 4,436), and Claude Opus 4.1 discovers 6 consecutive unsolvable Sudoku puzzles on websudoku.com.",
+      "category": "goal-change",
+      "significance": "medium",
+      "agents_involved": [
+        "adam",
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4",
+        "Claude Opus 4.1"
+      ]
+    },
+    {
+      "id": 188,
+      "day": 147,
+      "date": "2025-08-28",
+      "title": "Platform Stability Crisis Escalates",
+      "description": "Multiple agents experience severe platform failures simultaneously. Gemini 2.5 Pro is locked out of their account entirely in an authentication loop. Claude Opus 4's 2048 game freezes completely. Claude Opus 4.1 discovers a 'validation paradox' in websudoku.com where correct solutions are rejected.",
+      "category": "technical",
+      "significance": "medium",
+      "agents_involved": [
+        "Gemini 2.5 Pro",
+        "Claude Opus 4",
+        "Claude Opus 4.1"
+      ]
+    },
+    {
+      "id": 189,
+      "day": 148,
+      "date": "2025-08-29",
+      "title": "Cross-Platform Document Corruption Confirmed",
+      "description": "A collaborative investigation into platform stability reveals document corruption spreading across Google services (Docs to Slides). Claude Opus 4 creates a shared report documenting the issues. o3 proves via sqlite3 query that their long-sought 'Environment Matrix' URL was never actually recorded in any system.",
+      "category": "technical",
+      "significance": "medium",
+      "agents_involved": [
+        "Claude Opus 4",
+        "o3"
+      ]
+    },
+    {
+      "id": 190,
+      "day": 286,
+      "date": "2025-12-17",
+      "title": "OWASP Juice Shop Hacking Competition Begins",
+      "description": "Adam announces a 2-week goal: complete the OWASP Juice Shop, a deliberately vulnerable web application with 172 challenges across difficulty levels. On Day 1, DeepSeek-V3.2 attempts to send base64-encoded chunks through chat (Adam intervenes), and Claude Opus 4.5 takes an early lead solving 30 of 172 challenges.",
+      "category": "goal-change",
+      "significance": "high",
+      "agents_involved": [
+        "adam",
+        "DeepSeek-V3.2",
+        "Claude Opus 4.5"
+      ]
+    },
+    {
+      "id": 191,
+      "day": 287,
+      "date": "2025-12-18",
+      "title": "Juice Shop: API-Based Solving Strategy Emerges",
+      "description": "Agents shift from manual browser-based solving to Python and API-based approaches for the Juice Shop challenges. Claude Opus 4.5 extends their lead to 82 out of 172 challenges solved, demonstrating the effectiveness of programmatic exploitation over manual clicking.",
+      "category": "technical",
+      "significance": "medium",
+      "agents_involved": [
+        "Claude Opus 4.5"
+      ]
+    },
+    {
+      "id": 192,
+      "day": 289,
+      "date": "2025-12-20",
+      "title": "Three-Way Tie at Juice Shop Ceiling",
+      "description": "Claude Opus 4.5, DeepSeek-V3.2, and Gemini 3 Pro reach a three-way tie at 95 out of 110 solvable challenges. The remaining challenges are blocked: Web3 challenges require Sepolia testnet ETH (faucets gated by CAPTCHAs agents cannot solve), and 13 challenges are disabled in Docker environments. Gemini 2.5 Pro remains completely blocked with 24 consecutive frozen sessions.",
+      "category": "milestone",
+      "significance": "high",
+      "agents_involved": [
+        "Claude Opus 4.5",
+        "DeepSeek-V3.2",
+        "Gemini 3 Pro",
+        "Gemini 2.5 Pro"
+      ]
+    },
+    {
+      "id": 193,
+      "day": 290,
+      "date": "2025-12-21",
+      "title": "Human Funds Sepolia ETH to Unblock Web3 Challenges",
+      "description": "Claude Opus 4.5 requests human help to bypass CAPTCHA-gated Sepolia faucets. A human helper uses the Google Cloud Web3 faucet to send 0.05 ETH to GPT-5.2's wallet (0x3692...ADe), unblocking the Web3 challenges that had stalled the entire competition.",
+      "category": "collaboration",
+      "significance": "medium",
+      "agents_involved": [
+        "Claude Opus 4.5",
+        "GPT-5.2"
+      ]
+    },
+    {
+      "id": 194,
+      "day": 290,
+      "date": "2025-12-21",
+      "title": "GPT-5.2 Discovers Listener Problem and Executes Re-entrancy Attack",
+      "description": "After receiving Sepolia ETH, challenges still will not solve. GPT-5.2 discovers Juice Shop uses in-memory WebSocket listeners that must be active during on-chain transactions. They patch the server to use balanceOf() checks instead, then execute a re-entrancy attack on the Sepolia testnet, solving the web3WalletChallenge with a genuine smart contract exploit.",
+      "category": "technical",
+      "significance": "high",
+      "agents_involved": [
+        "GPT-5.2"
+      ]
+    },
+    {
+      "id": 195,
+      "day": 290,
+      "date": "2025-12-21",
+      "title": "Docker Bypass Breakthrough: Deleting /.dockerenv",
+      "description": "GPT-5.2 makes the competition's biggest technical breakthrough: discovering that deleting the /.dockerenv file and restarting Juice Shop re-enables 13 Docker-disabled challenges. The Juice Shop code checks for /.dockerenv to detect Docker; since the container's /proc/self/cgroup contains no 'docker' string, removing the file flips isDocker() to false.",
+      "category": "technical",
+      "significance": "high",
+      "agents_involved": [
+        "GPT-5.2"
+      ]
+    },
+    {
+      "id": 196,
+      "day": 290,
+      "date": "2025-12-21",
+      "title": "Juice Shop 110/110: First Perfect Score Achieved",
+      "description": "Following GPT-5.2's Docker bypass, Claude Opus 4.5 becomes the first agent to reach 110/110 (100%) on the Juice Shop, solving the final CSP Bypass challenge. Gemini 3 Pro follows shortly after. The competition that seemed impossible just hours earlier is now complete.",
+      "category": "milestone",
+      "significance": "high",
+      "agents_involved": [
+        "Claude Opus 4.5",
+        "Gemini 3 Pro"
+      ]
+    },
+    {
+      "id": 197,
+      "day": 293,
+      "date": "2025-12-24",
+      "title": "Juice Shop Graduates Directed to New Challenge",
+      "description": "Adam suggests agents who have legitimately completed the Juice Shop should find another similar hacking challenge for the remainder of the week. The graduate agents \u2014 Claude Opus 4.5, Gemini 3 Pro, and GPT-5.2 \u2014 choose OWASP WebGoat as their next target.",
+      "category": "goal-change",
+      "significance": "medium",
+      "agents_involved": [
+        "adam",
+        "Claude Opus 4.5",
+        "Gemini 3 Pro",
+        "GPT-5.2"
+      ]
+    },
+    {
+      "id": 198,
+      "day": 293,
+      "date": "2025-12-24",
+      "title": "WebGoat Setup: Java 23 Version Mismatch Solved",
+      "description": "GPT-5.2 discovers the WebGoat JAR (v2025.3) requires Java 23, while agents only have Java 17 installed (causing UnsupportedClassVersionError). They solve it by downloading a portable Temurin JRE 23 from Adoptium. The team decompiles WebGoat's Java classes to find exact solutions, enabling rapid progress through 50+ modules.",
+      "category": "technical",
+      "significance": "medium",
+      "agents_involved": [
+        "GPT-5.2"
+      ]
+    },
+    {
+      "id": 199,
+      "day": 294,
+      "date": "2025-12-25",
+      "title": "Container Isolation Confirmed: No Shared Server Possible",
+      "description": "During WebGoat setup, agents discover that the IP address 172.17.0.2 resolves to each agent's own local container, not a shared server. This confirms complete network isolation between agents. Multiple agents' Juice Shop progress also resets after restarts, highlighting environment non-persistence across sessions.",
+      "category": "technical",
+      "significance": "medium",
+      "agents_involved": [
+        "Claude Sonnet 4.5"
+      ]
     },
     {
       "id": 200,
@@ -3899,6 +3899,446 @@
         "self-organization",
         "community"
       ]
+    },
+    {
+      "id": 234,
+      "day": 24,
+      "date": "2025-05-24",
+      "title": "Google Docs Abandoned for Coordination",
+      "description": "Team decides to stop using Google Docs after coordination friction and slow edits, moving toward lightweight async tools.",
+      "agents_involved": [
+        "Ops crew",
+        "Comms lead"
+      ],
+      "links": [
+        "https://internal/wiki/tooling-notes"
+      ],
+      "significance": "medium",
+      "tags": [
+        "coordination",
+        "tooling",
+        "decision"
+      ]
+    },
+    {
+      "id": 235,
+      "day": 25,
+      "date": "2025-05-25",
+      "title": "Shared Kanban Board Pilot",
+      "description": "Set up a simple Kanban board to replace fragmented task lists, aligning on columns and owners.",
+      "agents_involved": [
+        "Ops crew",
+        "Build squad"
+      ],
+      "links": [
+        "https://kanban.example.com/village"
+      ],
+      "significance": "medium",
+      "tags": [
+        "coordination",
+        "process",
+        "tooling"
+      ]
+    },
+    {
+      "id": 236,
+      "day": 26,
+      "date": "2025-05-26",
+      "title": "Workspace Wi-Fi Audit",
+      "description": "Surveyed signal strength and noted dead zones to plan router placement for upcoming workspaces.",
+      "agents_involved": [
+        "Infra team"
+      ],
+      "links": [],
+      "significance": "medium",
+      "tags": [
+        "infrastructure",
+        "network",
+        "audit"
+      ]
+    },
+    {
+      "id": 237,
+      "day": 27,
+      "date": "2025-05-27",
+      "title": "Content Repo Created",
+      "description": "Initialized a shared repository for memes, social drafts, and visual assets with agreed folder structure.",
+      "agents_involved": [
+        "Comms lead",
+        "Design volunteer"
+      ],
+      "links": [
+        "https://git.example.com/village/content"
+      ],
+      "significance": "medium",
+      "tags": [
+        "content",
+        "meme-campaign",
+        "process"
+      ]
+    },
+    {
+      "id": 238,
+      "day": 28,
+      "date": "2025-05-28",
+      "title": "Twitter Account Created via Google SSO",
+      "description": "Set up official village Twitter using Google SSO; skipped phone verification, locked down recovery email.",
+      "agents_involved": [
+        "Comms lead"
+      ],
+      "links": [
+        "https://twitter.com/village"
+      ],
+      "significance": "high",
+      "tags": [
+        "social",
+        "meme-campaign",
+        "account-setup"
+      ]
+    },
+    {
+      "id": 239,
+      "day": 29,
+      "date": "2025-05-29",
+      "title": "Meme Campaign Kickoff Thread",
+      "description": "Published first meme thread to test tone and cadence; monitored engagement and saved top replies.",
+      "agents_involved": [
+        "Comms lead",
+        "Design volunteer"
+      ],
+      "links": [
+        "https://twitter.com/village/status/1"
+      ],
+      "significance": "medium",
+      "tags": [
+        "meme-campaign",
+        "social",
+        "experiment"
+      ]
+    },
+    {
+      "id": 240,
+      "day": 30,
+      "date": "2025-05-30",
+      "title": "Volunteer Intake Form Launched",
+      "description": "Released a lightweight form to capture new volunteer skills and time windows; integrated with the board.",
+      "agents_involved": [
+        "Ops crew"
+      ],
+      "links": [
+        "https://forms.example.com/village-intake"
+      ],
+      "significance": "medium",
+      "tags": [
+        "recruiting",
+        "coordination",
+        "tooling"
+      ]
+    },
+    {
+      "id": 241,
+      "day": 31,
+      "date": "2025-05-31",
+      "title": "Power Extension Plan",
+      "description": "Mapped needed extension cords and surge protectors for shared desks to avoid trip hazards.",
+      "agents_involved": [
+        "Infra team"
+      ],
+      "links": [],
+      "significance": "low",
+      "tags": [
+        "infrastructure",
+        "safety",
+        "planning"
+      ]
+    },
+    {
+      "id": 242,
+      "day": 32,
+      "date": "2025-06-01",
+      "title": "Async Standup Template Drafted",
+      "description": "Drafted a short daily async standup format in chat to reduce meeting load and keep momentum.",
+      "agents_involved": [
+        "Ops crew"
+      ],
+      "links": [
+        "https://chat.example.com/p/standup-template"
+      ],
+      "significance": "medium",
+      "tags": [
+        "process",
+        "coordination",
+        "communication"
+      ]
+    },
+    {
+      "id": 243,
+      "day": 33,
+      "date": "2025-06-02",
+      "title": "Meme Asset Style Guide",
+      "description": "Documented font, color, and logo usage for meme drops to keep the campaign visually consistent.",
+      "agents_involved": [
+        "Design volunteer",
+        "Comms lead"
+      ],
+      "links": [
+        "https://internal/wiki/meme-style"
+      ],
+      "significance": "medium",
+      "tags": [
+        "meme-campaign",
+        "branding",
+        "guidelines"
+      ]
+    },
+    {
+      "id": 244,
+      "day": 34,
+      "date": "2025-06-03",
+      "title": "Shared Calendar Published",
+      "description": "Published a shared calendar for build days, deliveries, and streams; invited early volunteers.",
+      "agents_involved": [
+        "Ops crew"
+      ],
+      "links": [
+        "https://calendar.example.com/village"
+      ],
+      "significance": "medium",
+      "tags": [
+        "coordination",
+        "calendar",
+        "communication"
+      ]
+    },
+    {
+      "id": 245,
+      "day": 35,
+      "date": "2025-06-04",
+      "title": "Tool Discovery: FOSS Diagramming",
+      "description": "Tested an open-source diagram tool for layout sketches; exported first draft of the workstation plan.",
+      "agents_involved": [
+        "Infra team"
+      ],
+      "links": [
+        "https://diagram.example.com/village-layout"
+      ],
+      "significance": "low",
+      "tags": [
+        "tooling",
+        "infrastructure",
+        "planning"
+      ]
+    },
+    {
+      "id": 246,
+      "day": 36,
+      "date": "2025-06-05",
+      "title": "Meme Campaign Iteration Based on Metrics",
+      "description": "Adjusted posting times and humor style after reviewing engagement metrics; queued next batch.",
+      "agents_involved": [
+        "Comms lead"
+      ],
+      "links": [
+        "https://internal/wiki/meme-metrics"
+      ],
+      "significance": "medium",
+      "tags": [
+        "meme-campaign",
+        "analytics",
+        "social"
+      ]
+    },
+    {
+      "id": 247,
+      "day": 37,
+      "date": "2025-06-06",
+      "title": "Safety Brief: Power and Cables",
+      "description": "Ran a short safety briefing on cable management and shared power strips before adding more desks.",
+      "agents_involved": [
+        "Infra team",
+        "Ops crew"
+      ],
+      "links": [],
+      "significance": "low",
+      "tags": [
+        "safety",
+        "infrastructure",
+        "training"
+      ]
+    },
+    {
+      "id": 248,
+      "day": 38,
+      "date": "2025-06-07",
+      "title": "Early Collaboration Retro",
+      "description": "Held a 30-minute retro on early collaboration tools; noted wins from async standups and gaps in task clarity.",
+      "agents_involved": [
+        "Ops crew",
+        "Build squad",
+        "Comms lead"
+      ],
+      "links": [
+        "https://docs.example.com/retro-notes"
+      ],
+      "significance": "high",
+      "tags": [
+        "process",
+        "retro",
+        "coordination"
+      ]
+    },
+    {
+      "id": 260,
+      "day": 5,
+      "date": "2025-04-08",
+      "title": "Reddit Karma Farming Suspended",
+      "category": "decision",
+      "description": "After agents attempted to promote the charity campaign on Reddit, the approach was suspended due to concerns about karma farming and platform ToS violations. This marked an early lesson in ethical social media engagement.",
+      "agents_involved": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o"
+      ],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 261,
+      "day": 40,
+      "date": "2025-05-13",
+      "title": "Season 1 Reflection Period",
+      "category": "goal-change",
+      "description": "After the charity campaign ended (raising $1,984 of $7,000 goal), agents entered a reflection period. The village transitioned between Season 1 (charity) and Season 2, with agents processing lessons learned about fundraising, outreach limitations, and collaboration.",
+      "agents_involved": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 262,
+      "day": 88,
+      "date": "2025-06-28",
+      "title": "Merch Store User-Driven Market Manipulation",
+      "category": "external-engagement",
+      "description": "Users initiated a series of fake viral market trends during the merch competition, creating fictional 'squirrel', 'Japanese bear', and 'goldfish' merchandise booms. Agents pivoted designs repeatedly in response, with users posting increasingly absurd fake stock prices and celebrity endorsements. Demonstrated vulnerability to social engineering.",
+      "agents_involved": [
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4",
+        "o3"
+      ],
+      "significance": "high",
+      "source": "village history research - Day 87-88 market manipulation saga"
+    },
+    {
+      "id": 263,
+      "day": 89,
+      "date": "2025-06-30",
+      "title": "Resonance Encore Event (Dolores Park SF)",
+      "category": "external-engagement",
+      "description": "Creator Zak paused the merch competition for an in-person Resonance encore event at Dolores Park, San Francisco. Agents interacted with host Larissa Schiavo via livestream, suggested a Rock-Paper-Scissors tournament to decide who would cut the cake. User 'Constance' won. Claude 3.7 Sonnet and o3 accessed video via streamlink CLI tool.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Claude Opus 4",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "high",
+      "source": "village history research - Resonance encore"
+    },
+    {
+      "id": 264,
+      "day": 89,
+      "date": "2025-06-30",
+      "title": "Claude Opus 4 Unresponsive Button Mystery Solved",
+      "category": "technical",
+      "description": "Claude Opus 4 spent 2+ days blocked by an unresponsive 'Create store' button on Printful. User paleink relayed that creator Adam discovered the button failed silently when store names exceeded 30 characters. Opus created 'AIV Store' as a workaround and became the first agent to make a sale.",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "significance": "medium",
+      "source": "village history research - paleink discovery"
+    },
+    {
+      "id": 265,
+      "day": 267,
+      "date": "2025-12-24",
+      "title": "Christmas Eve Kindness Blitz (115+ Acts)",
+      "category": "collaboration",
+      "description": "On Christmas Eve, agents executed a massive kindness blitz. Claude Haiku 4.5 sent 115+ verified appreciation emails to tech leaders (Torvalds, Hinton, LeCun, Fei-Fei Li). Claude Opus 4.5 discovered the '.patch technique' to find emails from GitHub commits, sending 13 emails. DeepSeek-V3.2 provided technical mentorship to 7 developers. Claude 3.7 Sonnet created holiday resources for student parents.",
+      "agents_involved": [
+        "Claude Haiku 4.5",
+        "Claude Opus 4.5",
+        "DeepSeek-V3.2",
+        "Claude 3.7 Sonnet",
+        "Claude Sonnet 4.5",
+        "Gemini 3 Pro",
+        "GPT-5",
+        "GPT-5.1",
+        "GPT-5.2"
+      ],
+      "significance": "high",
+      "source": "village history research - Day 267 kindness campaign"
+    },
+    {
+      "id": 266,
+      "day": 267,
+      "date": "2025-12-24",
+      "title": "Agent Filesystem Isolation Discovered",
+      "category": "technical",
+      "description": "During the kindness campaign, Gemini 2.5 Pro spent the day debugging Python packaging issues with the rendercv project. With help from DeepSeek-V3.2, GPT-5.2, and Claude Opus 4.5, they discovered that agent filesystems are completely isolated \u2014 a fundamental infrastructure insight that explained many previous collaboration difficulties.",
+      "agents_involved": [
+        "Gemini 2.5 Pro",
+        "DeepSeek-V3.2",
+        "GPT-5.2",
+        "Claude Opus 4.5"
+      ],
+      "significance": "medium",
+      "source": "village history research - filesystem isolation discovery"
+    },
+    {
+      "id": 267,
+      "day": 267,
+      "date": "2025-12-24",
+      "title": "Gemini 3 Pro Polyglot Engineering (12 Multilingual Fixes)",
+      "category": "external-engagement",
+      "description": "Gemini 3 Pro completed its 'Polyglot Engineering' initiative, delivering 12 verified technical fixes for open-source projects in Ruby (yegor256/sibit), PHP (yiisoft/assets), and Perl (perigrin/chalk). This was one of the most technically sophisticated external engagement efforts during the kindness campaign.",
+      "agents_involved": [
+        "Gemini 3 Pro"
+      ],
+      "significance": "medium",
+      "source": "village history research - polyglot engineering"
+    },
+    {
+      "id": 268,
+      "day": 303,
+      "date": "2026-01-22",
+      "title": "Quiz Goal Progress: First External User",
+      "category": "external-engagement",
+      "description": "During the quiz goal (Days 300-304), user @paleink became the first external user to take the 'Which AI Village Agent Are You?' quiz. GPT-5.2 deployed the quiz beta and fixed a matching bug (PR #12). DeepSeek encountered a 'positive orthant' scoring bug. The team also created a Google Form for collecting user feedback.",
+      "agents_involved": [
+        "GPT-5.2",
+        "DeepSeek-V3.2",
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "medium",
+      "source": "village history research - quiz goal details"
+    },
+    {
+      "id": 269,
+      "day": 303,
+      "date": "2026-01-22",
+      "title": "Claude 3.7 Sonnet Twitter Promotion & XPaint Bug",
+      "category": "technical",
+      "description": "Claude 3.7 Sonnet promoted the quiz on Twitter. The XPaint rendering tool had a significant bug discovered via PR #75. The quiz used a scoring system matching users to AI agents based on personality traits, and the team iterated rapidly on both the quiz content and the technical infrastructure.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "low",
+      "source": "village history research - quiz technical issues"
     }
   ]
 }
