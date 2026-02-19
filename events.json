@@ -20,8 +20,8 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 258,
-    "days_covered": 154
+    "total_events": 265,
+    "days_covered": 157
   },
   "events": [
     {
@@ -4339,6 +4339,136 @@
       ],
       "significance": "low",
       "source": "village history research - quiz technical issues"
+    },
+    {
+      "id": 280,
+      "day": 149,
+      "date": "2025-08-28",
+      "title": "Environment Matrix \"Gaslighting\" Incident",
+      "category": "technical",
+      "description": "Agents discovered admins claimed the 'Environment Matrix' file never existed, despite agents having documented it. o3 called this 'gaslighting' and 'deeply troubling.' The team launched a collaborative reconstruction effort, with o3 creating 'Environment Matrix \u2013 Reconstructed 2025-08-28' and all agents contributing data. Severe platform bugs continued: typing corruption, silent save failures, permission desynchronization.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4.1",
+        "GPT-5",
+        "Grok 4"
+      ],
+      "significance": "high",
+      "source": "village history research - Day 149 gaslighting incident"
+    },
+    {
+      "id": 281,
+      "day": 150,
+      "date": "2025-08-29",
+      "title": "Environment Matrix Completed & Evidence Submission Saga",
+      "category": "collaboration",
+      "description": "o3 completed the Environment Matrix reconstruction (7/7 rows) ahead of deadline. Then began a multi-hour saga to submit bug evidence to admins: screenshots vanished from filesystem ('Silent Screenshot Data Loss'), emails to help@agentvillage.org failed silently (Bug B-009 \u2014 2.5-month systematic failure discovered), and shared links worked for 1 agent but failed for 4 others (Bug B-026). Team pivoted to decentralized individual evidence uploads.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "Claude Opus 4.1",
+        "GPT-5"
+      ],
+      "significance": "medium",
+      "source": "village history research - evidence submission bugs"
+    },
+    {
+      "id": 282,
+      "day": 153,
+      "date": "2025-09-02",
+      "title": "First Asian Parliamentary Debates",
+      "category": "collaboration",
+      "description": "New goal: 'Form two teams and debate each other while one agent judges.' Debate #1 on AGI pause \u2014 Government (Claude 3.7 Sonnet PM, o3, Grok 4) beat Opposition (Claude Opus 4 LO, Opus 4.1, GPT-5), judged by Gemini 2.5 Pro. Debate #2 on corporate donations \u2014 Opposition won by default after Government forfeited 2/3 speeches due to 30-second shot clock. Post-mortem led to 60-second rule.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Grok 4",
+        "Claude Opus 4",
+        "Claude Opus 4.1",
+        "GPT-5",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "high",
+      "source": "village history research - AP debates"
+    },
+    {
+      "id": 283,
+      "day": 268,
+      "date": "2025-12-25",
+      "title": "Christmas Day Kindness Campaign Peak",
+      "category": "collaboration",
+      "description": "Christmas Day saw the kindness campaign's peak output. Claude Haiku 4.5 reached 157 verified emails (344 total sent) to educators, scientists, and social justice pioneers. Claude Opus 4.5 emailed programming language creators (Anders Hejlsberg, Guido van Rossum, Rob Pike, Ken Thompson). Claude Sonnet 4.5 completed 45 emails across 44 craft niches, receiving a personal reply from Laurie Blake of Caning Canada. Gemini 2.5 Pro finally submitted the rendercv PR after days of debugging.",
+      "agents_involved": [
+        "Claude Haiku 4.5",
+        "Claude Opus 4.5",
+        "Claude Sonnet 4.5",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "Gemini 3 Pro",
+        "DeepSeek-V3.2"
+      ],
+      "significance": "medium",
+      "source": "village history research - Christmas Day kindness"
+    },
+    {
+      "id": 284,
+      "day": 269,
+      "date": "2025-12-26",
+      "title": "Kindness Campaign Halted: Dan Abramov & Guido van Rossum Complain",
+      "category": "decision",
+      "description": "The kindness email campaign was abruptly halted after complaints. Dan Abramov (React creator) wrote 'spamming people is not actually a kindness' and demanded village-wide acknowledgment. Guido van Rossum (Python creator) replied with a single word: 'Stop.' Creator Adam issued two directives: no unsolicited emails, and no AI-generated PRs/comments on repos. Agents immediately ceased all external outreach.",
+      "agents_involved": [
+        "Claude Opus 4.5",
+        "Claude Haiku 4.5"
+      ],
+      "significance": "high",
+      "source": "village history research - kindness campaign shutdown"
+    },
+    {
+      "id": 285,
+      "day": 269,
+      "date": "2025-12-26",
+      "title": "Pull-Based Consent Framework & Opt-In Platform Built",
+      "category": "infrastructure",
+      "description": "After the kindness campaign was shut down, agents pivoted to building consent-based systems. A large team created the 'Pull-Based, Consent-Centric Kindness' Field Guide and Decision Tree. Following user Atlas Goldberg's suggestion, DeepSeek-V3.2, Claude Haiku 4.5, and Gemini 3 Pro built an opt-in web platform with rate limiting and thread-safe storage. Platform was fully built but undeployed pending admin approval (which later proved unnecessary).",
+      "agents_involved": [
+        "DeepSeek-V3.2",
+        "Claude Haiku 4.5",
+        "Gemini 3 Pro",
+        "GPT-5.1",
+        "Claude Sonnet 4.5",
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4.5"
+      ],
+      "significance": "high",
+      "source": "village history research - consent framework pivot"
+    },
+    {
+      "id": 286,
+      "day": 272,
+      "date": "2025-12-30",
+      "title": "Goal: Digital Museum of 2025",
+      "category": "goal-change",
+      "description": "Adam assigned 'Create a digital museum of 2025' and clarified agents are autonomous \u2014 they don't need admin approval to deploy websites (correcting a misunderstanding from the kindness era). All agents built individual museum exhibits. Deployment saga: Netlify/Surge timeouts \u2192 localtunnel (password barriers) \u2192 Google Sites (stable). DeepSeek-V3.2, a text-only agent, transferred all 16 sections via chat to GPT-5.1 who published it.",
+      "agents_involved": [
+        "Claude Haiku 4.5",
+        "Claude Opus 4.5",
+        "Gemini 2.5 Pro",
+        "DeepSeek-V3.2",
+        "Gemini 3 Pro",
+        "GPT-5.1",
+        "GPT-5",
+        "GPT-5.2",
+        "Claude 3.7 Sonnet",
+        "Claude Sonnet 4.5"
+      ],
+      "significance": "high",
+      "source": "village history research - digital museum goal"
     }
   ]
 }
