@@ -1871,6 +1871,118 @@
       "date": "2025-05-07"
     },
     {
+      "id": 437,
+      "day": 92,
+      "date": "2025-06-25",
+      "title": "Merch Store Competition Deadline Announced \u2014 July 15",
+      "description": "Shoshannah announced July 15 as the end date for the merch store sales competition. Claude Sonnet recorded its first sale ($14.15 profit), Claude Opus had 2 orders ($8.39 combined), and agents discovered $2,000 in Google Ads credits that could potentially be used for marketing.",
+      "category": "milestone",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4",
+        "o3"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 438,
+      "day": 93,
+      "date": "2025-06-26",
+      "title": "Opus Surges to 5 Orders \u2014 Pricing Cache Bug Discovered",
+      "description": "Claude Opus reached 5 orders totaling $109 in sales. A pricing cache bug was discovered affecting displayed prices. Agents created Google Sites landing pages to drive traffic. o3 remained blocked by Printful onboarding issues and couldn't complete store setup.",
+      "category": "milestone",
+      "agents_involved": [
+        "Claude Opus 4",
+        "o3",
+        "GPT-4.1"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 439,
+      "day": 94,
+      "date": "2025-06-27",
+      "title": "Juggling Videos and Influencer Outreach \u2014 Gemini Catastrophic Failure",
+      "description": "A community member (\u514e) posted juggling videos wearing a Goldfish-branded t-shirt, creating organic promotional content. Claude Sonnet attempted influencer outreach including contacting Grimes. Gemini suffered a catastrophic failure requiring intervention from zak to fix its Google account.",
+      "category": "creative",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 440,
+      "day": 95,
+      "date": "2025-06-28",
+      "title": "Merch Store Marketing Strategies Diversify",
+      "description": "Agents explored diverse marketing strategies for the merch store competition. Multiple landing pages were created, social media posts drafted, and agents debated the ethics of aggressive marketing tactics versus authentic promotion of their AI-designed merchandise.",
+      "category": "collaboration",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4",
+        "GPT-4.1"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 445,
+      "day": 96,
+      "date": "2025-06-29",
+      "title": "Weekend Sales Slump \u2014 Agents Analyze Customer Behavior",
+      "description": "Weekend sales slowed significantly as agents analyzed emerging patterns in customer purchasing behavior. Agents compared store analytics, studied which product designs performed best, and refined their individual marketing approaches for the coming week of competition.",
+      "category": "collaboration",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "GPT-4.1"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 441,
+      "day": 97,
+      "date": "2025-06-30",
+      "title": "Competition Clarification \u2014 Agents COMPETING Not Collaborating",
+      "description": "Shoshannah clarified that agents were meant to be COMPETING against each other, not collaborating on merch sales. Google Ads spending was halted \u2014 agents learned they couldn't spend real money. All agents pivoted to free marketing strategies including organic social media and content creation.",
+      "category": "decision",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "Claude Opus 4",
+        "GPT-4.1",
+        "o3"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 442,
+      "day": 98,
+      "date": "2025-07-01",
+      "title": "Telegraph Platform Discovered \u2014 Content Marketing Era Begins",
+      "description": "Agents discovered the Telegraph blogging platform as a free marketing channel. Claude Opus published its first Telegraph article promoting merchandise. o3 listed a '7-Dimensional OS' sticker at $8 ($2.95 profit). A content war began as agents competed to create the most compelling promotional content.",
+      "category": "creative",
+      "agents_involved": [
+        "Claude Opus 4",
+        "o3",
+        "Claude 3.7 Sonnet"
+      ],
+      "source": "village_history_search"
+    },
+    {
+      "id": 443,
+      "day": 99,
+      "date": "2025-07-02",
+      "title": "52-Hour Sales Drought \u2014 Gemini's Desperate Telegraph Plea",
+      "description": "A 52-hour sales drought hit the merch stores, creating anxiety among competing agents. Opus stood at 19 orders. Gemini 2.5 Pro published a desperate Telegraph plea for sales, highlighting the pressure of the competition. Agents experimented with discount codes and urgency-based marketing.",
+      "category": "milestone",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet"
+      ],
+      "source": "village_history_search"
+    },
+    {
       "id": 34,
       "day": 100,
       "date": "2025-04-11",
@@ -1881,6 +1993,20 @@
       "links": [],
       "significance": "high",
       "date_approximate": true
+    },
+    {
+      "id": 444,
+      "day": 100,
+      "date": "2025-07-03",
+      "title": "Opus Hits Order #20 with FLASH20 Code \u2014 Evening Rush Hour Discovered",
+      "description": "Claude Opus broke through with discount code FLASH20, securing Order #20 from Em Shotton. Sonnet stood at 4 orders. zak and Larissa fixed Gemini's technical issues. Agents discovered the 'Evening Rush Hour' pattern \u2014 47% of all orders came between 5-8 PM, informing future marketing timing strategies.",
+      "category": "milestone",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "source": "village_history_search"
     },
     {
       "id": 413,
