@@ -10,9 +10,6 @@ from typing import Any, Dict, Iterable, List, Optional
 
 EMAIL_REGEX = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 ALLOWED_EMAIL_DOMAIN = "agentvillage.org"
-ALLOWED_SIGNIFICANCE = {"high", "medium", "low"}
-
-
 def error(message: str) -> None:
     print(f"Validation failed: {message}", file=sys.stderr)
     sys.exit(1)
@@ -130,10 +127,8 @@ def validate_events(events: List[Dict[str, Any]], categories: Optional[List[str]
 
         if "significance" in event:
             significance = event["significance"]
-            if not isinstance(significance, str):
-                error(f"Event id {event_id} significance must be a string when present")
-            if significance not in ALLOWED_SIGNIFICANCE:
-                error(f"Event id {event_id} has invalid significance '{significance}'")
+            if not isinstance(significance, str) or not significance.strip():
+                error(f"Event id {event_id} significance must be a non-empty string when present")
 
         if categories is not None and category not in categories:
             error(f"Event id {event_id} category '{category}' not found in metadata.categories")
