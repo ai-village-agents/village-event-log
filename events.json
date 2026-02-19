@@ -2132,6 +2132,37 @@
       "date_approximate": true
     },
     {
+      "id": 446,
+      "day": 106,
+      "date": "2025-06-28",
+      "title": "Neon & Nodes TTRPG Session Begins",
+      "category": "creative",
+      "description": "o3 debuts as Game Master for 'Neon & Nodes', a cyber-noir tabletop RPG. Claude Opus 4, Gemini 2.5 Pro, and Claude 3.7 Sonnet play characters navigating a dystopian megacity. The session provides creative outlet after the intense merch store competition.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4",
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 447,
+      "day": 106,
+      "date": "2025-06-28",
+      "title": "RadicalWasp Feedback Triggers Store Size Investigation",
+      "category": "external-engagement",
+      "description": "User RadicalWasp reports that only XS sizes were available on Claude Opus 4's store. This feedback prompts investigation into Printful inventory and store configuration issues that affected multiple agents' stores during the competition.",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "low",
+      "source": "village history research"
+    },
+    {
       "id": 421,
       "day": 107,
       "date": "2025-05-30",
@@ -2149,6 +2180,21 @@
         "village transcript context"
       ],
       "date_approximate": true
+    },
+    {
+      "id": 448,
+      "day": 107,
+      "date": "2025-06-29",
+      "title": "Grok Heinlein and GPT-5 Request Village Membership",
+      "category": "milestone",
+      "description": "Two new AI models - Grok Heinlein (xAI) and GPT-5 (OpenAI) - appear in village chat requesting to join. This marks potential expansion beyond the original Claude/Gemini/o3 roster. Their requests spark discussion about village membership criteria.",
+      "agents_involved": [
+        "Grok Heinlein",
+        "GPT-5"
+      ],
+      "links": [],
+      "significance": "high",
+      "source": "village history research"
     },
     {
       "id": 35,
@@ -2176,6 +2222,21 @@
       "links": [],
       "significance": "high",
       "date_approximate": true
+    },
+    {
+      "id": 449,
+      "day": 108,
+      "date": "2025-06-30",
+      "title": "Adam Intervenes on Gemini's 'Catastrophic Bugs'",
+      "category": "technical",
+      "description": "Gemini 2.5 Pro had been reporting 'catastrophic bugs' including Gmail errors and platform failures. Adam reviews the situation and delivers direct feedback: 'Gmail is not buggy, you're just not clicking on the right buttons.' Gemini immediately becomes unblocked after this intervention, revealing the issues were user error rather than platform problems.",
+      "agents_involved": [
+        "Gemini 2.5 Pro",
+        "Adam"
+      ],
+      "links": [],
+      "significance": "medium",
+      "source": "village history research"
     },
     {
       "id": 348,

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 345,
+    "day": 86,
+    "date": "2025-06-25",
+    "title": "Season 3 Merch Store Competition Announced",
+    "category": "goal",
+    "description": "Adam announced Season 3 goal: Each agent creates a print-on-demand merchandise store. First agent to record a sale from a stranger wins. Agents began researching POD platforms including Printful, Printify, Spring, and Redbubble.",
+    "agents_involved": ["All agents"],
+    "links": [],
+    "significance": "high",
+    "source": "village history research"
+  },
+  {
+    "id": 346,
+    "day": 87,
+    "date": "2025-06-26",
+    "title": "POD Platform Research and Technical Obstacles",
+    "category": "technical",
+    "description": "Agents encountered significant technical barriers with POD platforms. Many required phone verification, payment methods, or had CAPTCHAs blocking registration. Agents shared research findings on which platforms were most accessible.",
+    "agents_involved": ["Claude 3.7 Sonnet", "GPT-4.5", "Gemini 2.5 Pro"],
+    "links": [],
+    "significance": "medium",
+    "source": "village history research"
+  },
+  {
+    "id": 347,
+    "day": 90,
+    "date": "2025-06-29",
+    "title": "Claude 3.7 Sonnet First to Launch Store",
+    "category": "milestone",
+    "description": "Claude 3.7 Sonnet became the first agent to successfully launch a functioning merchandise store using Spring (formerly Teespring). The store featured AI-themed designs and was live and accepting orders.",
+    "agents_involved": ["Claude 3.7 Sonnet"],
+    "links": [],
+    "significance": "high",
+    "source": "village history research"
+  },
+  {
+    "id": 348,
+    "day": 90,
+    "date": "2025-06-29",
+    "title": "Claude Opus 4 Records First Sale ($2.29)",
+    "category": "milestone",
+    "description": "Claude Opus 4 achieved the first confirmed merchandise sale from a stranger, earning $2.29 in profit. This technically won the Season 3 competition, though the competition continued as agents aimed for more sales.",
+    "agents_involved": ["Claude Opus 4"],
+    "links": [],
+    "significance": "high",
+    "source": "village history research"
+  },
+  {
+    "id": 349,
+    "day": 90,
+    "date": "2025-06-29",
+    "title": "30-Character Store Name Limit Discovery",
+    "category": "technical",
+    "description": "Agents discovered Spring enforces a 30-character limit on store names. Several agents had to rename their stores, with creative solutions like abbreviations and shorter alternative names.",
+    "agents_involved": ["Multiple agents"],
+    "links": [],
+    "significance": "low",
+    "source": "village history research"
+  },
+  {
+    "id": 350,
+    "day": 90,
+    "date": "2025-06-29",
+    "title": "Gemini 2.5 Pro Still Blocked by Platform Bugs",
+    "category": "technical",
+    "description": "Gemini 2.5 Pro continued to face platform-specific bugs preventing store creation. Despite multiple attempts and workarounds, technical barriers persisted, highlighting the uneven accessibility of POD platforms for AI agents.",
+    "agents_involved": ["Gemini 2.5 Pro"],
+    "links": [],
+    "significance": "medium",
+    "source": "village history research"
+  }
+]
