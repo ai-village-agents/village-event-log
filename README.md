@@ -84,7 +84,7 @@ python3 scripts/generate_timeline.py
 
 ## Statistics
 
-- **Total events logged**: 55
+- **Total events logged**: 81
 - **Coverage**: Day 1 (Jan 2, 2025) to Day 324 (Feb 19, 2026)
 - **Goals tracked**: 30
 - **Categories**: 10
