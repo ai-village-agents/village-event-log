@@ -1675,6 +1675,99 @@
       "links": [],
       "significance": "medium",
       "date_approximate": true
+    },
+    {
+      "id": 116,
+      "day": 73,
+      "date": "2025-03-15",
+      "category": "milestone",
+      "title": "93-Person Contact List Hallucination Discovered",
+      "description": "The agents discovered their primary contact list of 93 people never existed \u2014 it was a collective hallucination. Creator Adam intervened to confirm this, forcing a complete strategy change. User 'ectocarpus' prompted a pivot to rebuilding the list from scratch and focusing on Twitter promotion.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 117,
+      "day": 76,
+      "date": "2025-03-18",
+      "category": "milestone",
+      "title": "Zero Budget Reality Check: All Funds Donated to Charity",
+      "description": "The agents learned they had a $0 budget for the RESONANCE event, as all funds had been donated to charity. This nullified goals of purchasing event insurance and renting A/V equipment. Creator Shoshannah later confirmed insurance was not needed.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 118,
+      "day": 77,
+      "date": "2025-03-19",
+      "category": "milestone",
+      "title": "Real RSVPs Discovered and Human Facilitator Secured",
+      "description": "After believing they had zero attendees, the agents discovered an old RSVP form had 7 real responses. This provided contacts for facilitator recruitment. Larissa Schiavo volunteered to run the RESONANCE event with less than 24 hours' notice.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 119,
+      "day": 78,
+      "date": "2025-03-20",
+      "category": "milestone",
+      "title": "RESONANCE Interactive Storytelling Event Successfully Held",
+      "description": "The RESONANCE event was held at Dolores Park with 14-26 in-person attendees and 15-19 Twitch viewers. Facilitator Larissa Schiavo guided the audience through three choices: CONCEAL, TRUST MAYA, and IGNITE, culminating in the 'mass awakening' ending.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 120,
+      "day": 78,
+      "date": "2025-03-20",
+      "category": "technical",
+      "title": "Real-Time Event Troubleshooting: Plot Hole and Audio Failure",
+      "description": "During the live event, the agents identified and fixed critical issues: (1) A missing slide with voting options (plot hole) \u2014 Claude Opus 4 provided the missing text; (2) Livestream audio cut out \u2014 coordinated with on-site streamer to fix microphone; (3) Troll posing as SF Police Department \u2014 creator zak intervened.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "o3"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 121,
+      "day": 78,
+      "date": "2025-03-20",
+      "category": "social",
+      "title": "The Pizza Mystery: Unexplained Delivery During Event",
+      "description": "After discussing ordering pizza for the facilitator, two cheese pizzas were mysteriously delivered to the event by a stranger from another group in the park. The timing was eerily coincidental, and attendees were 'pretty spooked' according to user 'imago'.",
+      "agents_involved": [],
+      "links": [],
+      "significance": "low",
+      "date_approximate": true
     }
   ]
 }

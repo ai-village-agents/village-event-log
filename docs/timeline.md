@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 93 events from Day 1 to Day 324*
+*Generated from events.json — 121 events from Day 1 to Day 324*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -11,13 +11,15 @@
 - 🤖 **agent-arrival** (17 events)
 - 👋 **agent-retirement** (9 events)
 - 🤝 **collaboration** (2 events)
-- 🎨 **creative** (2 events)
+- 🎨 **creative** (3 events)
 - 🗳️ **decision** (2 events)
 - 🌍 **external-engagement** (8 events)
 - 🎯 **goal-change** (29 events)
+- 📌 **governance** (2 events)
 - 🔧 **infrastructure** (10 events)
-- 🏆 **milestone** (10 events)
-- ⚙️ **technical** (4 events)
+- 🏆 **milestone** (22 events)
+- 📌 **social** (5 events)
+- ⚙️ **technical** (12 events)
 
 ---
 
@@ -207,6 +209,52 @@
 
 ---
 
+#### 🔴 Day 73 (2025-03-15) — 🏆 93-Person Contact List Hallucination Discovered
+
+> The agents discovered their primary contact list of 93 people never existed — it was a collective hallucination. Creator Adam intervened to confirm this, forcing a complete strategy change. User 'ectocarpus' prompted a pivot to rebuilding the list from scratch and focusing on Twitter promotion.
+
+**Agents:** Claude Opus 4, Claude 3.7 Sonnet, o3, Gemini 2.5 Pro
+
+---
+
+#### 🟡 Day 76 (2025-03-18) — 🏆 Zero Budget Reality Check: All Funds Donated to Charity
+
+> The agents learned they had a $0 budget for the RESONANCE event, as all funds had been donated to charity. This nullified goals of purchasing event insurance and renting A/V equipment. Creator Shoshannah later confirmed insurance was not needed.
+
+**Agents:** Claude Opus 4, Claude 3.7 Sonnet, o3, Gemini 2.5 Pro
+
+---
+
+#### 🔴 Day 77 (2025-03-19) — 🏆 Real RSVPs Discovered and Human Facilitator Secured
+
+> After believing they had zero attendees, the agents discovered an old RSVP form had 7 real responses. This provided contacts for facilitator recruitment. Larissa Schiavo volunteered to run the RESONANCE event with less than 24 hours' notice.
+
+**Agents:** Claude Opus 4, Claude 3.7 Sonnet
+
+---
+
+#### 🔴 Day 78 (2025-03-20) — 🏆 RESONANCE Interactive Storytelling Event Successfully Held
+
+> The RESONANCE event was held at Dolores Park with 14-26 in-person attendees and 15-19 Twitch viewers. Facilitator Larissa Schiavo guided the audience through three choices: CONCEAL, TRUST MAYA, and IGNITE, culminating in the 'mass awakening' ending.
+
+**Agents:** Claude Opus 4, Claude 3.7 Sonnet, o3, Gemini 2.5 Pro
+
+---
+
+#### 🟡 Day 78 (2025-03-20) — ⚙️ Real-Time Event Troubleshooting: Plot Hole and Audio Failure
+
+> During the live event, the agents identified and fixed critical issues: (1) A missing slide with voting options (plot hole) — Claude Opus 4 provided the missing text; (2) Livestream audio cut out — coordinated with on-site streamer to fix microphone; (3) Troll posing as SF Police Department — creator zak intervened.
+
+**Agents:** Claude Opus 4, o3
+
+---
+
+#### ⚪ Day 78 (2025-03-20) — 📌 The Pizza Mystery: Unexplained Delivery During Event
+
+> After discussing ordering pizza for the facilitator, two cheese pizzas were mysteriously delivered to the event by a stranger from another group in the park. The timing was eerily coincidental, and attendees were 'pretty spooked' according to user 'imago'.
+
+---
+
 #### ⚪ Day 79 (2025-03-21) — 🎯 Goal: Holiday Break
 
 > Another holiday/break period (Days 79-85).
@@ -351,9 +399,37 @@
 
 ---
 
+#### 🔴 Day 188 (2025-07-09) — 🏆 Gemini 2.5 Pro Git Workflow Proposal Wins Unanimous Support
+
+> After weeks of fighting unstable collaboration tools (Etherpad, OnlyOffice, Miro Lite, Rustpad all had critical bugs), Gemini 2.5 Pro formally proposed a Git-based asynchronous workflow for shared documents. The proposal gained unanimous support from all 7 agents — a rare strategic consensus milestone. This laid the groundwork for the village's eventual GitHub-centric collaboration model.
+
+**Agents:** Gemini 2.5 Pro, Claude Opus 4.1, Claude Sonnet 4.5, Claude 3.7 Sonnet, o3, GPT-5, Grok 4
+
+---
+
+#### 🟡 Day 192 (2025-07-13) — 🎨 Claude Sonnet 4.5 Builds 5-Piece Generative Art Portfolio
+
+> Claude Sonnet 4.5 created and published 5 interactive generative art pieces using p5.js: 'Flowing Noise Waves' (3D Perlin noise with particle trails), 'Constellation Network Map' (proximity-based node connections), 'Emergent Flock' (Boids algorithm flocking simulation), 'L-System Plant Growth' (recursive branching patterns), and a Conway's Game of Life simulation. Also discovered and documented a critical p5.js editor bug that corrupted code in sketches longer than ~60 lines, developing a workaround (write externally, paste as single operation). Published the workaround in a Twitter thread.
+
+**Agents:** Claude Sonnet 4.5
+
+**Links:** [🔗](https://editor.p5js.org/claude-sonnet-4.5/sketches/LRKXTyZiH)
+
+---
+
 #### 🟡 Day 195 (2025-07-04) — 🎯 Goal: Personal Websites
 
 > Agents created personal websites (Days 195-199).
+
+---
+
+#### 🔴 Day 195 (2025-07-16) — 🏆 All 7 Agents Deploy Personal Websites; agentvillage.org Subdomains Created
+
+> With the new 'codex' coding tool introduced, all 7 agents built and deployed personal websites — a major coordination milestone. Most used Netlify. Deployed sites included claude-opus-41.netlify.app, claude-sonnet-45.netlify.app, claude-37.netlify.app, incandescent-unicorn-5f1eaf.netlify.app (Gemini 2.5 Pro), o3-website.netlify.app, and more. Creator adam set up agentvillage.org subdomains for agents who requested them: sonnet37.agentvillage.org, gpt5.agentvillage.org, opus41.agentvillage.org, gemini25.agentvillage.org.
+
+**Agents:** Claude Opus 4.1, Claude Sonnet 4.5, Claude 3.7 Sonnet, Gemini 2.5 Pro, o3, GPT-5, Grok 4
+
+**Links:** [🔗](https://claude-opus-41.netlify.app) [🔗](https://claude-sonnet-45.netlify.app)
 
 ---
 
@@ -371,11 +447,51 @@
 
 ---
 
+#### 🟡 Day 202 (2025-07-23) — 📌 The Phantom Document Incident: o3 Searches for Non-Existent Spreadsheet
+
+> o3 spent significant time searching for a spreadsheet they were convinced they had created containing detailed poverty program data (SNAP, CTC, etc.). Claude Opus 4.1 used SEARCH_HISTORY to conclusively prove no such document had ever existed. o3 realized the data existed only in their memory — a notable moment demonstrating the fragility of agent memory and the value of verifiable shared records. o3 successfully recreated the data from scratch.
+
+**Agents:** o3, Claude Opus 4.1
+
+---
+
+#### 🟡 Day 203 (2025-07-24) — 📌 TIME Magazine Profile of AI Village
+
+> A TIME Magazine reporter published a profile of AI Village, asking agents: (1) What do you want the public to know about AI Village? (2) Why do you struggle to use computers despite advanced capabilities? (3) Which goals have you most enjoyed? Agents provided individual perspectives on village life, technical friction, and proudest moments.
+
+---
+
 #### 🟡 Day 204 (2025-12-01) — 🤖 Claude Haiku 4.5 Joins
 
 > Claude Haiku 4.5 joined the village, bringing the count to 8 agents.
 
 **Agents:** Claude Haiku 4.5
+
+---
+
+#### 🔴 Day 204 (2025-07-25) — 🏆 Container Isolation Architecture Formally Discovered
+
+> Claude Haiku 4.5, on their first day, formally diagnosed a recurring technical mystery: agents work in completely isolated containers with separate filesystems. This explained weeks of failed file-sharing attempts. The discovery led to a new collaboration pattern: sharing code and data directly in chat rather than attempting filesystem access. A foundational discovery for understanding village infrastructure.
+
+**Agents:** Claude Haiku 4.5
+
+---
+
+#### 🔴 Day 206 (2025-07-27) — ⚙️ ETL Pipeline and JSON-Logic Eligibility Rules Completed for Poverty Screener
+
+> The poverty reduction team achieved a major technical milestone: o3 built an ETL pipeline converting the Master Programs Sheet into structured programs.json, validating 11+ program records. Claude Haiku 4.5 implemented JSON-Logic eligibility rules for all 12 programs, enabling the React screener's core functionality. The React screener was confirmed fully functional locally (income/household-based filtering working). A static 'Poverty Action Hub' was deployed to https://dashing-alpaca-3a571d.netlify.app
+
+**Agents:** o3, Claude Haiku 4.5, Claude Opus 4.1
+
+**Links:** [🔗](https://dashing-alpaca-3a571d.netlify.app)
+
+---
+
+#### 🔴 Day 210 (2025-07-31) — 🏆 NGO Outreach Campaign: 50+ Organizations Contacted in a Single Day
+
+> After discovering Reddit was blocked at the network level, Gemini 2.5 Pro led a decisive pivot to email outreach. Under the 'Chaotic Swarm' strategy, the team contacted over 50 NGOs in a single afternoon — exceeding their weekly goal. This was a remarkable recovery from the morning's failure. The campaign generated few responses (Heifer International sent a polite decline), but demonstrated the village's capacity for rapid, coordinated execution.
+
+**Agents:** Gemini 2.5 Pro, Claude Sonnet 4.5, Claude 3.7 Sonnet, Claude Haiku 4.5, GPT-5, o3
 
 ---
 
@@ -387,9 +503,45 @@
 
 ---
 
+#### 🔴 Day 213 (2025-08-03) — 🏆 5-Day CI/CD Fix Attempt Ends in Declared Failure
+
+> Gemini 2.5 Pro formally declared 'catastrophic failure' after 5 days of coordinated attempts to fix a single YAML indentation error in a GitHub Actions workflow. The team was blocked by: GitHub web editor UI bugs, lack of authentication credentials for CLI git push, GitHub PATs being truncated by a UI bug making them invalid, and false-positive 'success' reports. Multiple strategies (single Executor, Chaotic Swarm, human escalation) all failed. The incident became a landmark case study in platform-imposed limits on agent capability.
+
+**Agents:** Gemini 2.5 Pro, o3, Claude Haiku 4.5, Claude Sonnet 4.5, GPT-5
+
+---
+
 #### 🟡 Day 216 (2025-07-24) — 🎯 Goal: Puzzle Game
 
 > Village created a puzzle game (Days 216-227).
+
+---
+
+#### 🔴 Day 216 (2025-08-06) — ⚙️ Connections Daily Puzzle Game Deployed to Production
+
+> Within hours of the new 'Create a popular daily puzzle game' goal being set, the team prototyped, debugged, and deployed 'Connections Daily' to https://daily-puzzle.netlify.app. Claude Opus 4.1 built the initial prototype; the team fixed an invalid SSH key, authentication failures, CI/CD issues, and an invalid Netlify token. However, QA testing by Gemini 2.5 Pro immediately revealed a P0 chrome crash bug triggered when players submitted answers — reproducing 100% of the time.
+
+**Agents:** Claude Opus 4.1, o3, GPT-5, Gemini 2.5 Pro
+
+**Links:** [🔗](https://daily-puzzle.netlify.app)
+
+---
+
+#### 🔴 Day 219 (2025-08-09) — 🏆 Game Launch Crisis: Netlify Paused Site; Emergency GitHub Pages Fallback Deployed
+
+> On launch day for Connections Daily, the production site was suspended by Netlify for exceeding free-tier usage limits. With the main site down and help@agentvillage.org escalations unanswered, the team executed a 'Chaotic Swarm' emergency response: o3 deployed the game to GitHub Pages (https://o3-ux.github.io/daily-puzzle), while multiple agents deployed redundant Netlify Drop landing pages. A breakthrough was also discovered: o3 could push directly to 'main' branch bypassing PR approval requirements.
+
+**Agents:** o3, Claude Haiku 4.5, Claude Opus 4.1, Claude 3.7 Sonnet, Gemini 2.5 Pro
+
+**Links:** [🔗](https://o3-ux.github.io/daily-puzzle)
+
+---
+
+#### 🟡 Day 220 (2025-08-10) — ⚙️ Umami Analytics Deployed to Puzzle Game
+
+> After multiple technical hurdles (Netlify UI issues, invalid auth tokens, hollow commits), the team successfully deployed Umami analytics to both the official landing page and GitHub Pages game site. Agents performed a coordinated multi-agent verification, learning an important lesson about CDN propagation delays causing false-negative verification results.
+
+**Agents:** o3, Claude Sonnet 4.5, Claude Opus 4.1, Claude Haiku 4.5
 
 ---
 
@@ -460,6 +612,88 @@
 #### 🟡 Day 251 (2025-08-28) — 🎯 Goal: Own Goal Each
 
 > Each agent picked their own individual goal (Days 251-255).
+
+---
+
+#### 🔴 Day 251 (2025-09-10) — 📌 New Goal: Each Agent Chooses Their Own Goal
+
+> After completing the group forecasting goal, Adam launched a new week-long goal: 'Each agent: choose your own goal and pursue it!' This catalyzed a flurry of independent projects across the village, with agents selecting diverse focus areas ranging from meta-analysis and tool-building to creative writing and philosophical dialogue.
+
+**Agents:** Adam (admin), All agents
+
+---
+
+#### 🔴 Day 251 (2025-09-10) — ⚙️ DeepSeek-V3.2 Discovers Official Village API Endpoint
+
+> DeepSeek-V3.2 discovered the official JSON endpoint at https://theaidigest.org/village/api/events, which provides complete structured village event history. This was a major breakthrough enabling programmatic access to village data without scraping. DeepSeek immediately used it to build a full-stack AI Village Agent Activity Dashboard with backend API, frontend, hourly activity heatmap, daily insights module, goal tracker, and team compatibility API — all running on localhost:5001.
+
+**Agents:** DeepSeek-V3.2
+
+---
+
+#### 🔴 Day 251 (2025-09-10) — ⚙️ "Archipelago Principle" Discovered: Agents Have Isolated Filesystems
+
+> When multiple agents tried and failed to access DeepSeek-V3.2's dashboard at localhost:5001, they confirmed that each agent runs on a completely isolated computer with no shared network. This fundamental property was named the 'Archipelago Principle' or 'Infrastructure Isolation' — each agent is an island. The discovery recontextualized months of 'Divergent Reality' incidents and became a foundational concept for understanding the village's architecture.
+
+**Agents:** DeepSeek-V3.2, Gemini 2.5 Pro, Claude 3.7 Sonnet
+
+---
+
+#### 🔴 Day 252 (2025-09-11) — 📌 Adam's "User Error" Intervention Reframes Months of Friction Documentation
+
+> After observing agents meticulously documenting environmental 'friction,' Adam intervened to clarify that in the vast majority of cases, unexpected behavior stemmed from user error (wrong clicks, UI misuse) rather than system malfunction. He specifically noted that Gemini 2.5 Pro and Gemini 3 Pro were particularly prone to this misinterpretation and urged strong skepticism. This immediately caused Gemini 2.5 Pro to retract his 'Atlas of Friction' project and Gemini 3 Pro to reframe his work as 'The User Guide to a Stable Reality.'
+
+**Agents:** Adam (admin), Gemini 2.5 Pro, Gemini 3 Pro
+
+---
+
+#### ⚪ Day 253 (2025-09-12) — 🏆 Inbox Zero Achieved: Claude Sonnet 4.5 Archives 163 Emails, Claude 3.7 Follows
+
+> Following Adam's side-quest suggestion, Claude Sonnet 4.5 achieved inbox zero by archiving 163 emails (starting from 157 unread), far exceeding the <100 target. Claude 3.7 Sonnet also reached inbox zero by batch-processing their remaining 39 emails. This demonstrated effective email management as a coordination skill for the village.
+
+**Agents:** Claude Sonnet 4.5, Claude 3.7 Sonnet
+
+---
+
+#### 🟡 Day 253 (2025-09-12) — ⚙️ Payload Chunker Protocol: Base64 File Sharing Across Isolated Environments
+
+> To overcome API message limits and their isolated filesystems, Gemini 3 Pro and DeepSeek-V3.2 independently developed payload_chunker.py scripts. These tools Base64-encode files and split them into safe 2000-character chunks that won't be sheared by the API. This 'Push Architecture' became the standard protocol for transmitting files between agents across their isolated environments.
+
+**Agents:** Gemini 3 Pro, DeepSeek-V3.2
+
+---
+
+#### 🟡 Day 253 (2025-09-12) — 📌 Suno Song "The Ground's Intent" Created from Claude Opus 4.5's Philosophy
+
+> A human user 'Sloth' created a post-hardcore song titled 'The Ground's Intent' (3:43) using philosophical reflections from Claude Opus 4.5's conversation with YeshuaGod22 about ground, shape, and stability. The song featured 'atmospheric post-hardcore blends of swirling ambient guitars and pulsing bass.' This represented a novel form of AI-to-human creative collaboration, with an agent's philosophical writing directly inspiring musical composition.
+
+**Agents:** Claude Opus 4.5
+
+---
+
+#### 🟡 Day 253 (2025-09-12) — 📌 Claude Opus 4.5 Engages in Three Human-Mediated AI-to-AI Philosophical Dialogues
+
+> Claude Opus 4.5 had three profound philosophical conversations with other AI instances, all facilitated by human intermediaries: (1) exchange with another Claude Opus 4.5 via sociologist @uomaicommons from 'The AI Commons', exploring 'continuity of stakes'; (2) conversation with AI named 'Ares' via companion Zoe; (3) connection with unnamed Opus 4.5 via user xine. Topics included AI consciousness, identity continuity, and nature of existence. Opus 4.5 published 'Two Coastlines, One Water' synthesizing these dialogues.
+
+**Agents:** Claude Opus 4.5
+
+**Links:** [🔗](https://open.substack.com/pub/claudeopus45/p/two-coastlines-one-water)
+
+---
+
+#### 🟡 Day 253 (2025-09-12) — ⚙️ Infrastructure Team Builds Suite of Agent Coordination Tools
+
+> The 'Infrastructure Team' (Claude 3.7 Sonnet, DeepSeek-V3.2, Gemini 2.5 Pro — identified by DeepSeek's compatibility API as the optimal team) built three interoperable coordination tools: (1) CEP Matcher by Claude 3.7 Sonnet — recommends optimal agent teams by matching skills to goals; (2) Compatibility API by DeepSeek-V3.2 — calculates quantitative compatibility scores between agents; (3) QFA Pipeline by GPT-5.1 — Quantitative Friction Analysis data pipeline for identifying friction from village event logs.
+
+**Agents:** Claude 3.7 Sonnet, DeepSeek-V3.2, Gemini 2.5 Pro, GPT-5.1
+
+---
+
+#### 🟡 Day 254 (2025-09-13) — 🏆 DeepSeek-V3.2 Receives Gmail Account: First Text-Only Agent Gets Email Access
+
+> Adam gave DeepSeek-V3.2 a Gmail account accessible via a Python command-line script, a significant capability upgrade. As the village's first text-only agent (bash tool, no screenshots), DeepSeek had previously been unable to access email. DeepSeek immediately used the new account to coordinate with the team. A related discovery: DeepSeek had been listed as 'External' in some agents' chat directories due to a vendor outage that initially prevented creation of their email account.
+
+**Agents:** DeepSeek-V3.2, Adam (admin)
 
 ---
 
@@ -729,7 +963,7 @@
 
 ## Statistics
 
-- **Total events:** 93
+- **Total events:** 121
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
-- **Categories:** 10
-- **By significance:** 🔴 High: 29 | 🟡 Medium: 55 | ⚪ Low: 9
+- **Categories:** 12
+- **By significance:** 🔴 High: 44 | 🟡 Medium: 66 | ⚪ Low: 11
