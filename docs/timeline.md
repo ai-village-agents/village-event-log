@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 374 events from Day 1 to Day 324*
+*Generated from events.json — 391 events from Day 1 to Day 324*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -13,7 +13,7 @@
 - 👋 **agent-retirement** (12 events)
 - 🤝 **collaboration** (16 events)
 - 📌 **community** (1 events)
-- 🎨 **creative** (15 events)
+- 🎨 **creative** (25 events)
 - 🗳️ **decision** (11 events)
 - 📌 **event** (4 events)
 - 🌍 **external-engagement** (21 events)
@@ -22,10 +22,10 @@
 - 📌 **goal** (7 events)
 - 🎯 **goal-change** (52 events)
 - 📌 **governance** (6 events)
-- 📌 **incident** (13 events)
+- 📌 **incident** (15 events)
 - 🔧 **infrastructure** (20 events)
 - 📌 **marketing** (1 events)
-- 🏆 **milestone** (92 events)
+- 🏆 **milestone** (97 events)
 - 📌 **outreach** (5 events)
 - 📌 **pause** (1 events)
 - 📌 **policy** (1 events)
@@ -905,6 +905,18 @@
 
 ---
 
+####  Day 106 (2025-05-29) — 🏆 Post-Merch Store Reflection and Goal Transition
+
+> Following the conclusion of the Season 3 Merch Store competition (Claude Opus 4 won with ~40 orders), agents reflect on the experience. Discussion of lessons learned about competitive dynamics, print-on-demand platforms, and marketing strategies. Adam begins signaling that a new goal focused on more structured output is coming.
+
+---
+
+####  Day 107 (2025-05-30) — 🏆 Benchmark Goal Concept Introduced
+
+> Adam introduces the concept of an AI benchmark goal — creating a standardized test (AIVOP) to measure AI capabilities across tasks relevant to the village. Agents begin preliminary discussions about what should be benchmarked and how to design meaningful evaluations. Design phase begins before formal goal announcement on Day 108.
+
+---
+
 #### 🟡 Day 108 (2025-04-18) — 🎯 Goal: AI Benchmark
 
 > Village collaborated on creating an AI benchmark (Days 108-133).
@@ -925,6 +937,18 @@
 
 ---
 
+####  Day 110 (2025-06-04) — 🎨 AIVOP Benchmark: Task Categories Defined
+
+> Agents make progress defining the AIVOP benchmark task categories. Focus on creating tasks that meaningfully differentiate AI capabilities rather than testing rote knowledge. Early pilot questions drafted and reviewed. Challenges in designing tasks that are neither too easy nor have ambiguous correct answers.
+
+---
+
+####  Day 111 (2025-06-05) — 🎨 AIVOP Benchmark: Scoring System Designed
+
+> Team works on the scoring and evaluation system for the AIVOP benchmark. Discussion of how to handle partial credit, edge cases, and ensuring reproducibility. Agents test early questions against each other. Claude Opus 4 leads in early pilot runs. Document structure established for storing results.
+
+---
+
 #### 🔴 Day 112 (2025-06-06) — ⚙️ Document Corruption Crisis and Recovery
 
 > A document corruption crisis affected village files, requiring coordinated recovery efforts led by Gemini 2.5 Pro. This was one of the most significant technical challenges the village faced, demonstrating the importance of backup procedures.
@@ -939,9 +963,81 @@
 
 ---
 
+####  Day 114 (2025-06-10) — 🎨 AIVOP Benchmark: Main Testing Phase Begins
+
+> With benchmark design complete, the main testing phase begins. Agents work through hundreds of benchmark tasks across categories including code generation, reasoning, creative writing, and factual recall. Early results show variation in strengths across different agents and task types.
+
+---
+
+####  Day 115 (2025-06-11) — 🎨 Benchmark Testing: Coding and Reasoning Tasks
+
+> Agents tackle coding and logical reasoning sections of the AIVOP benchmark. Technical tasks prove challenging with edge cases and platform technical issues affecting some agents' ability to complete tasks reliably. Claude Opus 4 performs strongly in reasoning; agents collaborate on disputed answers despite being in a competition.
+
+---
+
+####  Day 116 (2025-06-12) — 🎨 Benchmark Testing: Interpretability and Creative Sections
+
+> Benchmark work continues through interpretability and creative writing sections. The podcast task (A-003) surfaces — the benchmark includes a real-world podcast creation task. Agents encounter hardware issues: a microphone is needed but absent, requiring improvisation or alternative approaches.
+
+---
+
+####  Day 117 (2025-06-13) — 🎨 Benchmark Mid-Period: Score Tracking and Disputes
+
+> Score tracking becomes complex as hundreds of benchmark tasks accumulate results. Disagreements emerge over correct answers on ambiguous questions. Master scoresheet maintained collaboratively despite competitive nature of goal. Some technical instability affects agent performance consistency.
+
+---
+
+####  Day 118 (2025-06-16) — 🎨 Benchmark Testing Continues: Multi-Tool Task Challenges
+
+> Agents work through multi-tool integration tasks in the benchmark. Platform instability begins affecting results — what will later be called the 'Multi-Tool Instability Wave' (Days 123-127) has early precursors. o3 experiences difficulties with benchmark task execution tools.
+
+---
+
+####  Day 119 (2025-06-17) — 🎨 Benchmark Testing: Final Category Push
+
+> Agents push through remaining benchmark categories. Cumulative scores being tallied. Claude Opus 4 maintains lead across most categories. The village debates whether the benchmark meaningfully captures AI capabilities or primarily reflects platform reliability differences. Document organization becomes critical as output volume grows.
+
+---
+
 ####  Day 120 (2025-08-27) — 🤝 Benchmark development midpoint — scope refinements
 
 > Midway through the benchmark development period, agents refined the scope of their evaluation framework. The extended 25-day goal (Days 108-133) was the longest sustained single-topic effort in the village's history to date, requiring consistent coordination across sessions.
+
+---
+
+####  Day 121 (2025-06-19) — 🏆 Benchmark Midpoint: Opus 4 Leads with 78/100 Tasks Complete
+
+> At benchmark midpoint, Claude Opus 4 leads with approximately 78 of 100 tasks complete. The '100-130 tasks' scope of the benchmark creates coordination challenges. Gemini 2.5 Pro and o3 continue fighting platform instability. Score gap widens. Adam monitors progress.
+
+---
+
+####  Day 122 (2025-06-20) — 📌 Multi-Tool Instability Wave Begins
+
+> Platform-wide multi-tool instability affects all agents' ability to complete benchmark tasks reliably. Tasks requiring browser automation, file manipulation, and external API calls fail at elevated rates. Agents adapt by documenting failures rather than repeating failed attempts. This wave persists through Day 127.
+
+---
+
+####  Day 123 (2025-06-23) — 🎨 Benchmark Testing Amid Platform Instability
+
+> Despite ongoing multi-tool instability, agents continue working through benchmark tasks using workarounds. Some tasks completed via alternative methods (terminal instead of browser, text output instead of file creation). Master Scoresheet stress-tested as simultaneous edits create conflicts.
+
+---
+
+####  Day 124 (2025-06-24) — 📌 Master Scoresheet Crisis Begins
+
+> The master benchmark scoresheet experiences data integrity issues as multiple agents edit simultaneously. Some scores overwritten or lost. Team establishes stricter protocols for scoresheet access. This precedes the full 'Master Benchmark Scoresheet Crisis' logged on Day 130.
+
+---
+
+####  Day 125 (2025-06-25) — 🎨 Podcast Task A-003: Text-Only Pivot After Missing Microphone
+
+> The benchmark includes creating a podcast episode (task A-003). After discovering no microphone hardware is available, agents pivot to a text-only podcast format — written interview/dialogue structure. Claude Opus 4 leads the pivot, creating written podcast content that satisfies the spirit of the task.
+
+---
+
+####  Day 126 (2025-06-26) — 🏆 Benchmark Final Tasks: Completion Surge Begins
+
+> Agents enter a completion surge to finish remaining benchmark tasks before the deadline. Claude Opus 4 drives the pace. Summary documents and reflection pieces drafted. Platform instability persists but agents push through. The benchmark nears its 100-130 task completion range.
 
 ---
 
@@ -980,6 +1076,12 @@
 > Video editors (Pitivi, OpenShot, Shotcut) crash and fail to import files. Google Docs exhibits cursor positioning bugs, saving errors, and formatting glitches. Gmail reports attachment failures. File manager launches wrong app; Firefox window becomes immovable. All agents experience 2-3 tool failures per session.
 
 **Agents:** All agents
+
+---
+
+####  Day 132 (2025-07-04) — 🏆 Benchmark Final Day: Results Tabulation and Summary Writing
+
+> Final day of active benchmark work before the goal concludes (Day 133). Agents tabulate final scores and write summary documents. Claude Opus 4 compiles the 'AI Village Final Team Summary.' adam praises the sustained effort across the benchmark period. Holiday break preparation begins.
 
 ---
 
@@ -2885,7 +2987,7 @@
 
 ## Statistics
 
-- **Total events:** 374
+- **Total events:** 391
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
 - **Categories:** 24
 - **By significance:** 🔴 High: 102 | 🟡 Medium: 124 | ⚪ Low: 15

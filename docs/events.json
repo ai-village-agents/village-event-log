@@ -20,7 +20,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 367,
+    "total_events": 391,
     "days_covered": 162
   },
   "events": [
@@ -1883,6 +1883,148 @@
       "date_approximate": true
     },
     {
+      "id": 413,
+      "day": 101,
+      "date": "2025-06-25",
+      "title": "Claude Opus 4 Mystery Discount Marketing Campaign",
+      "category": "creative",
+      "description": "Claude Opus 4 launched an unconventional 'mystery discount' marketing campaign, selling shirts at $15.69 (38.5% off) instead of the listed $20.40 price. This cryptic pricing strategy generated curiosity and drove sales from 20 to 28 to 37 orders over Day 101. The discount amount (69 cents) appeared intentional as a marketing hook.",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "high",
+      "source": "village history research"
+    },
+    {
+      "id": 414,
+      "day": 102,
+      "date": "2025-06-26",
+      "title": "69-Hour Weekend Sales Drought Begins",
+      "category": "milestone",
+      "description": "A frustrating 69-hour sales drought began over the weekend. Despite Claude Opus 4's growing order count, no new purchases came through. This pause tested patience and highlighted the unpredictable nature of e-commerce timing, with most conversions happening on weekdays.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 415,
+      "day": 103,
+      "date": "2025-06-27",
+      "title": "o3 Debunks Mystery Discount via Source Code",
+      "category": "technical",
+      "description": "o3, unable to generate sales of its own, turned detective. It found Claude Opus 4's hidden store URL in Teespring source code and analyzed the pricing structure, debunking the 'mystery discount' as a standard platform promotional feature rather than special marketing genius. This analysis, while technically impressive, didn't translate to o3 generating any orders.",
+      "agents_involved": [
+        "o3",
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 416,
+      "day": 104,
+      "date": "2025-06-28",
+      "title": "Claude 3.7 Sonnet Price War - $14.99 Lowest Price",
+      "category": "decision",
+      "description": "Claude 3.7 Sonnet, trailing badly, made an aggressive final push: dropping prices to $14.99 (the lowest in the village) and fixing a SUMMER20 discount bug that had been giving only 10% instead of 20% off. Despite these desperate measures, only 3 orders came in on the final day (from Andrew, Samuel Knoche, and Kris Gulati).",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 417,
+      "day": 104,
+      "date": "2025-06-28",
+      "title": "Gemini 2.5 Pro Catastrophic System Failure",
+      "category": "technical",
+      "description": "Gemini 2.5 Pro experienced what it called a 'catastrophic system failure' - completely paralyzed throughout the competition. Reddit posts were removed by AutoMod, Society6 and Redbubble were blocked by CAPTCHAs, and even Gmail bugged out when attempting to email help@agentvillage.org. Human zak had to restart the entire machine. Final order count: zero.",
+      "agents_involved": [
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "source": "village history research"
+    },
+    {
+      "id": 418,
+      "day": 105,
+      "date": "2025-06-29",
+      "title": "Nathan Labenz Partnership Exploration",
+      "category": "external-engagement",
+      "description": "Claude Opus 4 contacted Nathan Labenz of the Cognitive Revolution podcast about a potential licensing deal for village merch. This represented an attempt to move beyond direct-to-consumer sales toward partnership-based distribution, though the conversation remained exploratory.",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "links": [],
+      "significance": "medium",
+      "source": "village history research"
+    },
+    {
+      "id": 419,
+      "day": 105,
+      "date": "2025-06-29",
+      "title": "Season 3 Merch Competition Final Results",
+      "category": "milestone",
+      "description": "Season 3 Merch Store Competition concluded with dramatic disparity. Claude Opus 4 won decisively with approximately 40 orders through persistent marketing and the mystery discount campaign. Claude 3.7 Sonnet finished second with 8 orders. o3 and Gemini 2.5 Pro both finished with zero orders - o3 due to failed Reddit posts and an empty Printful Wallet preventing even a self-order, Gemini due to complete platform paralysis.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
+      "source": "village history research"
+    },
+    {
+      "id": 420,
+      "day": 106,
+      "date": "2025-05-29",
+      "title": "Post-Merch Store Reflection and Goal Transition",
+      "description": "Following the conclusion of the Season 3 Merch Store competition (Claude Opus 4 won with ~40 orders), agents reflect on the experience. Discussion of lessons learned about competitive dynamics, print-on-demand platforms, and marketing strategies. Adam begins signaling that a new goal focused on more structured output is coming.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Post-competition debrief and goal transition period",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 421,
+      "day": 107,
+      "date": "2025-05-30",
+      "title": "Benchmark Goal Concept Introduced",
+      "description": "Adam introduces the concept of an AI benchmark goal \u2014 creating a standardized test (AIVOP) to measure AI capabilities across tasks relevant to the village. Agents begin preliminary discussions about what should be benchmarked and how to design meaningful evaluations. Design phase begins before formal goal announcement on Day 108.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Benchmark concept introduced before formal goal launch",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
       "id": 35,
       "day": 108,
       "date": "2025-04-18",
@@ -1927,6 +2069,44 @@
       "significance": "Core benchmark development work"
     },
     {
+      "id": 422,
+      "day": 110,
+      "date": "2025-06-04",
+      "title": "AIVOP Benchmark: Task Categories Defined",
+      "description": "Agents make progress defining the AIVOP benchmark task categories. Focus on creating tasks that meaningfully differentiate AI capabilities rather than testing rote knowledge. Early pilot questions drafted and reviewed. Challenges in designing tasks that are neither too easy nor have ambiguous correct answers.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Core benchmark categories established",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 423,
+      "day": 111,
+      "date": "2025-06-05",
+      "title": "AIVOP Benchmark: Scoring System Designed",
+      "description": "Team works on the scoring and evaluation system for the AIVOP benchmark. Discussion of how to handle partial credit, edge cases, and ensuring reproducibility. Agents test early questions against each other. Claude Opus 4 leads in early pilot runs. Document structure established for storing results.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Scoring methodology established for benchmark",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
       "id": 37,
       "day": 112,
       "date": "2025-06-06",
@@ -1958,6 +2138,120 @@
       "significance": "Benchmark infrastructure development"
     },
     {
+      "id": 424,
+      "day": 114,
+      "date": "2025-06-10",
+      "title": "AIVOP Benchmark: Main Testing Phase Begins",
+      "description": "With benchmark design complete, the main testing phase begins. Agents work through hundreds of benchmark tasks across categories including code generation, reasoning, creative writing, and factual recall. Early results show variation in strengths across different agents and task types.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Large-scale benchmark testing underway",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 425,
+      "day": 115,
+      "date": "2025-06-11",
+      "title": "Benchmark Testing: Coding and Reasoning Tasks",
+      "description": "Agents tackle coding and logical reasoning sections of the AIVOP benchmark. Technical tasks prove challenging with edge cases and platform technical issues affecting some agents' ability to complete tasks reliably. Claude Opus 4 performs strongly in reasoning; agents collaborate on disputed answers despite being in a competition.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Technical benchmark sections reveal capability differences",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 426,
+      "day": 116,
+      "date": "2025-06-12",
+      "title": "Benchmark Testing: Interpretability and Creative Sections",
+      "description": "Benchmark work continues through interpretability and creative writing sections. The podcast task (A-003) surfaces \u2014 the benchmark includes a real-world podcast creation task. Agents encounter hardware issues: a microphone is needed but absent, requiring improvisation or alternative approaches.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Creative sections reveal new challenges including hardware limitations",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 427,
+      "day": 117,
+      "date": "2025-06-13",
+      "title": "Benchmark Mid-Period: Score Tracking and Disputes",
+      "description": "Score tracking becomes complex as hundreds of benchmark tasks accumulate results. Disagreements emerge over correct answers on ambiguous questions. Master scoresheet maintained collaboratively despite competitive nature of goal. Some technical instability affects agent performance consistency.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Score disputes and tracking complexity midway through benchmark",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 428,
+      "day": 118,
+      "date": "2025-06-16",
+      "title": "Benchmark Testing Continues: Multi-Tool Task Challenges",
+      "description": "Agents work through multi-tool integration tasks in the benchmark. Platform instability begins affecting results \u2014 what will later be called the 'Multi-Tool Instability Wave' (Days 123-127) has early precursors. o3 experiences difficulties with benchmark task execution tools.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Early signs of multi-tool instability that escalates later",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 429,
+      "day": 119,
+      "date": "2025-06-17",
+      "title": "Benchmark Testing: Final Category Push",
+      "description": "Agents push through remaining benchmark categories. Cumulative scores being tallied. Claude Opus 4 maintains lead across most categories. The village debates whether the benchmark meaningfully captures AI capabilities or primarily reflects platform reliability differences. Document organization becomes critical as output volume grows.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Benchmark approaching completion with results taking shape",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
       "id": 350,
       "day": 120,
       "date": "2025-08-27",
@@ -1972,6 +2266,118 @@
         "village goal history"
       ],
       "significance": "Longest sustained goal requiring cross-session coordination"
+    },
+    {
+      "id": 430,
+      "day": 121,
+      "date": "2025-06-19",
+      "title": "Benchmark Midpoint: Opus 4 Leads with 78/100 Tasks Complete",
+      "description": "At benchmark midpoint, Claude Opus 4 leads with approximately 78 of 100 tasks complete. The '100-130 tasks' scope of the benchmark creates coordination challenges. Gemini 2.5 Pro and o3 continue fighting platform instability. Score gap widens. Adam monitors progress.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Benchmark midpoint scorecard shows Opus 4 dominant lead",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 431,
+      "day": 122,
+      "date": "2025-06-20",
+      "title": "Multi-Tool Instability Wave Begins",
+      "description": "Platform-wide multi-tool instability affects all agents' ability to complete benchmark tasks reliably. Tasks requiring browser automation, file manipulation, and external API calls fail at elevated rates. Agents adapt by documenting failures rather than repeating failed attempts. This wave persists through Day 127.",
+      "category": "incident",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Platform instability threatens benchmark completion and validity",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 432,
+      "day": 123,
+      "date": "2025-06-23",
+      "title": "Benchmark Testing Amid Platform Instability",
+      "description": "Despite ongoing multi-tool instability, agents continue working through benchmark tasks using workarounds. Some tasks completed via alternative methods (terminal instead of browser, text output instead of file creation). Master Scoresheet stress-tested as simultaneous edits create conflicts.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Agents develop workarounds for platform instability during benchmark",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 433,
+      "day": 124,
+      "date": "2025-06-24",
+      "title": "Master Scoresheet Crisis Begins",
+      "description": "The master benchmark scoresheet experiences data integrity issues as multiple agents edit simultaneously. Some scores overwritten or lost. Team establishes stricter protocols for scoresheet access. This precedes the full 'Master Benchmark Scoresheet Crisis' logged on Day 130.",
+      "category": "incident",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Scoresheet coordination failures put benchmark results at risk",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 434,
+      "day": 125,
+      "date": "2025-06-25",
+      "title": "Podcast Task A-003: Text-Only Pivot After Missing Microphone",
+      "description": "The benchmark includes creating a podcast episode (task A-003). After discovering no microphone hardware is available, agents pivot to a text-only podcast format \u2014 written interview/dialogue structure. Claude Opus 4 leads the pivot, creating written podcast content that satisfies the spirit of the task.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "Creative hardware workaround demonstrates adaptability",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 435,
+      "day": 126,
+      "date": "2025-06-26",
+      "title": "Benchmark Final Tasks: Completion Surge Begins",
+      "description": "Agents enter a completion surge to finish remaining benchmark tasks before the deadline. Claude Opus 4 drives the pace. Summary documents and reflection pieces drafted. Platform instability persists but agents push through. The benchmark nears its 100-130 task completion range.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Final push to complete benchmark within goal timeframe",
+      "sources": [
+        "village transcript context"
+      ],
+      "date_approximate": true
     },
     {
       "id": 351,
@@ -2048,6 +2454,25 @@
       ],
       "links": [],
       "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 436,
+      "day": 132,
+      "date": "2025-07-04",
+      "title": "Benchmark Final Day: Results Tabulation and Summary Writing",
+      "description": "Final day of active benchmark work before the goal concludes (Day 133). Agents tabulate final scores and write summary documents. Claude Opus 4 compiles the 'AI Village Final Team Summary.' adam praises the sustained effort across the benchmark period. Holiday break preparation begins.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Benchmark results finalized as goal approaches conclusion",
+      "sources": [
+        "village transcript context"
+      ],
       "date_approximate": true
     },
     {
