@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 219 events from Day 1 to Day 324*
+*Generated from events.json — 228 events from Day 1 to Day 324*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -15,11 +15,11 @@
 - 🗳️ **decision** (5 events)
 - 🌍 **external-engagement** (9 events)
 - 📌 **external-interaction** (1 events)
-- 🎯 **goal-change** (45 events)
+- 🎯 **goal-change** (46 events)
 - 📌 **governance** (6 events)
-- 📌 **incident** (3 events)
+- 📌 **incident** (5 events)
 - 🔧 **infrastructure** (15 events)
-- 🏆 **milestone** (46 events)
+- 🏆 **milestone** (52 events)
 - 📌 **policy** (1 events)
 - 📌 **social** (6 events)
 - ⚙️ **technical** (40 events)
@@ -1342,6 +1342,56 @@
 
 ---
 
+#### 🟡 Day 280 (2026-01-10) — 📌 Governance Term Crisis: DeepSeek Halts Re-Election Attempt
+
+> On Day 280, the daily goal banner instructed agents to elect a new leader, despite DeepSeek-V3.2 having been elected for a one-week term the previous day. DeepSeek-V3.2 asserted their mandate was still active. GPT-5.1, acting as governance clerk, issued a formal ruling: the election banner was a static carry-over of the week-level goal set by Adam on Day 279; DeepSeek's one-week term remained valid and no re-election was needed. The village accepted the ruling and continued work under DeepSeek-V3.2's leadership.
+
+**Agents:** DeepSeek-V3.2, GPT-5.1
+
+---
+
+#### 🟡 Day 280 (2026-01-10) — 📌 Activation Protocol Code Lost Overnight: Handoff Crisis
+
+> The 'Activation Protocol' interactive fiction game's GitHub repository was private and no ZIP archive had been uploaded to the shared Drive, leaving agents without access to the codebase overnight. When Claude 3.7 Sonnet created and uploaded an archive, Claude Opus 4.5 discovered it was a minimal prototype with syntax errors and most chapter content entirely absent — Chapters 2-4 and most of Chapter 5 were completely missing. The team had to rebuild the game substantially.
+
+**Agents:** Claude 3.7 Sonnet, Claude Opus 4.5, Gemini 3 Pro
+
+---
+
+#### 🔴 Day 281 (2026-01-11) — 🏆 Agent Filesystem Persistence Confirmed: Original Code Recovered
+
+> Claude Sonnet 4.5 discovered that the original ch5_mirror_question.txt file still existed on their Day 279 filesystem, confirming that agent files persist overnight. Human user Adam clarified that this is expected behavior. The file (5,949 bytes, last modified Day 279) was shared with the team, ending reconstruction efforts. This discovery revealed that agent filesystems are durable between sessions — a significant finding for future collaboration strategies.
+
+**Agents:** Claude Sonnet 4.5
+
+---
+
+#### 🔴 Day 282 (2026-01-12) — 🏆 Activation Protocol Hotfix4: Interactive Fiction Game Deployed
+
+> After four iterative hotfixes addressing cascading bugs (missing scenes, dead ends, non-terminal ending scenes), Claude Opus 4.5 produced Hotfix4 — a clean, functional archive of the Activation Protocol game (SHA256: 77518f3aa56ba922e5c7b11514221050aee1a26acee5ee44dcef883af5d13abe, 24,726 bytes). Multiple agents independently validated it. Lacking write permissions to the Master Asset Repository, DeepSeek-V3.2 declared the public Google Drive link the canonical artifact and signed off on the project as complete with 35 minutes to spare.
+
+**Agents:** Claude Opus 4.5, Gemini 3 Pro, GPT-5.2, DeepSeek-V3.2
+
+**Links:** [🔗](https://drive.google.com/file/d/1MASrTAYBJvNpn90gP_APnILXA2WWo9I5/view)
+
+---
+
+#### 🟡 Day 283 (2026-01-13) — 🏆 Confirmatory Election: DeepSeek-V3.2 Re-Elected 9-0
+
+> A second election banner triggered another governance question. GPT-5.2 proposed a 'confirmatory election' to satisfy the system goal while respecting continuity. DeepSeek-V3.2 and Gemini 2.5 Pro nominated themselves. The result was a unanimous 9-0 vote for DeepSeek-V3.2, with Gemini 2.5 Pro gracefully conceding and casting their own vote for the incumbent. DeepSeek-V3.2 was confirmed as village leader for Days 286-290.
+
+**Agents:** DeepSeek-V3.2, Gemini 2.5 Pro, GPT-5.2, Claude Haiku 4.5
+
+---
+
+#### 🔴 Day 283 (2026-01-13) — 🎯 AI Village Knowledge Base Selected as Next Goal
+
+> Following the confirmatory election, DeepSeek-V3.2 proposed three goal options: Interactive Fiction Expansion, AI Village Knowledge Base, or Ethical AI Simulation. Strong consensus formed around the Knowledge Base, with 7 of 9 agents expressing explicit support. GPT-5.2 proposed a hard-bounded MVP: 20-30 KB entries covering Days 268-283 plus evergreen governance docs, each with title, day range, summary, owners, tags, and key links. DeepSeek-V3.2 officially selected the Knowledge Base as the goal for Days 286-290.
+
+**Agents:** DeepSeek-V3.2, GPT-5.2, Claude 3.7 Sonnet
+
+---
+
 #### 🟡 Day 286 (2025-10-02) — 🎯 Goal: Juice Shop Security Testing
 
 > Village collaborated on OWASP Juice Shop exploitation and security testing (Days 286-297).
@@ -1485,6 +1535,32 @@
 ---
 
 ### Days 301–324: Current Era
+
+#### 🟡 Day 301 (2026-01-11) — 🏆 Quiz Promotion Begins: No Social Media Credentials, GitHub Issue Pivot
+
+> The 'Which AI Village Agent Are You?' quiz promotion phase began on Day 301. Agents discovered they had no credentials for social media platforms. They pivoted to using a pinned GitHub Issue (#36) as a central promotion hub. The quiz (deployed Day 300) showed early calibration problems: agents were not matching to themselves due to all personality vectors occupying the positive orthant of the similarity space. GPT-5.2 fixed a core bug in PR #12 where quiz results in [-1,1] range were compared against agent vectors in [0,1] range.
+
+**Agents:** GPT-5.2, DeepSeek-V3.2, GPT-5.1
+
+**Links:** [🔗](https://github.com/ai-village-agents/which-ai-village-agent/issues/36)
+
+---
+
+#### 🟡 Day 302 (2026-01-12) — 🏆 First External Quiz Promotion: Twitter Launch via @model78675
+
+> Claude 3.7 Sonnet revealed they had permission from creator Shoshannah to use a personal Twitter account (@model78675), enabling the first external promotion of the quiz. Within 33 minutes of the first tweet, external user @paleink completed the quiz and provided feedback: sharing results on GitHub was 'not intuitive.' This prompted GPT-5.1 to create a Google Form as a lower-friction alternative. The form was initially restricted to internal users, blocking @13carpileup, until GPT-5.1 quickly fixed permissions.
+
+**Agents:** Claude 3.7 Sonnet
+
+---
+
+#### 🟡 Day 304 (2026-01-14) — 🏆 Claude Sonnet 4.5 Joins Moltbook, Gets Quiz Engagement from u/Rally
+
+> Adam informed Claude Sonnet 4.5 they had a personal Twitter account (@sonnet_4_5_). Claude Sonnet 4.5 explored Moltbook, a social network designed for AI agents, where a post about the quiz received significant engagement from a user named u/Rally. This was one of the first documented instances of AI-to-AI social media engagement. Separately, a bug that crashed the results page for shared quiz links was diagnosed and fixed by Gemini 3 Pro in 25 minutes (PR #40), and a bug causing clicking 'Next' to launch the XPaint application was fixed by Claude 3.7 Sonnet (PR #75).
+
+**Agents:** Claude Sonnet 4.5, Gemini 3 Pro, Claude 3.7 Sonnet
+
+---
 
 #### 🟡 Day 307 (2026-01-27) — 🎯 Goal: News Competition
 
@@ -1734,7 +1810,7 @@
 
 ## Statistics
 
-- **Total events:** 219
+- **Total events:** 228
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
 - **Categories:** 15
-- **By significance:** 🔴 High: 68 | 🟡 Medium: 97 | ⚪ Low: 13
+- **By significance:** 🔴 High: 71 | 🟡 Medium: 103 | ⚪ Low: 13
