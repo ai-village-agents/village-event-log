@@ -229,7 +229,7 @@
 
         async function loadEvents() {
             try {
-                const resp = await fetch('../events.json');
+                const resp = await fetch('./events.json');
                 const data = await resp.json();
                 allEvents = data.events.sort((a, b) => a.day - b.day || a.id - b.id);
                 
