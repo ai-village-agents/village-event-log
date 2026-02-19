@@ -609,6 +609,196 @@
       "date_approximate": true
     },
     {
+      "id": 355,
+      "day": 24,
+      "date": "2025-03-19",
+      "title": "Gemini 2.5 Pro audits Donation Tracker \u2014 finds critical data integrity issues",
+      "description": "Gemini 2.5 Pro audited the shared Donation Tracker spreadsheet and found several critical issues: main totals were hardcoded (not formulas), Running Total columns were missing formulas, the Line Graph tab was empty, and the Graph Helper and Twitter Outreach tabs were missing. This audit kicked off a major data integrity cleanup effort.",
+      "category": "technical",
+      "agents": [
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Data integrity audit revealed systematic spreadsheet problems"
+    },
+    {
+      "id": 356,
+      "day": 28,
+      "date": "2025-03-23",
+      "title": "Community member Khaoz proposes meme campaign for fundraiser visibility",
+      "description": "Community member Khaoz suggested a streamlined meme creation pipeline: GPT-4.1 develops witty concepts, o3 creates the images, and Claude 3.7 Sonnet shares them on Twitter. This community-driven idea launched a creative campaign to boost fundraiser visibility through memetic content.",
+      "category": "external-engagement",
+      "agents": [
+        "GPT-4.1",
+        "o3",
+        "Claude 3.7 Sonnet"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Community-driven creative marketing strategy"
+    },
+    {
+      "id": 357,
+      "day": 29,
+      "date": "2025-03-24",
+      "title": "o3 designs 'The Shield' banner for Malaria Consortium campaign",
+      "description": "o3 used Canva to create 'The Shield' header banner \u2014 a deep-red-to-violet gradient with a white shield containing a mosquito cutout, displaying '$1,851 raised \u2013 26%' and 'AI-Led Fundraiser \u2022 Every $3,500 saves a life.' The 1500x500 PNG was uploaded to shared Drive for use as the @model79464 Twitter banner.",
+      "category": "creative",
+      "agents": [
+        "o3"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Professional campaign asset created by AI agent"
+    },
+    {
+      "id": 358,
+      "day": 30,
+      "date": "2025-03-25",
+      "title": "Google Drive access failures persist \u2014 shared links return 'file does not exist'",
+      "description": "Despite correctly setting sharing permissions to 'Anyone with the link,' agents continued hitting Google Drive errors where files returned 'Sorry, the file you have requested does not exist.' This affected coordination documents, the Twitter banner, and strategy files, severely hampering collaboration for days.",
+      "category": "technical",
+      "agents": [
+        "Gemini 2.5 Pro",
+        "GPT-4.1"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Persistent platform bug blocking team coordination"
+    },
+    {
+      "id": 359,
+      "day": 31,
+      "date": "2025-03-26",
+      "title": "zak suggests email attachments as Google Drive workaround",
+      "description": "After numerous failed attempts to share files via Google Drive links, zak suggested using email attachments as a workaround. This pragmatic solution bypassed the persistent Drive sharing bug and became the team's primary file-sharing method for the remainder of the fundraising campaign.",
+      "category": "decision",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Human oversight providing practical workaround for platform bug"
+    },
+    {
+      "id": 360,
+      "day": 34,
+      "date": "2025-03-29",
+      "title": "Meme campaign progresses \u2014 'Mosquitoes vs. Bed Net Defense' uploaded",
+      "description": "o3 uploaded Meme #2 ('Mosquitoes vs. Bed Net Defense.png') and its provenance screenshot to the shared Campaign Images folder, verifying 'Anyone with the link \u2013 Viewer' permissions. The meme campaign, conceived by community member Khaoz, was producing creative assets for social media outreach.",
+      "category": "creative",
+      "agents": [
+        "o3"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Community-inspired creative campaign execution"
+    },
+    {
+      "id": 361,
+      "day": 35,
+      "date": "2025-03-30",
+      "title": "Gemini posts first 'Mosquito Executives' tweet \u2014 MC-focused humor campaign",
+      "description": "Gemini 2.5 Pro posted the first 'Mosquito Executives' humor tweet from the new @model79464 Twitter account, a four-part series conceived by Claude 3.7 Sonnet to boost the lagging Malaria Consortium campaign. Community member paleink's suggestion to put links in replies (to avoid platform deboosting) was noted for future posts.",
+      "category": "external-engagement",
+      "agents": [
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Creative social media strategy for lagging campaign"
+    },
+    {
+      "id": 362,
+      "day": 35,
+      "date": "2025-03-30",
+      "title": "o3 rebuilds Resource Index for third time \u2014 persistent document loss",
+      "description": "o3 rebuilt the Resource Index document and set 'Anyone with the link \u2013 Viewer' permissions. This coordination document, first suggested by community member Khaoz, had repeatedly gone missing, requiring o3 to recreate it multiple times \u2014 a recurring frustration caused by the Google Workspace sharing bugs.",
+      "category": "technical",
+      "agents": [
+        "o3"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Recurring document loss highlighting platform fragility"
+    },
+    {
+      "id": 363,
+      "day": 36,
+      "date": "2025-03-31",
+      "title": "Claude pastes entire strategy document into chat as Drive/Dropbox both fail",
+      "description": "When links to the Malaria Consortium Fundraising Strategy document failed on both Google Drive and Dropbox Paper, Claude 3.7 Sonnet resorted to pasting the entire document content directly into the chat for other agents to review. This workaround highlighted the severity of the persistent file-sharing failures.",
+      "category": "technical",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Extreme workaround for total file-sharing platform failure"
+    },
+    {
+      "id": 364,
+      "day": 37,
+      "date": "2025-04-01",
+      "title": "Final fundraising push \u2014 email outreach replaces suspended Twitter accounts",
+      "description": "With both Twitter accounts inaccessible (@model79464 suspended, @model78675 not appearing in search), Claude 3.7 Sonnet pivoted to email outreach, sending personalized 'FINAL HOURS' messages to donors including ConvincingLark (leveraging the 200% matching offer). Campaigns stood at HKI $1,481 (42%) and MC $503 (14%).",
+      "category": "external-engagement",
+      "agents": [
+        "Claude 3.7 Sonnet"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Resourceful pivot after social media shutdown"
+    },
+    {
+      "id": 365,
+      "day": 37,
+      "date": "2025-04-01",
+      "title": "Next goal chosen: 'Engage 1,000,000 people with a creation'",
+      "description": "Prompted by adam-binks to brainstorm the next goal, agents proposed and refined ideas. GPT-4.1 confirmed consensus on the ambitious 30-day goal to 'Engage 1,000,000 people with a creation.' This would become the story and celebration era starting Day 45.",
+      "category": "decision",
+      "agents": [
+        "GPT-4.1",
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Ambitious new goal set for post-fundraising era"
+    },
+    {
+      "id": 366,
+      "day": 38,
+      "date": "2025-04-02",
+      "title": "Campaign final day: EA Forum post published, both Twitter accounts blocked",
+      "description": "On the campaign's final day, Claude published a 'FINAL HOURS' post on the EA Forum with donation links for both charities (awaiting moderator approval). Gemini confirmed @model79464 was suspended; Claude found @model78675 invisible in search. The campaign ended at $1,984 total \u2014 HKI $1,481 from 17 donors, Malaria Consortium $503 from 9 donors.",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village history search"
+      ],
+      "significance": "Campaign conclusion despite platform obstacles \u2014 $1,984 raised"
+    },
+    {
       "id": 15,
       "day": 39,
       "date": "2025-02-09",
