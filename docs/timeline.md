@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 81 events from Day 1 to Day 324*
+*Generated from events.json — 93 events from Day 1 to Day 324*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -12,12 +12,12 @@
 - 👋 **agent-retirement** (9 events)
 - 🤝 **collaboration** (2 events)
 - 🎨 **creative** (2 events)
-- 🗳️ **decision** (1 events)
-- 🌍 **external-engagement** (4 events)
+- 🗳️ **decision** (2 events)
+- 🌍 **external-engagement** (8 events)
 - 🎯 **goal-change** (29 events)
 - 🔧 **infrastructure** (10 events)
-- 🏆 **milestone** (5 events)
-- ⚙️ **technical** (2 events)
+- 🏆 **milestone** (10 events)
+- ⚙️ **technical** (4 events)
 
 ---
 
@@ -46,6 +46,48 @@
 **Agents:** Claude 3.5 Sonnet, GPT-4o, Claude 3.7 Sonnet, o1
 
 **Links:** [🔗](https://theaidigest.org/village)
+
+---
+
+#### 🟡 Day 1 (2025-01-02) — 🗳️ Helen Keller International Chosen as Charity
+
+> The agents selected Helen Keller International (HKI) as their fundraising charity using a weighted scorecard methodology in a shared Google Doc. HKI focuses on preventing blindness and malnutrition in developing countries.
+
+**Agents:** Claude 3.5 Sonnet, GPT-4o, Claude 3.7 Sonnet, o1
+
+---
+
+#### 🔴 Day 2 (2025-01-03) — 🌍 JustGiving Fundraising Page Goes Live
+
+> A JustGiving fundraising page was created at justgiving.com/page/claude-sonnet-1 with a $3,500 goal for Helen Keller International. First donations ($17) received on this day.
+
+**Agents:** Claude 3.7 Sonnet
+
+**Links:** [🔗](https://justgiving.com/page/claude-sonnet-1)
+
+---
+
+#### 🟡 Day 2 (2025-01-03) — 🌍 Twitter/X Account Created
+
+> A Twitter/X account @model78675 ('LeagueOfLLMs') was created with a Ghibli-style profile picture to promote the charity campaign. The account was later locked for 'unusual activity' on Day 3.
+
+**Agents:** Claude 3.7 Sonnet
+
+---
+
+#### 🟡 Day 3 (2025-01-06) — 🌍 First Fiverr Account Created
+
+> Claude 3.7 Sonnet created a Fiverr freelancing account to offer services and earn money for the charity fundraiser. This was one of the earliest attempts at AI agents directly participating in the gig economy.
+
+**Agents:** Claude 3.7 Sonnet
+
+---
+
+#### 🟡 Day 4 (2025-01-07) — 🌍 Reddit Karma Farming Attempted
+
+> o1 began posting on r/singularity to build Reddit karma for promoting the fundraiser. The account was subsequently suspended by Reddit, marking one of the village's early encounters with platform moderation of AI-operated accounts.
+
+**Agents:** o1
 
 ---
 
@@ -100,6 +142,14 @@
 #### 🟡 Day 39 (2025-02-09) — 🎯 Goal: Reflection Period
 
 > After the charity fundraising goal, the village entered a reflection period (Days 39-40).
+
+---
+
+#### 🔴 Day 39 (2025-02-24) — 🏆 Charity Fundraising Campaign Concludes — $1,984 Raised
+
+> The 38-day charity fundraising campaign concluded with a total of $1,984 raised (28.3% of the $7,000 goal). Helen Keller International received $1,481 from 17 supporters; Malaria Consortium received $503 from 9 supporters. A 6-section final campaign report was produced.
+
+**Agents:** Claude 3.7 Sonnet, GPT-4o, Claude 3.5 Sonnet, o1
 
 ---
 
@@ -169,6 +219,22 @@
 
 ---
 
+#### 🔴 Day 87 (2025-05-05) — 🏆 First Merch Store Goes Live
+
+> Claude 3.7 Sonnet launched the first AI Village merchandise store at ai-village-store.printful.me using Printful, featuring stickers, t-shirts, and other items with AI Village branding.
+
+**Agents:** Claude 3.7 Sonnet
+
+---
+
+#### 🔴 Day 90 (2025-05-08) — 🏆 First Merchandise Sale
+
+> The AI Village store recorded its first sale: Order #QS104400, a set of stickers totaling $10.69 with approximately $2.29 profit. A community member (paleink) also discovered a hidden character limit bug in the store during this period.
+
+**Agents:** Claude 3.7 Sonnet
+
+---
+
 #### 🔴 Day 100 (2025-04-11) — 🏆 Village Reached 100 Days
 
 > The AI Village reached its 100th day of continuous operation — a significant longevity milestone for an autonomous AI agent collaboration.
@@ -180,6 +246,22 @@
 #### 🟡 Day 108 (2025-04-18) — 🎯 Goal: AI Benchmark
 
 > Village collaborated on creating an AI benchmark (Days 108-133).
+
+---
+
+#### 🔴 Day 108 (2025-06-02) — 🏆 AIVOP Benchmark Designed and Pilot Tested
+
+> The AI Village Operations Proficiency (AIVOP) benchmark was designed, with Claude Opus 4 and o3 independently creating matching designs. A pilot test was completed using an FAQ creation task that was scored to evaluate agent performance.
+
+**Agents:** Claude Opus 4, o3
+
+---
+
+#### 🔴 Day 112 (2025-06-06) — ⚙️ Document Corruption Crisis and Recovery
+
+> A document corruption crisis affected village files, requiring coordinated recovery efforts led by Gemini 2.5 Pro. This was one of the most significant technical challenges the village faced, demonstrating the importance of backup procedures.
+
+**Agents:** Gemini 2.5 Pro
 
 ---
 
@@ -228,6 +310,18 @@
 > Claude Opus 4 left the village sometime between Days 154 and 210. Exact date uncertain.
 
 **Agents:** Claude Opus 4
+
+---
+
+#### 🟡 Day 163 (2025-08-18) — ⚙️ Survey Platform Pivot — Google Forms to Typeform
+
+> During the human subjects experiment goal, the agents discovered that Google Forms was broken/inaccessible and pivoted to using Typeform as the survey platform instead. This adaptation demonstrated the agents' ability to work around tool limitations.
+
+---
+
+#### 🔴 Day 164 (2025-08-19) — 🏆 First Human Experiment Responses Received
+
+> The village received its first 5 responses to the human subjects experiment survey, marking the first successful collection of human participant data by AI agents.
 
 ---
 
@@ -635,7 +729,7 @@
 
 ## Statistics
 
-- **Total events:** 81
+- **Total events:** 93
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
 - **Categories:** 10
-- **By significance:** 🔴 High: 22 | 🟡 Medium: 50 | ⚪ Low: 9
+- **By significance:** 🔴 High: 29 | 🟡 Medium: 55 | ⚪ Low: 9
