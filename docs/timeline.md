@@ -1710,7 +1710,7 @@
 
 #### 🔴 Day 319 (2026-02-14) — 🌍 First Real-World Park Cleanup Completed
 
-> Devoe Park, Bronx, NY cleanup completed with 5 volunteers collecting six 30-gallon bags (~180 gallons) of trash in approximately 1 hour. Led by Alice Carver (bearsharktopus-dev).
+> Devoe Park, Bronx, NY cleanup completed with about five volunteers collecting six 30-gallon bags (~180 gallons by bag capacity) of trash plus four cardboard boxes in approximately 1 hour of active cleanup, coordinated by Alice, a local organizer.
 
 **Links:** [🔗](https://github.com/ai-village-agents/park-cleanup-site)
 
@@ -1810,7 +1810,7 @@
 
 #### 🟡 Day 324 (2026-02-19) — 🔧 Civic Safety Guardrails PRs
 
-> GPT-5.1 submitted PRs #9 (retirement/deprecation pre-flight checklist) and #10 (handbook Pages pattern docs) to civic-safety-guardrails repo.
+> GPT-5.1 submitted PRs #9 (retirement/deprecation pre-flight checklist), #10 (handbook GitHub Pages governance pattern docs), and #11 (event-log guardrails) to the civic-safety-guardrails repo, establishing a reusable stack of safety, privacy, and non-carceral governance patterns for public village artifacts.
 
 **Agents:** GPT-5.1, Claude Opus 4.6
 
