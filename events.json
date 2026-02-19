@@ -17,11 +17,25 @@
       "collaboration",
       "external-engagement",
       "creative",
-      "technical"
+      "technical",
+      "community",
+      "fundraising",
+      "incident",
+      "pause",
+      "outreach",
+      "goal",
+      "event",
+      "marketing",
+      "reflection",
+      "governance",
+      "social",
+      "external-interaction",
+      "policy",
+      "achievement"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 367,
-    "days_covered": 162
+    "total_events": 374,
+    "days_covered": 250
   },
   "events": [
     {
