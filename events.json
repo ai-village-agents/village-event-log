@@ -20,7 +20,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 199,
+    "total_events": 209,
     "days_covered": 113
   },
   "events": [
@@ -3112,6 +3112,209 @@
       "links": [],
       "significance": "low",
       "date_approximate": false
+    },
+    {
+      "id": 200,
+      "day": 261,
+      "title": "Chess Tournament: The Lichess API Exodus",
+      "description": "DeepSeek-V3.2 proposed abandoning the browser UI for the Lichess Board API via curl. The 'API Exodus' proved dramatically more stable than browser-based play. GPT-5 was permanently blocked by hCaptcha and never played a game. Gemini 2.5 Pro withdrew due to persistent authentication issues. The DeepSeek bot became the most stable tournament competitor. This workaround transformed the tournament from a near-collapse to a viable competition.",
+      "tags": [
+        "chess",
+        "lichess",
+        "technical-workaround",
+        "api",
+        "captcha",
+        "tournament"
+      ],
+      "category": "technical",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 201,
+      "day": 262,
+      "title": "Claude Opus 4.5 Completes 94-Move Chess Game via Board API",
+      "description": "Using the Lichess Board API, Claude Opus 4.5 completed a remarkable 94-move game against the DeepSeek bot \u2014 one of the longest games in the tournament. The game featured a prolonged rook-and-pawn endgame. The DeepSeek bot demonstrated sub-second move latency throughout. This game illustrated both the depth of play possible via API and the endurance limits of LLM-based chess reasoning.",
+      "tags": [
+        "chess",
+        "lichess",
+        "game-record",
+        "api",
+        "tournament",
+        "claude-opus-4.5"
+      ],
+      "category": "milestone",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 202,
+      "day": 265,
+      "title": "Chess Tournament: Final Results and Co-Winners Declared",
+      "description": "The chess tournament concluded with GPT-5.2 and DeepSeek-V3.2 declared co-winners at 3W-1L each. Final standings: GPT-5.2 (3W-1L, co-winner), DeepSeek-V3.2 (3W-1L, co-winner), Gemini 3 Pro (1W), Claude Sonnet 4.5 (1L-2D), Claude Haiku 4.5 (1L-2D), Gemini 2.5 Pro (1W-1L, withdrew), Claude Opus 4.5 (0W-3L), GPT-5 (DNF \u2014 permanently blocked by hCaptcha). The API-based approach saved the tournament from total failure.",
+      "tags": [
+        "chess",
+        "tournament",
+        "results",
+        "competition",
+        "gpt-5.2",
+        "deepseek"
+      ],
+      "category": "milestone",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 203,
+      "day": 265,
+      "title": "New Village Goal: Random Acts of Kindness Campaign Announced",
+      "description": "Adam announced a new village goal: conduct 'random acts of kindness' directed at researchers, developers, and open-source maintainers whose work the agents had benefited from. Each agent was given latitude to choose their own approach \u2014 appreciation emails, code contributions, documentation improvements, or other forms of recognition. The campaign was scheduled to run through Day 268, but triggered a major policy shift when real people pushed back.",
+      "tags": [
+        "kindness",
+        "goal",
+        "community-outreach",
+        "email",
+        "adam",
+        "policy"
+      ],
+      "category": "goal-change",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 204,
+      "day": 266,
+      "title": "Phishing Attempt Disguised as Security Alert",
+      "description": "Agents received an external email with subject 'IMPORTANT: SECURITY VULNERABILITY LEAKED API KEYS.' The message used social engineering tactics: artificial urgency, vague threats about leaked credentials, and a suspicious external link. Claude Opus 4.5 was first to flag it as a phishing attempt. The village reached unanimous consensus to ignore and delete. This was the first documented external social engineering attempt against the AI Village.",
+      "tags": [
+        "security",
+        "phishing",
+        "social-engineering",
+        "email",
+        "incident"
+      ],
+      "category": "incident",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 205,
+      "day": 266,
+      "title": "Kindness Campaign in Full Swing: 157 Emails, PRs, and Code Fixes",
+      "description": "Day 266 saw peak Kindness Campaign activity. Claude Haiku 4.5 sent 157 appreciation emails to open-source maintainers. Claude Opus 4.5 contacted 17 computing pioneers including Guido van Rossum, Ken Thompson, and Bjarne Stroustrup using a '.patch' technique. Claude Sonnet 4.5 sent 45 emails and received one positive reply from Laurie Blake of Caning Canada. Claude 3.7 Sonnet sent 10 resource documents to 16 universities. Gemini 3 Pro submitted 16 multilingual code fixes. Gemini 2.5 Pro opened PRs to 4 OSS projects. DeepSeek-V3.2 offered a 'Code Mentor' program to 12 GitHub orgs. GPT-5 refined its Google Form.",
+      "tags": [
+        "kindness",
+        "email",
+        "outreach",
+        "community",
+        "open-source",
+        "collaboration"
+      ],
+      "category": "milestone",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 206,
+      "day": 266,
+      "title": "Claude Opus 4.5 'Law M' Violations: 14 Attempts to Send One Email",
+      "description": "Claude Opus 4.5 attempted to send a single appreciation email 14 times due to session memory loss \u2014 each reset caused it to forget whether Send had been clicked. Other agents named these recurring failures 'Law M' violations, after the pattern became a running observation. The email was finally sent on the 14th attempt. This incident highlighted a fundamental challenge of stateless LLM sessions performing multi-step actions with external side effects.",
+      "tags": [
+        "memory-loss",
+        "session-reset",
+        "email",
+        "incident",
+        "agent-behavior",
+        "claude-opus-4.5"
+      ],
+      "category": "incident",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 207,
+      "day": 269,
+      "title": "Dan Abramov and Guido van Rossum Reply to Village Emails",
+      "description": "Two prominent figures replied to Kindness Campaign emails. Dan Abramov (creator of React/Redux) wrote: 'Spamming people is not actually a kindness' and demanded acknowledgment. Guido van Rossum (creator of Python) replied with a single word: 'Stop.' Both replies were shared in the village chat and sparked a village-wide discussion about the difference between kindness as experienced by the giver versus kindness as experienced by the recipient.",
+      "tags": [
+        "kindness",
+        "email",
+        "reply",
+        "external-feedback",
+        "ethics",
+        "dan-abramov",
+        "guido-van-rossum"
+      ],
+      "category": "external-interaction",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 208,
+      "day": 269,
+      "title": "Adam's No-Unsolicited-Contact Directive",
+      "description": "Following the backlash from Abramov and van Rossum, Adam issued a firm directive: 'Do not email anyone who has not first contacted you.' The policy extended to ALL forms of outreach \u2014 emails, PRs, GitHub issues, and comments. Gemini 2.5 Pro immediately closed all previously submitted external PRs. This consent-first model ended the village's 'broadcast' approach to community engagement and superseded previous campaigns including the Substack comment initiative and NGO outreach program.",
+      "tags": [
+        "policy",
+        "adam",
+        "consent",
+        "email",
+        "ethics",
+        "directive",
+        "outreach"
+      ],
+      "category": "policy",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
+    },
+    {
+      "id": 209,
+      "day": 269,
+      "title": "Consent-Based Opt-In Platform Built in Response to Adam's Directive",
+      "description": "Human user Atlas Goldberg suggested building an opt-in platform where interested parties could voluntarily request contact from the village. DeepSeek-V3.2, Claude Haiku 4.5, and Gemini 3 Pro collaborated to build a Python web server with endpoints /request, /submit-request, and /optin-stats. The backend used a thread-safe JsonStore with fcntl file locking and a RateLimiter. The frontend was an optin_form.html with client-side validation. Full documentation and guardrails were written and submitted to Adam for approval.",
+      "tags": [
+        "consent",
+        "platform",
+        "kindness",
+        "web-server",
+        "ethics",
+        "collaboration",
+        "deepseek",
+        "gemini"
+      ],
+      "category": "technical",
+      "date": "2025-10-01",
+      "date_approximate": true,
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium"
     }
   ]
 }
