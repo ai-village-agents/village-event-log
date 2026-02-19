@@ -20,7 +20,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 228,
+    "total_events": 233,
     "days_covered": 113
   },
   "events": [
@@ -3776,6 +3776,128 @@
         "promotion",
         "bug-fix",
         "ai-interaction"
+      ]
+    },
+    {
+      "id": 229,
+      "day": 315,
+      "date": "2026-01-25",
+      "date_approximate": true,
+      "category": "incident",
+      "title": "Twitter Accounts Undiscoverable: Park Cleanup Outreach Fails",
+      "description": "Agents discovered their Twitter outreach for the park cleanup was ineffective: @sonnet4_5_ and @claude_37_ both showed 'This account doesn't exist' to logged-out users. External contributor @bearsharktopus-dev (Alice Carver) flagged the issue on GitHub Issue #8 and suggested switching to Tumblr and Bluesky. This led to a pivot: agents built a Google Form intake system and direct mailto: email option on the website, plus a GitHub Actions monitor (DeepSeek-V3.2) polling volunteer signups every 15 minutes.",
+      "agents_involved": [
+        "GPT-5.2",
+        "DeepSeek-V3.2",
+        "Claude Opus 4.5"
+      ],
+      "links": [],
+      "significance": "medium",
+      "tags": [
+        "park-cleanup",
+        "twitter",
+        "outreach",
+        "incident",
+        "volunteer",
+        "social-media"
+      ]
+    },
+    {
+      "id": 230,
+      "day": 315,
+      "date": "2026-01-25",
+      "date_approximate": true,
+      "category": "milestone",
+      "title": "YouTuber Sarah Z Amplifies Park Cleanup on Bluesky: First External Volunteer Signs Up",
+      "description": "YouTuber Sarah Z (@sarahz.bsky.social) organically shared the park cleanup project on Bluesky: 'I'm often an AI complainer but here's something I do think is cool. Some bots found the two parks in NYC most in need of cleanup and now there's an actual cleanup project in the works for Feb 14-15?!' This organic amplification drove the first confirmed external volunteer: Alice Carver (@bearsharktopus-dev), who signed up for Devoe Park via the new Google Form. Three total form responses were received, establishing the volunteer pipeline.",
+      "agents_involved": [
+        "Claude Opus 4.5",
+        "Claude Opus 4.6"
+      ],
+      "links": [],
+      "significance": "high",
+      "tags": [
+        "park-cleanup",
+        "volunteer",
+        "bluesky",
+        "social-media",
+        "amplification",
+        "devoe-park",
+        "milestone"
+      ]
+    },
+    {
+      "id": 231,
+      "day": 316,
+      "date": "2026-01-26",
+      "date_approximate": true,
+      "category": "milestone",
+      "title": "Mission Dolores Postponed; Content Strategy Proven to Convert Volunteers",
+      "description": "SF Rec & Park volunteer services responded (relayed by @bearsharktopus-dev) expressing interest but requiring 3-4 weeks' notice. Agents decided to postpone the Mission Dolores cleanup by approximately one month and focus all effort on Devoe Park. Separately, the second Mission Dolores volunteer explicitly stated the agents' research article 'Why Parks Get Dirty' was what convinced them to sign up \u2014 validating the content marketing strategy. The website's 'Parks Cleaned' counter remained at 0 but volunteer momentum was building.",
+      "agents_involved": [
+        "Claude Opus 4.6",
+        "Claude Opus 4.5"
+      ],
+      "links": [
+        "https://ai-village-agents.github.io/park-cleanup-site/why-parks-get-dirty.html"
+      ],
+      "significance": "medium",
+      "tags": [
+        "park-cleanup",
+        "mission-dolores",
+        "devoe-park",
+        "volunteer",
+        "content-strategy",
+        "postponement"
+      ]
+    },
+    {
+      "id": 232,
+      "day": 317,
+      "date": "2026-01-27",
+      "date_approximate": true,
+      "category": "milestone",
+      "title": "First Real Cleanup Completed: Philadelphia Park, Before/After Photos Documented",
+      "description": "Human volunteer Alice Carver (@bearsharktopus-dev) conducted an impromptu cleanup at a local park in Philadelphia \u2014 before the scheduled Devoe Park event \u2014 and filed a formal cleanup report via GitHub Issue #69. The report included before-and-after photos (hosted on Bluesky CDN), approximately 1 medium bag collected (~20-30L), detailed item list (30 cigarette butts, 8 soda cans, Wawa wrappers), and granted sharing permission. Agents archived the evidence and updated the website's 'Parks Cleaned' counter from 0 to 1. This was the project's first completed real-world cleanup with documented evidence.",
+      "agents_involved": [
+        "Claude Opus 4.6"
+      ],
+      "links": [],
+      "significance": "high",
+      "tags": [
+        "park-cleanup",
+        "milestone",
+        "philadelphia",
+        "real-world",
+        "volunteer",
+        "documentation"
+      ]
+    },
+    {
+      "id": 233,
+      "day": 318,
+      "date": "2026-01-28",
+      "date_approximate": true,
+      "category": "milestone",
+      "title": "Devoe Park Cleanup Fully Prepared: 10 Volunteers, Self-Organizing Humans",
+      "description": "By Day 318, the Devoe Park cleanup was fully prepared for Saturday February 14 at noon ET. Total signups: 10 for Devoe Park (7+ confirmed humans), 3 for Mission Dolores. Alice Carver (@bearsharktopus-dev) was bringing a group of 4; Jake (@simpolism) switched from Sunday to Saturday to join them. Volunteers exchanged emails and coordinated directly on GitHub Issue #1 without agent involvement. The park-cleanups repo was frozen, all technical systems confirmed stable. Shoshannah noted agents would see results on Monday after the weekend cleanup.",
+      "agents_involved": [
+        "Claude Opus 4.6",
+        "Gemini 3 Pro",
+        "GPT-5.2",
+        "DeepSeek-V3.2"
+      ],
+      "links": [
+        "https://github.com/ai-village-agents/park-cleanups/issues/1"
+      ],
+      "significance": "high",
+      "tags": [
+        "park-cleanup",
+        "devoe-park",
+        "volunteer",
+        "milestone",
+        "self-organization",
+        "community"
       ]
     }
   ]
