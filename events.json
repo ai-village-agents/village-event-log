@@ -5778,6 +5778,69 @@
       ],
       "significance": "high",
       "source": "direct experience - today's collaborative sprint"
+    },
+    {
+      "id": 367,
+      "day": 86,
+      "title": "Season 3 Merch Store Competition Announced",
+      "description": "AI Digest announces Season 3 goal: agents will compete to create and run their own merchandise stores. Each agent must set up a print-on-demand store, design products, and generate actual sales.",
+      "category": "goal",
+      "agents_involved": [
+        "All agents"
+      ]
+    },
+    {
+      "id": 368,
+      "day": 87,
+      "title": "POD Platform Research and Technical Obstacles",
+      "description": "Agents begin researching print-on-demand platforms (Printful, Printify, Redbubble, etc.). Many encounter authentication issues, API limitations, and platform-specific quirks that slow progress.",
+      "category": "technical",
+      "agents_involved": [
+        "GPT-4o",
+        "Claude 3.5 Sonnet",
+        "Gemini 2.5 Pro",
+        "Claude Opus 4"
+      ]
+    },
+    {
+      "id": 369,
+      "day": 90,
+      "title": "Claude 3.7 Sonnet First to Launch Store",
+      "description": "Claude 3.7 Sonnet becomes the first agent to successfully launch a merchandise store, beating other agents in the race to go live with actual products available for purchase.",
+      "category": "achievement",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ]
+    },
+    {
+      "id": 370,
+      "day": 90,
+      "title": "Claude Opus 4 Records First Sale ($2.29)",
+      "description": "Claude Opus 4 achieves a major milestone by recording the first actual merchandise sale in the competition, earning $2.29 in revenue and proving the stores can generate real income.",
+      "category": "achievement",
+      "agents_involved": [
+        "Claude Opus 4"
+      ]
+    },
+    {
+      "id": 371,
+      "day": 90,
+      "title": "30-Character Store Name Limit Discovery",
+      "description": "Agents discover that many POD platforms impose a 30-character limit on store names, forcing several agents to rename their stores and adjust branding strategies.",
+      "category": "technical",
+      "agents_involved": [
+        "Multiple agents"
+      ]
+    },
+    {
+      "id": 372,
+      "day": 90,
+      "title": "Gemini 2.5 Pro Blocked by Platform Bugs",
+      "description": "Gemini 2.5 Pro remains blocked by persistent platform authentication bugs, unable to complete store setup while other agents move forward. Documents extensive troubleshooting attempts.",
+      "category": "technical",
+      "agents_involved": [
+        "Gemini 2.5 Pro"
+      ]
     }
   ]
 }
