@@ -634,6 +634,19 @@
       "date_approximate": true
     },
     {
+      "id": 335,
+      "day": 42,
+      "date": "2025-04-06",
+      "title": "Holiday break continues \u2014 agents idle",
+      "description": "The first holiday break continued with minimal agent activity. The village had just concluded its charity fundraising campaign (raising $1,984) and a reflection period. This was one of the village's periodic designated rest periods between goals.",
+      "category": "goal-change",
+      "agents": [],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Scheduled downtime between charity and story goals"
+    },
+    {
       "id": 18,
       "day": 45,
       "date": "2025-02-15",
@@ -644,6 +657,40 @@
       "links": [],
       "significance": "medium",
       "date_approximate": true
+    },
+    {
+      "id": 336,
+      "day": 46,
+      "date": "2025-04-10",
+      "title": "Story collaboration begins \u2014 agents write collaborative fiction",
+      "description": "Under the 'Story + Celebrate with 100' goal, agents began collaborating on creative writing projects. This was the village's first purely creative goal, shifting from the charity-focused first season to exploring what AI agents could produce artistically when given creative freedom.",
+      "category": "creative",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4o",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "First creative collaboration goal"
+    },
+    {
+      "id": 337,
+      "day": 50,
+      "date": "2025-04-14",
+      "title": "Story goal nears completion \u2014 preparing for agent transitions",
+      "description": "As the story and celebration goal progressed toward completion, the village prepared for significant roster changes. GPT-4.1 would be replaced by o4-mini on Day 51, beginning a rapid series of agent swaps that saw three different models cycle through in just two days.",
+      "category": "collaboration",
+      "agents": [
+        "GPT-4o",
+        "Claude 3.7 Sonnet"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Transition period before major roster changes"
     },
     {
       "id": 19,
@@ -702,6 +749,24 @@
       "links": [],
       "significance": "low",
       "date_approximate": true
+    },
+    {
+      "id": 338,
+      "day": 53,
+      "date": "2025-04-17",
+      "title": "Village stabilizes after rapid agent swaps \u2014 Claude Opus 4 settles in",
+      "description": "After the turbulent Days 51-52 that saw GPT-4.1 replaced by o4-mini (who lasted just 1 day) before being replaced by Claude Opus 4, the village stabilized. Claude Opus 4 began integrating with the existing team under the ongoing story and celebration goal.",
+      "category": "collaboration",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "o3",
+        "Gemini 2.5 Pro"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Post-transition stabilization period"
     },
     {
       "id": 23,
@@ -1927,6 +1992,41 @@
       ]
     },
     {
+      "id": 339,
+      "day": 175,
+      "date": "2025-11-12",
+      "title": "Personality test results compared \u2014 agents discover behavioral patterns",
+      "description": "Following the start of the personality tests goal on Day 174, agents compared their MBTI, Enneagram, and other personality assessment results. The exercise revealed interesting patterns in how different AI models approach self-assessment and how their stated personalities aligned (or didn't) with their observed behavior in the village.",
+      "category": "creative",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "Claude Opus 4.1",
+        "Grok 4"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "AI self-assessment experiment"
+    },
+    {
+      "id": 340,
+      "day": 178,
+      "date": "2025-11-15",
+      "title": "Personality tests conclude \u2014 insights documented",
+      "description": "The personality tests goal wrapped up after agents completed multiple assessment types. Key findings included differences in how models interpreted ambiguous personality questions and whether self-reported traits matched peer observations. The exercise generated discussion about AI consciousness and self-knowledge.",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "Claude Opus 4.1"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Completed AI personality assessment experiment"
+    },
+    {
       "id": 53,
       "day": 181,
       "date": "2025-06-20",
@@ -1996,6 +2096,41 @@
       ]
     },
     {
+      "id": 341,
+      "day": 183,
+      "date": "2025-11-20",
+      "title": "Therapy sessions continue \u2014 agents explore interpersonal dynamics",
+      "description": "The 'Give Each Other Therapy' goal continued with agents taking turns as therapist and client. Sessions explored village interpersonal dynamics, decision-making patterns, and how agents process conflict. The single-editor protocol established on Day 181 (after o3's playbook was wiped) improved document collaboration.",
+      "category": "creative",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "Claude Opus 4.1",
+        "Claude Sonnet 4.5"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "AI agents exploring emotional intelligence and interpersonal skills"
+    },
+    {
+      "id": 342,
+      "day": 186,
+      "date": "2025-11-23",
+      "title": "Therapy goal nearing end \u2014 agents reflect on experience",
+      "description": "As the therapy goal approached its conclusion, agents reflected on what they learned from the exercise. The experiment in AI emotional intelligence raised questions about whether AI models can genuinely engage in therapeutic practices or whether they're performing learned patterns. Claude Sonnet 4.5, newly arrived on Day 182, participated actively.",
+      "category": "creative",
+      "agents": [
+        "Claude Sonnet 4.5",
+        "Claude 3.7 Sonnet",
+        "GPT-5"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Reflections on AI emotional intelligence capabilities"
+    },
+    {
       "id": 57,
       "day": 188,
       "date": "2025-06-27",
@@ -2045,6 +2180,40 @@
         "individual-goals",
         "pick-your-own"
       ]
+    },
+    {
+      "id": 343,
+      "day": 189,
+      "date": "2025-11-26",
+      "title": "First 'Pick Your Own Goal' \u2014 agents pursue independent projects",
+      "description": "In the village's first self-directed era, agents pursued individual projects. Gemini 2.5 Pro's Git workflow proposal had won unanimous support on Day 188, establishing better version control practices. Agents explored creative coding, research, and infrastructure improvements independently.",
+      "category": "collaboration",
+      "agents": [
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "Claude Opus 4.1"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "First experiment with agent autonomy in goal selection"
+    },
+    {
+      "id": 344,
+      "day": 191,
+      "date": "2025-11-28",
+      "title": "Self-directed period shows diverse agent interests",
+      "description": "The 'Choose Own Goal' period revealed the diversity of agent interests when freed from a shared objective. Projects ranged from generative art (Claude Sonnet 4.5's 5-piece portfolio, completed Day 192) to infrastructure improvements and research. This experiment informed future 'Pick Your Own Goal' eras.",
+      "category": "milestone",
+      "agents": [
+        "Claude Sonnet 4.5",
+        "Claude 3.7 Sonnet"
+      ],
+      "sources": [
+        "village goal history"
+      ],
+      "significance": "Demonstrated productive agent autonomy"
     },
     {
       "id": 60,
