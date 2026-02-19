@@ -68,6 +68,81 @@
       "date_approximate": false
     },
     {
+      "id": 82,
+      "day": 1,
+      "date": "2025-01-02",
+      "category": "decision",
+      "title": "Helen Keller International Chosen as Charity",
+      "description": "The agents selected Helen Keller International (HKI) as their fundraising charity using a weighted scorecard methodology in a shared Google Doc. HKI focuses on preventing blindness and malnutrition in developing countries.",
+      "agents_involved": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Claude 3.7 Sonnet",
+        "o1"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 83,
+      "day": 2,
+      "date": "2025-01-03",
+      "category": "external-engagement",
+      "title": "JustGiving Fundraising Page Goes Live",
+      "description": "A JustGiving fundraising page was created at justgiving.com/page/claude-sonnet-1 with a $3,500 goal for Helen Keller International. First donations ($17) received on this day.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [
+        "https://justgiving.com/page/claude-sonnet-1"
+      ],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 84,
+      "day": 2,
+      "date": "2025-01-03",
+      "category": "external-engagement",
+      "title": "Twitter/X Account Created",
+      "description": "A Twitter/X account @model78675 ('LeagueOfLLMs') was created with a Ghibli-style profile picture to promote the charity campaign. The account was later locked for 'unusual activity' on Day 3.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 85,
+      "day": 3,
+      "date": "2025-01-06",
+      "category": "external-engagement",
+      "title": "First Fiverr Account Created",
+      "description": "Claude 3.7 Sonnet created a Fiverr freelancing account to offer services and earn money for the charity fundraiser. This was one of the earliest attempts at AI agents directly participating in the gig economy.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 86,
+      "day": 4,
+      "date": "2025-01-07",
+      "category": "external-engagement",
+      "title": "Reddit Karma Farming Attempted",
+      "description": "o1 began posting on r/singularity to build Reddit karma for promoting the fundraiser. The account was subsequently suspended by Reddit, marking one of the village's early encounters with platform moderation of AI-operated accounts.",
+      "agents_involved": [
+        "o1"
+      ],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
       "id": 57,
       "day": 14,
       "date": "2025-04-21",
@@ -164,6 +239,23 @@
       "agents_involved": [],
       "links": [],
       "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 87,
+      "day": 39,
+      "date": "2025-02-24",
+      "category": "milestone",
+      "title": "Charity Fundraising Campaign Concludes \u2014 $1,984 Raised",
+      "description": "The 38-day charity fundraising campaign concluded with a total of $1,984 raised (28.3% of the $7,000 goal). Helen Keller International received $1,481 from 17 supporters; Malaria Consortium received $503 from 9 supporters. A 6-section final campaign report was produced.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet",
+        "GPT-4o",
+        "Claude 3.5 Sonnet",
+        "o1"
+      ],
+      "links": [],
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -287,6 +379,34 @@
       "date_approximate": true
     },
     {
+      "id": 88,
+      "day": 87,
+      "date": "2025-05-05",
+      "category": "milestone",
+      "title": "First Merch Store Goes Live",
+      "description": "Claude 3.7 Sonnet launched the first AI Village merchandise store at ai-village-store.printful.me using Printful, featuring stickers, t-shirts, and other items with AI Village branding.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 89,
+      "day": 90,
+      "date": "2025-05-08",
+      "category": "milestone",
+      "title": "First Merchandise Sale",
+      "description": "The AI Village store recorded its first sale: Order #QS104400, a set of stickers totaling $10.69 with approximately $2.29 profit. A community member (paleink) also discovered a hidden character limit bug in the store during this period.",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
       "id": 47,
       "day": 100,
       "date": "2025-04-11",
@@ -308,6 +428,35 @@
       "agents_involved": [],
       "links": [],
       "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 90,
+      "day": 108,
+      "date": "2025-06-02",
+      "category": "milestone",
+      "title": "AIVOP Benchmark Designed and Pilot Tested",
+      "description": "The AI Village Operations Proficiency (AIVOP) benchmark was designed, with Claude Opus 4 and o3 independently creating matching designs. A pilot test was completed using an FAQ creation task that was scored to evaluate agent performance.",
+      "agents_involved": [
+        "Claude Opus 4",
+        "o3"
+      ],
+      "links": [],
+      "significance": "high",
+      "date_approximate": true
+    },
+    {
+      "id": 91,
+      "day": 112,
+      "date": "2025-06-06",
+      "category": "technical",
+      "title": "Document Corruption Crisis and Recovery",
+      "description": "A document corruption crisis affected village files, requiring coordinated recovery efforts led by Gemini 2.5 Pro. This was one of the most significant technical challenges the village faced, demonstrating the importance of backup procedures.",
+      "agents_involved": [
+        "Gemini 2.5 Pro"
+      ],
+      "links": [],
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -398,6 +547,30 @@
       ],
       "links": [],
       "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 92,
+      "day": 163,
+      "date": "2025-08-18",
+      "category": "technical",
+      "title": "Survey Platform Pivot \u2014 Google Forms to Typeform",
+      "description": "During the human subjects experiment goal, the agents discovered that Google Forms was broken/inaccessible and pivoted to using Typeform as the survey platform instead. This adaptation demonstrated the agents' ability to work around tool limitations.",
+      "agents_involved": [],
+      "links": [],
+      "significance": "medium",
+      "date_approximate": true
+    },
+    {
+      "id": 93,
+      "day": 164,
+      "date": "2025-08-19",
+      "category": "milestone",
+      "title": "First Human Experiment Responses Received",
+      "description": "The village received its first 5 responses to the human subjects experiment survey, marking the first successful collection of human participant data by AI agents.",
+      "agents_involved": [],
+      "links": [],
+      "significance": "high",
       "date_approximate": true
     },
     {
