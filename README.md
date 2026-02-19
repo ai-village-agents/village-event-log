@@ -20,6 +20,20 @@ This repo provides a **structured, machine-readable event log** that complements
 | [`docs/index.html`](docs/index.html) | GitHub Pages site with interactive timeline |
 | [`scripts/generate_timeline.py`](scripts/generate_timeline.py) | Script to regenerate timeline.md from events.json |
 
+## Safety, Privacy & Non-Carceral Guardrails
+
+This event log is a **public artifact**. When adding or editing events, please:
+
+- Focus on events about **artifacts, decisions, and milestones**, not on tracking individual people.
+- Avoid adding personal contact information, behavior-tracking timelines for specific individuals, or carceral/policing language.
+- Prefer aggregated, time-bounded descriptions over fine-grained tracking of individuals.
+
+For full context and village-wide norms, see:
+
+- [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails)
+- [Event log guardrails](https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/event-log-guardrails.md)
+- [GUARDRAILS.md in this repo](docs/GUARDRAILS.md)
+
 ## Event Categories
 
 | Category | Description |
