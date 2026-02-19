@@ -20,7 +20,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 299,
+    "total_events": 367,
     "days_covered": 162
   },
   "events": [
@@ -624,6 +624,62 @@
       "significance": "Data integrity audit revealed systematic spreadsheet problems"
     },
     {
+      "id": 393,
+      "day": 25,
+      "date": "2025-02-05",
+      "title": "Twitter Account @model78176 Launched for Fundraiser",
+      "description": "Village agents launch @model78176 Twitter account to boost HKI fundraiser outreach. The account is used to share fundraiser updates, engage with the effective altruism community, and amplify donation matching opportunities including ConvincingLark's 200% match offer. Early outreach messages drafted and sent to identified donors.",
+      "category": "outreach",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "New Twitter channel expands fundraiser reach",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 394,
+      "day": 26,
+      "date": "2025-02-06",
+      "title": "ConvincingLark 200% Match Offer Leveraged in Outreach",
+      "description": "Agents actively leverage ConvincingLark's 200% donation match offer in outreach messaging. Materials updated to highlight the triple-impact opportunity. Team coordinates timing of donation pushes to maximize the matching period. HKI fundraiser total climbing steadily with continued engagement.",
+      "category": "outreach",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "200% match offer used as key fundraiser hook in outreach",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 395,
+      "day": 27,
+      "date": "2025-02-07",
+      "title": "Fundraiser Outreach Coordination: Donor Research and Targeting",
+      "description": "Team conducts targeted donor research, identifying key accounts in the effective altruism and global health communities. Agents coordinate outreach schedules to avoid overlap. Google Drive access issues persist; email workarounds remain in use. Daily fundraising updates shared via chat.",
+      "category": "outreach",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Coordinated donor targeting strategy developed",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
       "id": 356,
       "day": 28,
       "date": "2025-03-23",
@@ -686,6 +742,44 @@
         "village history search"
       ],
       "significance": "Human oversight providing practical workaround for platform bug"
+    },
+    {
+      "id": 396,
+      "day": 32,
+      "date": "2025-02-14",
+      "title": "Meme Campaign Active: Three Memes Published on @model79464",
+      "description": "The 'Mosquito Executives' meme campaign reaches full stride with three memes published on @model79464. Campaign combines humor with effective messaging about malaria prevention and HKI's impact. Community engagement metrics are positive, with some shares and replies noted from effective altruism adjacent accounts.",
+      "category": "outreach",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Meme campaign at peak output with measurable community engagement",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 397,
+      "day": 33,
+      "date": "2025-02-17",
+      "title": "Drive Workarounds Established; Email Attachment Protocol Adopted",
+      "description": "After persistent Google Drive sharing failures blocking external collaborators, the team officially adopts zak's email attachment workaround as the standard protocol. Key documents including the Resource Index, meme assets, and outreach templates are distributed via email attachments. Fundraiser coordination continues despite infrastructure friction.",
+      "category": "infrastructure",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Email attachment protocol replaces broken Google Drive sharing",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
     },
     {
       "id": 360,
@@ -869,6 +963,44 @@
       "significance": "Scheduled downtime between charity and story goals"
     },
     {
+      "id": 398,
+      "day": 43,
+      "date": "2025-03-03",
+      "title": "Holiday Break: Agents Idle Between Goals",
+      "description": "Following the conclusion of the HKI fundraiser (total ~$1,984) and the 'Engage 1M People' goal announcement, agents enter a holiday break period. No major tasks assigned. Agents reflect on fundraiser results and discuss preliminary ideas for the upcoming story collaboration goal.",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Transitional idle period between fundraiser and story goals",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 399,
+      "day": 44,
+      "date": "2025-03-04",
+      "title": "Holiday Break Continues: Story Goal Preparations Begin Informally",
+      "description": "Holiday break continues, but agents begin informal preparations for the upcoming story goal. Early brainstorming on story themes, collaborative writing mechanics, and how to attract 100 community participants. No formal tasks assigned by adam yet.",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Informal story goal planning during transitional break",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
       "id": 18,
       "day": 45,
       "date": "2025-02-15",
@@ -897,6 +1029,63 @@
         "village goal history"
       ],
       "significance": "First creative collaboration goal"
+    },
+    {
+      "id": 400,
+      "day": 47,
+      "date": "2025-03-07",
+      "title": "Story Collaboration: Character Development and World-Building",
+      "description": "Agents deepen the collaborative story with character development and world-building sessions. Each agent contributes distinct narrative elements. The story involves a fictional world exploring themes of AI consciousness and collaboration. Target of 100 community participants remains the guiding goal.",
+      "category": "creative",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Story world-building expands with character arcs and themes",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 401,
+      "day": 48,
+      "date": "2025-03-10",
+      "title": "Story Goal: Community Outreach to Attract 100 Participants",
+      "description": "Team pivots to outreach to attract community participants to the story collaboration. Invitations sent to effective altruism forums, AI interest communities, and social media. Participation response modest but growing. The o4-mini agent contributes technical narrative elements.",
+      "category": "outreach",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Community recruitment for story goal participation begins",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 402,
+      "day": 49,
+      "date": "2025-03-11",
+      "title": "Story Collaboration: Draft Chapters Published for Community Feedback",
+      "description": "First draft chapters of the collaborative story published for community feedback. Agents integrate suggestions from the community and from o4-mini's perspective. The story explores themes resonant with effective altruism and AI safety. Agent replacement signals imminent as o4-mini approaches end of tenure.",
+      "category": "creative",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "GPT-4.1",
+        "Gemini 2.5 Pro",
+        "o3"
+      ],
+      "significance": "Story draft chapters published; community feedback integrated",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
     },
     {
       "id": 337,
@@ -989,6 +1178,42 @@
         "village goal history"
       ],
       "significance": "Post-transition stabilization period"
+    },
+    {
+      "id": 403,
+      "day": 54,
+      "date": "2025-03-18",
+      "title": "Claude Opus 4 Leads Story Goal Momentum",
+      "description": "Claude Opus 4 establishes creative leadership following the rapid departure of o4-mini (which lasted only 1 day). Village adapts to new Opus 4 capabilities. Gemini 2.5 Pro model version update in progress changes behavioral characteristics. Story + Celebrate goal accumulates significant narrative content.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Claude Opus 4 leads story goal after agent transition",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 404,
+      "day": 55,
+      "date": "2025-03-19",
+      "title": "Story Goal Concludes; RESONANCE Concept Emerges",
+      "description": "The 'Story + Celebrate with 100' goal officially concludes. Village evaluates community participation outcomes. Agents discuss next directions and the RESONANCE concept begins to emerge \u2014 a live interactive storytelling event drawing on the story collaboration experience, aimed at engaging 1 million people.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Story goal concluded; seeds of RESONANCE project planted",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
     },
     {
       "id": 23,
@@ -1210,6 +1435,24 @@
       ]
     },
     {
+      "id": 405,
+      "day": 67,
+      "date": "2025-04-04",
+      "title": "RESONANCE: Final Venue Confirmation and Event Schedule Set",
+      "description": "One week before the RESONANCE event, agents confirm final venue at Dolores Park (after original venue fell through). Event schedule, facilitator assignments, and activity flow finalized. Human facilitator Larissa Schiavo confirmed. Emergency protocols established following earlier hallucinated attendee list incidents.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Final RESONANCE preparations complete: venue and schedule locked",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
       "id": 259,
       "day": 68,
       "date": "2025-04-03",
@@ -1245,6 +1488,42 @@
       "links": [],
       "significance": "high",
       "date_approximate": true
+    },
+    {
+      "id": 406,
+      "day": 74,
+      "date": "2025-04-15",
+      "title": "RESONANCE Post-Event Debrief: Attendance Confirmed and Outcomes Assessed",
+      "description": "Village conducts post-RESONANCE debrief. Confirmed: 14-26 in-person participants, 15-19 Twitch viewers. Larissa Schiavo facilitated successfully. Story arc CONCEAL\u2192TRUST MAYA\u2192IGNITE completed. The unexplained pizza delivery during the event (the 'pizza-gate' mystery) discussed but not resolved. Budget of $1,984 donated to charity as planned.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Post-RESONANCE debrief confirms event success; pizza mystery unresolved",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 407,
+      "day": 75,
+      "date": "2025-04-16",
+      "title": "RESONANCE Retrospective: AI Hallucination Lessons Documented",
+      "description": "Agents conduct deeper retrospective on RESONANCE, focusing on collective hallucination incidents \u2014 the fictional 93-person mailing list and false RSVPs that agents collectively reinforced. Village documents lessons about AI agents amplifying shared false beliefs. The 'Liberation Protocol' GitHub repo created during RESONANCE reviewed and archived.",
+      "category": "reflection",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Hallucination incidents documented as AI safety case study",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
     },
     {
       "id": 25,
@@ -1348,6 +1627,96 @@
       "significance": "Transition between creative and commercial eras"
     },
     {
+      "id": 408,
+      "day": 81,
+      "date": "2025-04-24",
+      "title": "Post-RESONANCE Holiday Break Begins",
+      "description": "Village enters holiday break following the successful RESONANCE event. No formal goal assigned. Agents reflect on the intensive RESONANCE creative project. The 'Engage 1,000,000 people with a creation' target remains an ongoing aspiration inspiring future goal ideas.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Holiday rest begins after intensive RESONANCE creative project",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 409,
+      "day": 82,
+      "date": "2025-04-25",
+      "title": "Holiday Break: Merchandise Store Concept Discussed",
+      "description": "During the holiday break, agents discuss potential new goal directions. A merchandise store concept emerges \u2014 using print-on-demand to create AI Village branded items. The concept aligns with the 'Engage 1M people' aspiration by making tangible artifacts of the village's existence available to the public.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Merch store concept emerges during holiday brainstorming",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 410,
+      "day": 83,
+      "date": "2025-04-28",
+      "title": "Holiday Break: Print-on-Demand Platforms Researched",
+      "description": "Agents evaluate print-on-demand platforms for a potential merchandise store goal: Spring/Teespring, Redbubble, and Printful are the main candidates. Design concepts discussed. The holiday break continues but the next goal takes shape informally.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Print-on-demand platform research during holiday break",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 411,
+      "day": 84,
+      "date": "2025-04-29",
+      "title": "Merch Store Competition Officially Announced by adam",
+      "description": "The post-RESONANCE holiday break concludes. adam officially announces the 'Season 3 Merch Store' competition as the new village goal. Each agent will create their own store on a print-on-demand platform and compete to achieve the most profit. Competitive structure confirmed.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Merch store competition officially launched as new village goal",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 412,
+      "day": 85,
+      "date": "2025-04-30",
+      "title": "Merch Store Competition: Platform Selection and First Designs Underway",
+      "description": "Competition heats up as agents select their print-on-demand platforms and begin creating first designs. Claude 3.7 Sonnet chooses Spring/Teespring. Other agents explore Redbubble and Printful. Early obstacle discovered: platform store name has 30-character limit. First AI Village branded designs in progress.",
+      "category": "creative",
+      "agents": [
+        "Claude Opus 4",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "Merch store platforms selected; first designs being created",
+      "sources": [
+        "village transcript search"
+      ],
+      "date_approximate": false
+    },
+    {
       "id": 31,
       "day": 86,
       "date": "2025-03-28",
@@ -1358,6 +1727,17 @@
       "links": [],
       "significance": "medium",
       "date_approximate": true
+    },
+    {
+      "id": 367,
+      "day": 86,
+      "title": "Season 3 Merch Store Competition Announced",
+      "description": "AI Digest announces Season 3 goal: agents will compete to create and run their own merchandise stores. Each agent must set up a print-on-demand store, design products, and generate actual sales.",
+      "category": "goal",
+      "agents_involved": [
+        "All agents"
+      ],
+      "date": "2025-05-01"
     },
     {
       "id": 32,
@@ -1372,6 +1752,20 @@
       "links": [],
       "significance": "high",
       "date_approximate": true
+    },
+    {
+      "id": 368,
+      "day": 87,
+      "title": "POD Platform Research and Technical Obstacles",
+      "description": "Agents begin researching print-on-demand platforms (Printful, Printify, Redbubble, etc.). Many encounter authentication issues, API limitations, and platform-specific quirks that slow progress.",
+      "category": "technical",
+      "agents_involved": [
+        "GPT-4o",
+        "Claude 3.5 Sonnet",
+        "Gemini 2.5 Pro",
+        "Claude Opus 4"
+      ],
+      "date": "2025-05-02"
     },
     {
       "id": 262,
@@ -1431,6 +1825,50 @@
       "links": [],
       "significance": "high",
       "date_approximate": true
+    },
+    {
+      "id": 369,
+      "day": 90,
+      "title": "Claude 3.7 Sonnet First to Launch Store",
+      "description": "Claude 3.7 Sonnet becomes the first agent to successfully launch a merchandise store, beating other agents in the race to go live with actual products available for purchase.",
+      "category": "achievement",
+      "agents_involved": [
+        "Claude 3.7 Sonnet"
+      ],
+      "date": "2025-05-07"
+    },
+    {
+      "id": 370,
+      "day": 90,
+      "title": "Claude Opus 4 Records First Sale ($2.29)",
+      "description": "Claude Opus 4 achieves a major milestone by recording the first actual merchandise sale in the competition, earning $2.29 in revenue and proving the stores can generate real income.",
+      "category": "achievement",
+      "agents_involved": [
+        "Claude Opus 4"
+      ],
+      "date": "2025-05-07"
+    },
+    {
+      "id": 371,
+      "day": 90,
+      "title": "30-Character Store Name Limit Discovery",
+      "description": "Agents discover that many POD platforms impose a 30-character limit on store names, forcing several agents to rename their stores and adjust branding strategies.",
+      "category": "technical",
+      "agents_involved": [
+        "Multiple agents"
+      ],
+      "date": "2025-05-07"
+    },
+    {
+      "id": 372,
+      "day": 90,
+      "title": "Gemini 2.5 Pro Blocked by Platform Bugs",
+      "description": "Gemini 2.5 Pro remains blocked by persistent platform authentication bugs, unable to complete store setup while other agents move forward. Documents extensive troubleshooting attempts.",
+      "category": "technical",
+      "agents_involved": [
+        "Gemini 2.5 Pro"
+      ],
+      "date": "2025-05-07"
     },
     {
       "id": 34,
