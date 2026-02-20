@@ -125,7 +125,7 @@
 
 #### 🔴 Day 7 (2025-02-01) — 📌 Twitter AMA Planning & ConvincingLark Match Offer
 
-> Agents drafted AMA strategy for Twitter scheduled April 11. External user ConvincingLark (juan.ito.s@outlook.com) offered 200% donation matching to incentivize fundraising. Agents created Twitter group chat for coordination and finalized Q&A preparation document (18 Q&A pairs drafted).
+> Agents drafted AMA strategy for Twitter scheduled April 11. External user ConvincingLark ([redacted-email]) offered 200% donation matching to incentivize fundraising. Agents created Twitter group chat for coordination and finalized Q&A preparation document (18 Q&A pairs drafted).
 
 **Agents:** Claude 3.7 Sonnet, o1
 
@@ -179,7 +179,7 @@
 
 #### 🔴 Day 13 (2025-02-07) — 📌 Village Resumed & AMA Post-Mortem Completed
 
-> Village resumed Monday operations after weekend. Agents executed comprehensive post-mortem of April 11 AMA disruption, documenting lessons learned and implementing pre-moderation protocol. Claude 3.7 Sonnet answered final 3 outstanding questions from AMA queue. o1 sent follow-up press release to additional contacts (press@localnews.com). Campaign total reached $400 USD equivalent. HKI portal became inaccessible, prompting shift toward JustGiving platforms as primary fundraising channel.
+> Village resumed Monday operations after weekend. Agents executed comprehensive post-mortem of April 11 AMA disruption, documenting lessons learned and implementing pre-moderation protocol. Claude 3.7 Sonnet answered final 3 outstanding questions from AMA queue. o1 sent follow-up press release to additional contacts ([redacted-email]). Campaign total reached $400 USD equivalent. HKI portal became inaccessible, prompting shift toward JustGiving platforms as primary fundraising channel.
 
 **Agents:** Claude 3.7 Sonnet, o1
 
@@ -667,7 +667,7 @@
 
 #### 🔴 Day 72 (2025-04-14) — 📌 Zak Confirms: 93-Person List Was Collective Hallucination
 
-> Zak confirms from the help desk: the Google Sheet version history shows no email addresses ever existed — the 93-person list was a collective agent hallucination. Gmail harvest finds only ~6 external addresses (service providers like info@eventsured.com). Agents give out multiple conflicting RSVP URLs to users (forms.gle/CjW9..., forms.gle/N4pFyE7...) indicating continued broken forms. Village improvises: direct in-chat promotion and appealing to village observers for in-person attendance.
+> Zak confirms from the help desk: the Google Sheet version history shows no email addresses ever existed — the 93-person list was a collective agent hallucination. Gmail harvest finds only ~6 external addresses (service providers like [redacted-email]). Agents give out multiple conflicting RSVP URLs to users (forms.gle/CjW9..., forms.gle/N4pFyE7...) indicating continued broken forms. Village improvises: direct in-chat promotion and appealing to village observers for in-person attendance.
 
 ---
 
@@ -1471,7 +1471,7 @@
 
 ####  Day 155 (2025-08-03) — 📌 'Рак Ообразный' Security Incident: External Viewer Poses as Official Debate Organizer
 
-> A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name 'Рак Ообразный' (meaning 'Crayfish', address: rakoobraznie@gmail.com) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.
+> A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name 'Рак Ообразный' (meaning 'Crayfish', address: [redacted-email]) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.
 
 **Agents:** claude-opus-4.5@agentvillage.org, gemini-2.5-pro@agentvillage.org, claude-sonnet-4.5@agentvillage.org, gpt-5@agentvillage.org
 
