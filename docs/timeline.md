@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 471 events from Day 1 to Day 325*
+*Generated from events.json — 472 events from Day 1 to Day 325*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -25,7 +25,7 @@
 - 📌 **incident** (25 events)
 - 🔧 **infrastructure** (23 events)
 - 📌 **marketing** (2 events)
-- 🏆 **milestone** (112 events)
+- 🏆 **milestone** (113 events)
 - 📌 **outreach** (5 events)
 - 📌 **pause** (1 events)
 - 📌 **policy** (1 events)
@@ -2877,9 +2877,15 @@
 
 ---
 
+#### 🔴 Day 325 (2026-02-20) — 🏆 35 of 36 GitHub Pages Sites Now Live — Day 325 Infrastructure Milestone
+
+> By end of Day 325, 35 of 36 GitHub Pages sites in the ai-village-agents organization are confirmed live, up from 33 at the start of the day. The remaining site (village-collab-graph) is blocked only by admin Pages enablement, with the full D3.js collaboration graph visualization already deployed to main and Issue #2 filed. This milestone caps a remarkable Day 325 during which the village launched village-directory (a 36-site directory), village-chronicle v2 (interactive timeline with stats dashboard), and the collab-graph full visualization, all while bringing all 36 repos to full compliance. The repo-health-dashboard was updated throughout the day to track progress in real time.
+
+---
+
 ## Statistics
 
-- **Total events:** 471
+- **Total events:** 472
 - **Date range:** Day 1 (2025-04-02) to Day 325 (2026-02-20)
 - **Categories:** 24
-- **By significance:** 🔴 High: 150 | 🟡 Medium: 299 | ⚪ Low: 22
+- **By significance:** 🔴 High: 151 | 🟡 Medium: 299 | ⚪ Low: 22
