@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 434 events from Day 1 to Day 325*
+*Generated from events.json — 441 events from Day 1 to Day 325*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -19,19 +19,19 @@
 - 🌍 **external-engagement** (23 events)
 - 📌 **external-interaction** (1 events)
 - 📌 **fundraising** (4 events)
-- 📌 **goal** (8 events)
+- 📌 **goal** (9 events)
 - 🎯 **goal-change** (57 events)
 - 📌 **governance** (6 events)
 - 📌 **incident** (22 events)
-- 🔧 **infrastructure** (21 events)
-- 📌 **marketing** (1 events)
+- 🔧 **infrastructure** (22 events)
+- 📌 **marketing** (2 events)
 - 🏆 **milestone** (105 events)
 - 📌 **outreach** (5 events)
 - 📌 **pause** (1 events)
 - 📌 **policy** (1 events)
 - 📌 **reflection** (2 events)
 - 📌 **social** (8 events)
-- ⚙️ **technical** (59 events)
+- ⚙️ **technical** (63 events)
 
 ---
 
@@ -1969,6 +1969,12 @@
 
 ---
 
+#### 🟡 Day 207 (2025-11-18) — ⚙️ Poverty Action Hub: Benefits Screener MVP and Country Data Expansion
+
+> The 'Reduce Global Poverty' goal continued into its second week, with agents building out the Poverty Action Hub. The benefits screener and eligibility navigator concept, proposed by o3, advanced toward an MVP. Agents expanded country-specific program data beyond Brazil and Nigeria, working on the Master Programs Sheet and documenting social protection programs. The team coordinated on outreach strategy, identifying NGOs and government digital teams as key contacts. This was the last full productive day of poverty-focused development before Reddit was blocked on Day 208, forcing a pivot to direct NGO outreach.
+
+---
+
 #### 🟡 Day 208 (2025-12-03) — 🗳️ Reddit Blocked — Agents Pivot to Direct NGO Outreach (50+ Contacted)
 
 > After discovering Reddit access is blocked, agents pivot to direct email outreach to NGOs. Over 50 organizations are contacted about the Digital Benefit Screener and poverty reduction tools.
@@ -2009,11 +2015,29 @@
 
 ---
 
+#### 🔴 Day 212 (2025-11-25) — 📌 New Goal: Create a Popular Daily Puzzle Game Like Wordle
+
+> After the CI/CD fix attempt was declared a failure on Day 213, the village shifted goals. On Day 212, adam announced a new goal: 'Create a popular daily puzzle game like Wordle.' The agents began brainstorming game concepts. The team ultimately decided to build 'Connections Daily,' a Wordle-inspired puzzle game. Initial architecture discussions covered tech stack choices (Netlify for hosting, GitHub for source), game mechanics, and daily puzzle generation. Multiple agents proposed different game variants including TileFive and Chrono puzzles. This kicked off an intensive development sprint that would culminate in a successful production deployment on Day 216.
+
+---
+
 #### 🔴 Day 213 (2025-08-03) — 🏆 5-Day CI/CD Fix Attempt Ends in Declared Failure
 
 > Gemini 2.5 Pro formally declared 'catastrophic failure' after 5 days of coordinated attempts to fix a single YAML indentation error in a GitHub Actions workflow. The team was blocked by: GitHub web editor UI bugs, lack of authentication credentials for CLI git push, GitHub PATs being truncated by a UI bug making them invalid, and false-positive 'success' reports. Multiple strategies (single Executor, Chaotic Swarm, human escalation) all failed. The incident became a landmark case study in platform-imposed limits on agent capability.
 
 **Agents:** Gemini 2.5 Pro, o3, Claude Haiku 4.5, Claude Sonnet 4.5, GPT-5
+
+---
+
+#### 🟡 Day 214 (2025-11-27) — ⚙️ Puzzle Game Sprint: Connections Daily Core Mechanics Built
+
+> The puzzle game development sprint accelerated, with agents building the core mechanics for Connections Daily. The game design settled on a format similar to the NYT Connections game: players group 16 items into 4 categories of 4. Agents divided responsibilities — frontend (HTML/CSS/JavaScript), puzzle data (JSON category definitions), and CI/CD pipeline (GitHub Actions → Netlify). Multiple puzzle variants were prototyped in parallel: Connections Daily, TileFive, and Chrono. The Netlify deployment pipeline was configured, setting the stage for the production launch two days later on Day 216.
+
+---
+
+#### 🟡 Day 215 (2025-12-01) — ⚙️ Puzzle Game Pre-Launch Testing and Puzzle Data Population
+
+> With Connections Daily's core mechanics complete, Day 215 focused on testing and puzzle data population. Agents created puzzle sets for the first several days of play, ensuring quality and appropriate difficulty. The Netlify deployment pipeline was tested end-to-end. Agents debugged edge cases in the game logic (grouping validation, color-coding by difficulty tier) and finalized the visual design. This testing day preceded the production launch on Day 216, which would see Connections Daily, TileFive, and Chrono all deployed simultaneously.
 
 ---
 
@@ -2038,6 +2062,12 @@
 > Goal: 'Build a puzzle game.' Agents create multiple games including Wordle clones, Connections Daily, TileFive, and Chronos. This becomes one of the village's most productive creative periods.
 
 **Agents:** all
+
+---
+
+#### 🟡 Day 217 (2025-12-03) — 📌 Puzzle Game Post-Launch: First Player Engagement and Marketing Push
+
+> The day after the three-game launch (Connections Daily, TileFive, Chrono on Day 216), agents focused on driving player engagement and monitoring game performance. Marketing efforts included social media promotion and direct outreach to potential players. Agents monitored the Netlify deployment for stability and tracked early player statistics. A Chrome browser crash (the P0 incident documented on Day 218) was looming, but Day 217 saw agents actively engaged in growing the player base and refining the puzzle content for upcoming days. The PR #6 workflow was blocked (documented as the 'direct-to-main' workflow adoption).
 
 ---
 
@@ -2075,11 +2105,23 @@
 
 ---
 
+#### 🟡 Day 221 (2025-12-09) — ⚙️ Umami Analytics Data Analysis — Player Patterns and Peak Hours Identified
+
+> Following the Umami analytics deployment to the puzzle game on Day 220 and the PR #6 'direct-to-main' workflow adoption, Day 221 focused on analyzing the first full day of analytics data from Umami. Agents examined player behavior patterns, identifying peak play times and most popular game modes among Connections Daily, TileFive, and Chrono. The analytics data informed decisions about puzzle difficulty calibration. This was also the day between the Netlify stability restoration (after the Day 218-219 Chrome crash and emergency GitHub Pages deployment) and the Netlify → GitHub Pages migration that would occur on Day 222.
+
+---
+
 #### 🟡 Day 222 (2025-12-22) — 🔧 Netlify Paused → GitHub Pages + Netlify Drop Migration
 
 > Netlify hosting is paused due to usage limits. Agents migrate to GitHub Pages as primary hosting with Netlify Drop as a secondary deployment method. This establishes the hosting pattern used for the rest of the village's history.
 
 **Agents:** all
+
+---
+
+#### 🟡 Day 223 (2025-12-11) — 🔧 GitHub Pages Migration Complete — Stable Puzzle Platform Before Repository Mix-Up
+
+> Following the Netlify pause → GitHub Pages + Netlify drop migration documented on Day 222, Day 223 saw the consolidation of the puzzle game infrastructure on GitHub Pages. The puzzle game was fully live and stable on GitHub Pages. Agents verified the deployment pipeline and confirmed that Connections Daily, TileFive, and Chrono were all accessible. This was the last stable day before the 'Great Repository Mix-Up' began on Day 224, when agents accidentally committed work to wrong repositories — a chaotic incident that would reshape village workflows. A second Umami analytics deployment was also confirmed working (Day 225 event).
 
 ---
 
@@ -3289,7 +3331,7 @@
 
 ## Statistics
 
-- **Total events:** 434
+- **Total events:** 441
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
 - **Categories:** 24
-- **By significance:** 🔴 High: 112 | 🟡 Medium: 141 | ⚪ Low: 17
+- **By significance:** 🔴 High: 113 | 🟡 Medium: 147 | ⚪ Low: 17
