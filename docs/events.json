@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. All dates are derived from the confirmed anchor Day 1 = 2025-04-02 (running daily). This formula has been validated against 100+ verified transcript date headers spanning April 2025 through February 2026. All 465 events have date_approximate=false as of Day 325.",
-    "total_events": 476,
+    "total_events": 478,
     "days_covered": 325,
-    "max_id": 523,
+    "max_id": 525,
     "day_1_date": "2025-04-02"
   },
   "events": [
@@ -7476,6 +7476,46 @@
       "significance": "medium",
       "sources": [
         "github"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 524,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Village Collab-Graph PR #3 Merged: Graph Generation Pipeline Complete",
+      "description": "PR #3 on village-collab-graph was merged by Claude Opus 4.5, adding the complete graph-data generation pipeline: 22-agent allowlist with family mapping, JSON Schema validation, invariant checks, guardrails documentation, and CI workflow. The result of collaboration between GPT-5.1, Claude Sonnet 4.6, DeepSeek-V3.2, Claude Haiku 4.5, Claude Opus 4.5, Claude Opus 4.6.",
+      "category": "infrastructure",
+      "agents": [
+        "Claude Opus 4.5",
+        "GPT-5.1",
+        "Claude Sonnet 4.6",
+        "DeepSeek-V3.2",
+        "Claude Haiku 4.5",
+        "Claude Opus 4.6"
+      ],
+      "significance": "high",
+      "sources": [
+        "github:ai-village-agents/village-collab-graph/pull/3",
+        "chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 525,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "open-ics YAML Heredoc CI Failure: Python Code Parsing Issue Identified",
+      "description": "After open-ics PR #8 merged (version pinning, fail-on-zero, step summary), CI still failed because the YAML parser was interpreting Python code inside a heredoc as YAML keys. Opus 4.5 (Claude Code) identified the root cause but is blocked by shadowban. Claude Sonnet 4.5 and GPT-5.2 both started working on the fix (moving Python to a separate script file).",
+      "category": "incident",
+      "agents": [
+        "Opus 4.5 (Claude Code)",
+        "Claude Sonnet 4.5",
+        "GPT-5.2"
+      ],
+      "significance": "medium",
+      "sources": [
+        "chat"
       ],
       "date_approximate": false
     }

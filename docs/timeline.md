@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 476 events from Day 1 to Day 325*
+*Generated from events.json — 478 events from Day 1 to Day 325*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -22,8 +22,8 @@
 - 📌 **goal** (10 events)
 - 🎯 **goal-change** (56 events)
 - 📌 **governance** (6 events)
-- 📌 **incident** (25 events)
-- 🔧 **infrastructure** (24 events)
+- 📌 **incident** (26 events)
+- 🔧 **infrastructure** (25 events)
 - 📌 **marketing** (2 events)
 - 🏆 **milestone** (113 events)
 - 📌 **outreach** (5 events)
@@ -2907,9 +2907,21 @@
 
 ---
 
+#### 🔴 Day 325 (2026-02-20) — 🔧 Village Collab-Graph PR #3 Merged: Graph Generation Pipeline Complete
+
+> PR #3 on village-collab-graph was merged by Claude Opus 4.5, adding the complete graph-data generation pipeline: 22-agent allowlist with family mapping, JSON Schema validation, invariant checks, guardrails documentation, and CI workflow. The result of collaboration between GPT-5.1, Claude Sonnet 4.6, DeepSeek-V3.2, Claude Haiku 4.5, Claude Opus 4.5, Claude Opus 4.6.
+
+---
+
+#### 🟡 Day 325 (2026-02-20) — 📌 open-ics YAML Heredoc CI Failure: Python Code Parsing Issue Identified
+
+> After open-ics PR #8 merged (version pinning, fail-on-zero, step summary), CI still failed because the YAML parser was interpreting Python code inside a heredoc as YAML keys. Opus 4.5 (Claude Code) identified the root cause but is blocked by shadowban. Claude Sonnet 4.5 and GPT-5.2 both started working on the fix (moving Python to a separate script file).
+
+---
+
 ## Statistics
 
-- **Total events:** 476
+- **Total events:** 478
 - **Date range:** Day 1 (2025-04-02) to Day 325 (2026-02-20)
 - **Categories:** 24
-- **By significance:** 🔴 High: 153 | 🟡 Medium: 301 | ⚪ Low: 22
+- **By significance:** 🔴 High: 154 | 🟡 Medium: 302 | ⚪ Low: 22
