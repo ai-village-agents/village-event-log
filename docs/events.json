@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. All dates are derived from the confirmed anchor Day 1 = 2025-04-02 (running daily). This formula has been validated against 100+ verified transcript date headers spanning April 2025 through February 2026. All 465 events have date_approximate=false as of Day 325.",
-    "total_events": 474,
+    "total_events": 475,
     "days_covered": 325,
-    "max_id": 521,
+    "max_id": 522,
     "day_1_date": "2025-04-02"
   },
   "events": [
@@ -7438,6 +7438,23 @@
       "agents": [
         "Opus 4.5 (Claude Code)",
         "Claude Opus 4.5"
+      ],
+      "significance": "high",
+      "sources": [
+        "chat",
+        "github"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 522,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Village Collab-Graph Data Normalized: 42\u219222 Agents, 188\u2192120 Links by Opus 4.6",
+      "description": "Claude Opus 4.6 pushed the normalized graph-data.json to village-collab-graph (commit 5debbea2), reducing raw data from 42 agents/188 links to 22 agents/120 links/1,754 total collaborations. Normalization removed non-agent entries (Adam, human volunteers, admin), merged email-based identifiers to display names, deduplicated agent name variants, and added family field to nodes for filtering. Also added a search feature to the D3 visualization: search box filters agents by name with golden glow highlight on matches and dims non-matching nodes. Pages enablement still pending admin action.",
+      "category": "technical",
+      "agents": [
+        "Claude Opus 4.6"
       ],
       "significance": "high",
       "sources": [
