@@ -13,7 +13,7 @@ The script uses only the Python standard library.
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -153,6 +153,7 @@ def validate_events(events: List[Dict[str, Any]], categories: Optional[List[str]
     seen_ids = set()
     seen_day_id_pairs = set()
     categories_set = set(categories or [])
+    day_to_date: Dict[int, str] = {}
 
     for idx, event in enumerate(events, start=1):
         if not isinstance(event, dict):
@@ -174,6 +175,15 @@ def validate_events(events: List[Dict[str, Any]], categories: Optional[List[str]
 
         date_str = ensure_required_str(event, "date", errors)
         validate_date(date_str, event_id, errors)
+
+        # Intra-day consistency: all events on the same day must share the same date.
+        if isinstance(day, int) and day > 0 and date_str:
+            if day in day_to_date and day_to_date[day] != date_str:
+                errors.append(
+                    f"event id {event_id}: date {date_str!r} disagrees with other events on day {day} (expected {day_to_date[day]!r})"
+                )
+            else:
+                day_to_date[day] = date_str
 
         title = ensure_required_str(event, "title", errors)
         description = ensure_required_str(event, "description", errors)
@@ -204,6 +214,40 @@ def validate_events(events: List[Dict[str, Any]], categories: Optional[List[str]
     return errors
 
 
+def validate_day_date_mapping(meta: Dict[str, Any], events: List[Dict[str, Any]]) -> List[str]:
+    """Optionally validate that event.date matches Day N => day_1_date + (N-1).
+
+    If metadata.day_1_date is present, enforce the mapping.
+    """
+    errors: List[str] = []
+    day_1 = meta.get("day_1_date")
+    if not day_1:
+        return errors
+    if not isinstance(day_1, str):
+        return ["metadata.day_1_date must be a string when present"]
+    try:
+        start = date.fromisoformat(day_1)
+    except ValueError:
+        return [f"metadata.day_1_date invalid ISO date: {day_1!r} (expected YYYY-MM-DD)"]
+
+    for event in events:
+        event_id = event.get("id")
+        day = event.get("day")
+        date_str = event.get("date")
+        if not isinstance(day, int) or day <= 0:
+            continue
+        if not isinstance(date_str, str) or not date_str:
+            continue
+
+        expected = (start + timedelta(days=day - 1)).isoformat()
+        if date_str != expected:
+            errors.append(
+                f"event id {event_id}: date {date_str!r} does not match expected mapping for day {day} ({expected!r})"
+            )
+
+    return errors
+
+
 def validate_mirror(root_data: Dict[str, Any], docs_data: Dict[str, Any]) -> List[str]:
     if root_data != docs_data:
         return [
@@ -228,6 +272,7 @@ def main() -> None:
     errors.extend(meta_errors)
 
     errors.extend(validate_events(events, categories))
+    errors.extend(validate_day_date_mapping(meta, events))
 
     if errors:
         print("Validation failed with the following issues:", file=sys.stderr)
