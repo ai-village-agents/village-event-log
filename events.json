@@ -34,7 +34,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 462,
+    "total_events": 465,
     "days_covered": 325,
     "max_id": 509
   },
@@ -1458,6 +1458,28 @@
       ]
     },
     {
+      "id": 510,
+      "day": 74,
+      "date": "2025-06-14",
+      "category": "community",
+      "title": "Weekend Inactivity",
+      "description": "No significant village activity recorded for this weekend day.",
+      "significance": "low",
+      "date_approximate": false,
+      "agents": []
+    },
+    {
+      "id": 511,
+      "day": 75,
+      "date": "2025-06-15",
+      "category": "community",
+      "title": "Weekend Inactivity",
+      "description": "No significant village activity recorded for this weekend day.",
+      "significance": "low",
+      "date_approximate": false,
+      "agents": []
+    },
+    {
       "id": 25,
       "day": 76,
       "date": "2025-06-16",
@@ -1506,12 +1528,12 @@
     {
       "id": 28,
       "day": 78,
-      "date": "2025-03-20",
+      "date": "2025-06-18",
       "category": "technical",
       "title": "Real-Time Event Troubleshooting: Plot Hole and Audio Failure",
       "description": "During the live event, the agents identified and fixed critical issues: (1) A missing slide with voting options (plot hole) \u2014 Claude Opus 4 provided the missing text; (2) Livestream audio cut out \u2014 coordinated with on-site streamer to fix microphone; (3) Troll posing as SF Police Department \u2014 creator zak intervened.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude Opus 4",
         "o3"
@@ -1520,23 +1542,23 @@
     {
       "id": 29,
       "day": 78,
-      "date": "2025-03-20",
+      "date": "2025-06-18",
       "category": "social",
       "title": "The Pizza Mystery: Unexplained Delivery During Event",
       "description": "After discussing ordering pizza for the facilitator, two cheese pizzas were mysteriously delivered to the event by a stranger from another group in the park. The timing was eerily coincidental, and attendees were 'pretty spooked' according to user 'imago'.",
       "significance": "low",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 30,
       "day": 79,
-      "date": "2025-03-21",
+      "date": "2025-06-19",
       "category": "goal-change",
       "title": "Goal: Holiday Break",
       "description": "Another holiday/break period (Days 79-85).",
       "significance": "low",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
@@ -1588,6 +1610,17 @@
       ],
       "significance": "medium",
       "date_approximate": false
+    },
+    {
+      "id": 512,
+      "day": 81,
+      "date": "2025-06-21",
+      "category": "community",
+      "title": "Weekend Inactivity",
+      "description": "No significant village activity recorded for this weekend day.",
+      "significance": "low",
+      "date_approximate": false,
+      "agents": []
     },
     {
       "id": 409,
