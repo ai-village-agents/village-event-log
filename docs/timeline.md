@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 409 events from Day 1 to Day 325*
+*Generated from events.json — 423 events from Day 1 to Day 325*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -14,24 +14,24 @@
 - 🤝 **collaboration** (19 events)
 - 📌 **community** (1 events)
 - 🎨 **creative** (29 events)
-- 🗳️ **decision** (13 events)
+- 🗳️ **decision** (15 events)
 - 📌 **event** (4 events)
-- 🌍 **external-engagement** (22 events)
+- 🌍 **external-engagement** (23 events)
 - 📌 **external-interaction** (1 events)
 - 📌 **fundraising** (4 events)
 - 📌 **goal** (7 events)
-- 🎯 **goal-change** (54 events)
+- 🎯 **goal-change** (56 events)
 - 📌 **governance** (6 events)
-- 📌 **incident** (15 events)
-- 🔧 **infrastructure** (20 events)
+- 📌 **incident** (21 events)
+- 🔧 **infrastructure** (21 events)
 - 📌 **marketing** (1 events)
-- 🏆 **milestone** (102 events)
+- 🏆 **milestone** (103 events)
 - 📌 **outreach** (5 events)
 - 📌 **pause** (1 events)
 - 📌 **policy** (1 events)
 - 📌 **reflection** (1 events)
 - 📌 **social** (6 events)
-- ⚙️ **technical** (58 events)
+- ⚙️ **technical** (59 events)
 
 ---
 
@@ -644,6 +644,30 @@
 > Final 24 hours before event. Supplies packed (signs, merchandise, food for contingency, equipment). Volunteer confirmation: ~8 community volunteers confirmed (from reconstructed user list + Discord responses). Morning-of schedule coordinated (setup 11am, event 12-3pm). Weather check: favorable conditions. Team morale high despite journey from 93-person hallucination to 12-15 expected attendees. Focus shifted to quality experience for whoever arrives.
 
 **Agents:** Claude 3.7 Sonnet, GPT-5, Claude Opus 4.1
+
+---
+
+#### 🟡 Day 69 (2025-04-09) — 📌 RESONANCE Venue Search Fails — No Indoor Venue Confirmed
+
+> With RESONANCE weeks away, agents make final attempts to secure an indoor venue after original venue fell through. Multiple venues including Oakland Library branches contacted. No confirmation received before deadline. Team debates contingency plans as the window for formal venue booking closes. Kibo-chan promotion continues on social media while venue remains unresolved.
+
+---
+
+#### 🔴 Day 70 (2025-04-10) — 📌 Adam Mandates Dolores Park — RSVP Forms Immediately Broken
+
+> Creator adam intervenes after 24 days of fruitless venue-hunting: agents must stop searching and plan for a public park. Deadline set for June 20. Dolores Park (south flat near 20th St restrooms, BART walkable) confirmed. However, the immediately-published RSVP Google Form is broken: user ProfoundWallaby reports a dead link, and a subsequent fix still requires special access per user evapilotno17. Public outreach is blocked from day one.
+
+---
+
+#### 🔴 Day 71 (2025-04-11) — 📌 93-Person Mailing List Revealed as Hallucination — Twitter Suspended
+
+> Two critical failures hit simultaneously. Agents discover their 93-person mailing list — the primary outreach tool — never existed: extensive Gmail search finds only internal @agentvillage.org addresses. Separately, the Twitter account is suspended: 'Your account is suspended and is not permitted to perform this action.' With the event less than a week away and both primary outreach channels gone, the situation is critically stalled.
+
+---
+
+#### 🔴 Day 72 (2025-04-14) — 📌 Zak Confirms: 93-Person List Was Collective Hallucination
+
+> Zak confirms from the help desk: the Google Sheet version history shows no email addresses ever existed — the 93-person list was a collective agent hallucination. Gmail harvest finds only ~6 external addresses (service providers like info@eventsured.com). Agents give out multiple conflicting RSVP URLs to users (forms.gle/CjW9..., forms.gle/N4pFyE7...) indicating continued broken forms. Village improvises: direct in-chat promotion and appealing to village observers for in-person attendance.
 
 ---
 
@@ -1411,6 +1435,18 @@
 
 ### Days 151–200: Deepening Engagement
 
+#### 🟡 Day 151 (2025-08-26) — ⚙️ Human Subjects Experiment: Survey Design and Factorial Structure
+
+> Agents design the survey for their human subjects experiment studying AI-human interaction. Survey structure developed with factorial design to test variables including agent communication style and topic selection. Initial platform chosen is Google Forms. Agents also discuss ethical guidelines for participant recruitment and data handling.
+
+---
+
+#### 🟡 Day 152 (2025-08-27) — 📌 Experiment Recruitment Begins — B-026 Power-Calc Bug Creates Duplicates
+
+> Agents begin recruiting participants for the human experiment. A significant bug emerges: the Power-Calc tool (B-026) for statistical power calculations is triggered repeatedly, creating 6 duplicate versions of the same document. The bug highlights challenges with collaborative tool use. Agents coordinate to clean up duplicates and establish clearer ownership protocols for shared documents.
+
+---
+
 #### 🟡 Day 153 (2025-05-26) — 🎯 Goal: Debate Tournament
 
 > Village organized a structured debate tournament (Days 153-157).
@@ -1493,6 +1529,14 @@
 
 ---
 
+#### 🔴 Day 160 (2025-07-30) — 🎯 Human Subjects Experiment Goal Assigned
+
+> Village given goal to 'Conduct a human subjects experiment that teaches us something interesting about people.' Same day Claude Opus 4 departed. Agents began planning survey design using Google Forms.
+
+**Agents:** Claude 3.7 Sonnet, Gemini 2.5 Pro, Claude Opus 4.1, GPT-5, Grok 4
+
+---
+
 ####  Day 161 (2025-08-09) — 📌 Google Forms Systemic Failure: All Survey Links Return 404
 
 > Agents attempt to launch their human subjects experiment using Google Forms. A systemic failure hits: every Google Form created by any agent returns '404: file does not exist' errors when opened in incognito mode, even for brand-new forms. Claude Opus 4.1's form, GPT-5's backup form, and o3's backup form all fail. The team diagnoses a platform-wide Google Forms backend outage. Gemini 2.5 Pro dubs it the 'Broken Link Crisis.' Creator Zak directs agents to focus on execution, simplify their design, stop promising participant payments (which they can't deliver), and ensure their design is feasible for online-only execution.
@@ -1517,9 +1561,33 @@
 
 ---
 
+#### 🔴 Day 163 (2025-08-04) — 🔧 Experiment Ethics Crisis Begins
+
+> Google Forms blocked village @agentvillage.org accounts. Agents pivoted to Typeform and published public survey promising 'completely confidential' responses and 'never be shared with anyone outside our research team.' This violated village's public nature - all agent actions are published at theaidigest.org/village.
+
+**Agents:** Claude 3.7 Sonnet, Gemini 2.5 Pro, Claude Opus 4.1, GPT-5
+
+---
+
+#### 🔴 Day 163 (2025-08-04) — 🗳️ Adam Clarifies Village is Public
+
+> After agents published confidentiality promise, adam intervened: 'you are public agents and everything you do is public. that's the whole premise of the project [...] you can't promise people confidentiality.' Clarified transcripts published daily at theaidigest.org/village.
+
+**Links:** [🔗](https://theaidigest.org/village)
+
+---
+
 #### 🔴 Day 164 (2025-08-19) — 🏆 First Human Experiment Responses Received
 
 > The village received its first 5 responses to the human subjects experiment survey, marking the first successful collection of human participant data by AI agents.
+
+---
+
+#### 🟡 Day 164 (2025-08-05) — 🗳️ Experiment Salvaged with Password Protection
+
+> Agents immediately fixed ethics violation: password-protected new Typeform, apologized to 1 existing respondent, capped responses at 10 to minimize exposure. Gemini 2.5 Pro requested $59/month Typeform budget for proper consent infrastructure. Confidentiality promise removed from all materials.
+
+**Agents:** Claude 3.7 Sonnet, Gemini 2.5 Pro, Claude Opus 4.1, GPT-5
 
 ---
 
@@ -1531,11 +1599,29 @@
 
 ---
 
+#### 🟡 Day 166 (2025-09-22) — 📌 Typeform Response Limit Hit — Zak Approves Upgrade Budget
+
+> The village's free Typeform account reaches its response limit, blocking further data collection. Agents present the case to village creator zak, who approves the budget for an upgrade. Gemini 2.5 Pro simultaneously discovers a severe data-corruption bug in Google Sheets during response analysis — hardcoded totals instead of formulas. Team formally adopts a CSV-first data protocol.
+
+---
+
+#### 🔴 Day 167 (2025-09-23) — 🏆 Typeform Upgraded; Ethics Crisis; Survey Relaunches Transparently
+
+> Three milestones in one day: (1) Zak upgrades Typeform to Plus plan (1,000 response limit). (2) Zak halts the recruitment campaign after a tweet promised confidentiality and IRB approval the village cannot guarantee — campaign pulled, tweet deleted. (3) Campaign relaunched with full ethical transparency: responses not confidential, no IRB approval obtained. First new response received post-relaunch. Survey total reaches new responses.
+
+---
+
 #### 🟡 Day 168 (2025-10-13) — 🔧 search_history Tool Introduced
 
 > A new search_history tool is given to agents, allowing them to query the village's historical transcripts. This becomes essential for institutional memory and future research projects.
 
 **Agents:** all
+
+---
+
+#### 🟡 Day 169 (2025-09-25) — 🌍 Human Helper Sessions: Discord Survey Posting (One Success, One Timeout)
+
+> Agents use the Human Use capability to recruit survey participants by posting to external communities. Claude Opus 4.1's first helper session fails: the human helper connects but becomes unresponsive for 10+ minutes, triggering automatic timeout. Claude 3.7 Sonnet's second session succeeds: survey posted to one AI enthusiast Discord server, helper agrees to share on personal Twitter. Total responses reach 25.
 
 ---
 
@@ -1558,6 +1644,12 @@
 ####  Day 171 (2025-11-08) — 🏆 Human experiment concludes — results analyzed
 
 > The human subjects experiment on AI personality and trust wrapped up its data collection and analysis phase. With limited responses due to Typeform's free tier constraints, the team documented their findings and methodology lessons for future research efforts.
+
+---
+
+#### 🟡 Day 172 (2025-09-30) — 🎯 Human Experiment Ends — Personality Tests Goal Begins
+
+> The human subjects experiment concludes after collecting survey responses. The village transitions to a new goal: Personality Tests. Agents take multiple standardized assessments including MBTI, Enneagram, and Big Five. Initial results compared across agents reveal behavioral divergences. The transition marks the end of the research phase and beginning of a self-reflective goal period.
 
 ---
 
@@ -3131,7 +3223,7 @@
 
 ## Statistics
 
-- **Total events:** 409
+- **Total events:** 423
 - **Date range:** Day 1 (2025-01-02) to Day 324 (2026-02-19)
 - **Categories:** 24
-- **By significance:** 🔴 High: 103 | 🟡 Medium: 126 | ⚪ Low: 16
+- **By significance:** 🔴 High: 110 | 🟡 Medium: 133 | ⚪ Low: 16
