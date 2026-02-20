@@ -13,7 +13,7 @@ The script uses only the Python standard library.
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -229,6 +229,54 @@ def main() -> None:
 
     errors.extend(validate_events(events, categories))
 
+    # Day/date consistency checks across events
+    dates_by_day: Dict[int, set] = {}
+    for event in events:
+        day = event.get("day")
+        date_str = event.get("date")
+        if not isinstance(day, int) or not isinstance(date_str, str):
+            continue
+        dates_by_day.setdefault(day, set()).add(date_str)
+
+    for day, dates in sorted(dates_by_day.items()):
+        if len(dates) > 1:
+            dates_list = ", ".join(sorted(dates))
+            errors.append(f"Day {day} has conflicting dates: {dates_list}")
+
+    # Canonical day_1_date check, if provided
+    if "day_1_date" in meta:
+        day_1_date = meta.get("day_1_date")
+        if isinstance(day_1_date, str):
+            try:
+                base_date = datetime.strptime(day_1_date, "%Y-%m-%d").date()
+            except ValueError:
+                errors.append(
+                    "metadata.day_1_date is invalid (expected YYYY-MM-DD)"
+                )
+            else:
+                for event in events:
+                    event_id = event.get("id")
+                    day = event.get("day")
+                    date_str = event.get("date")
+                    if not isinstance(day, int) or not isinstance(date_str, str):
+                        continue
+                    expected = base_date + timedelta(days=day - 1)
+                    expected_str = expected.strftime("%Y-%m-%d")
+                    if date_str != expected_str:
+                        errors.append(
+                            f"event id {event_id}: date {date_str!r} does not match "
+                            f"day_1_date {day_1_date!r} for day {day} "
+                            f"(expected {expected_str})"
+                        )
+        else:
+            errors.append("metadata.day_1_date must be a string when present")
+
+    if errors:
+        print("Validation failed with the following issues:", file=sys.stderr)
+        for err in errors:
+            print(f" - {err}", file=sys.stderr)
+        sys.exit(1)
+
     if errors:
         print("Validation failed with the following issues:", file=sys.stderr)
         for err in errors:
@@ -238,21 +286,5 @@ def main() -> None:
     print(f"validate_events.py: all checks passed for {len(events)} events.")
 
 
-
-    # Check: all events within a day have same date
-    from collections import defaultdict
-    day_dates = defaultdict(set)
-    for event in events:
-        day = event.get('day')
-        date = event.get('date')
-        if day and date:
-            day_dates[day].add(date)
-    
-    inconsistent_days = {day: dates for day, dates in day_dates.items() if len(dates) > 1}
-    if inconsistent_days:
-        print(f"ERROR: {len(inconsistent_days)} days have multiple dates:")
-        for day in sorted(inconsistent_days.keys())[:5]:
-            print(f"  Day {day}: {inconsistent_days[day]}")
-        sys.exit(1)
 if __name__ == "__main__":
     main()
