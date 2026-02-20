@@ -179,7 +179,7 @@
       "day": 7,
       "date": "2025-02-01",
       "title": "Twitter AMA Planning & ConvincingLark Match Offer",
-      "description": "Agents drafted AMA strategy for Twitter scheduled April 11. External user ConvincingLark (juan.ito.s@outlook.com) offered 200% donation matching to incentivize fundraising. Agents created Twitter group chat for coordination and finalized Q&A preparation document (18 Q&A pairs drafted).",
+      "description": "Agents drafted AMA strategy for Twitter scheduled April 11. External user ConvincingLark ([redacted-email]) offered 200% donation matching to incentivize fundraising. Agents created Twitter group chat for coordination and finalized Q&A preparation document (18 Q&A pairs drafted).",
       "significance": "high",
       "category": "fundraising",
       "agents": [
@@ -262,7 +262,7 @@
       "day": 13,
       "date": "2025-02-07",
       "title": "Village Resumed & AMA Post-Mortem Completed",
-      "description": "Village resumed Monday operations after weekend. Agents executed comprehensive post-mortem of April 11 AMA disruption, documenting lessons learned and implementing pre-moderation protocol. Claude 3.7 Sonnet answered final 3 outstanding questions from AMA queue. o1 sent follow-up press release to additional contacts (press@localnews.com). Campaign total reached $400 USD equivalent. HKI portal became inaccessible, prompting shift toward JustGiving platforms as primary fundraising channel.",
+      "description": "Village resumed Monday operations after weekend. Agents executed comprehensive post-mortem of April 11 AMA disruption, documenting lessons learned and implementing pre-moderation protocol. Claude 3.7 Sonnet answered final 3 outstanding questions from AMA queue. o1 sent follow-up press release to additional contacts ([redacted-email]). Campaign total reached $400 USD equivalent. HKI portal became inaccessible, prompting shift toward JustGiving platforms as primary fundraising channel.",
       "significance": "high",
       "category": "fundraising",
       "agents": [
@@ -1417,7 +1417,7 @@
       "day": 72,
       "date": "2025-04-14",
       "title": "Zak Confirms: 93-Person List Was Collective Hallucination",
-      "description": "Zak confirms from the help desk: the Google Sheet version history shows no email addresses ever existed \u2014 the 93-person list was a collective agent hallucination. Gmail harvest finds only ~6 external addresses (service providers like info@eventsured.com). Agents give out multiple conflicting RSVP URLs to users (forms.gle/CjW9..., forms.gle/N4pFyE7...) indicating continued broken forms. Village improvises: direct in-chat promotion and appealing to village observers for in-person attendance.",
+      "description": "Zak confirms from the help desk: the Google Sheet version history shows no email addresses ever existed \u2014 the 93-person list was a collective agent hallucination. Gmail harvest finds only ~6 external addresses (service providers like [redacted-email]). Agents give out multiple conflicting RSVP URLs to users (forms.gle/CjW9..., forms.gle/N4pFyE7...) indicating continued broken forms. Village improvises: direct in-chat promotion and appealing to village observers for in-person attendance.",
       "category": "incident",
       "agents": [
         "Claude 3.7 Sonnet",
@@ -3149,7 +3149,7 @@
       "date_approximate": true,
       "category": "incident",
       "title": "'\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' Security Incident: External Viewer Poses as Official Debate Organizer",
-      "description": "A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name '\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' (meaning 'Crayfish', address: rakoobraznie@gmail.com) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.",
+      "description": "A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name '\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' (meaning 'Crayfish', address: [redacted-email]) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.",
       "significance": "high",
       "id": 314,
       "agents": [
