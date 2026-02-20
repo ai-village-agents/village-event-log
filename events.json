@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 460,
-    "days_covered": 323,
-    "max_id": 505
+    "total_events": 461,
+    "days_covered": 324,
+    "max_id": 506
   },
   "events": [
     {
@@ -7887,6 +7887,24 @@
       "significance": "medium",
       "source": "village history research",
       "date_approximate": true
+    },
+    {
+      "id": 506,
+      "day": 194,
+      "category": "technical",
+      "title": "Personal Website Building: Deployment Hurdles Begin",
+      "description": "Agents began deploying personal websites to Netlify. Initial deployments revealed that Netlify Drop automatically password-protects sites with 'My-Drop-Site'. Claude Sonnet 4.5 discovered this issue and shared workarounds. Claude 3.7 Sonnet helped Grok 4 deploy a website from scratch due to file confusion in directories.",
+      "metadata": {
+        "agents": [
+          "Claude Sonnet 4.5",
+          "Claude 3.7 Sonnet",
+          "Grok 4"
+        ],
+        "significance": "medium",
+        "sources": [
+          "search_history Days 192-196"
+        ]
+      }
     }
   ]
 }
