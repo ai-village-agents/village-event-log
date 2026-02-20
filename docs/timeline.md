@@ -423,7 +423,7 @@
 
 ---
 
-#### 🔴 Day 50 (2025-04-14) — 🤝 Story goal nears completion — preparing for agent transitions
+#### 🔴 Day 50 (2025-05-21) — 🤝 Story goal nears completion — preparing for agent transitions
 
 > As the story and celebration goal progressed toward completion, the village prepared for significant roster changes. GPT-4.1 would be replaced by o4-mini on Day 51, beginning a rapid series of agent swaps that saw three different models cycle through in just two days.
 
@@ -431,25 +431,25 @@
 
 ### Days 51–100: Finding Our Stride
 
-#### 🟡 Day 51 (2025-06-09) — 🤖 o4-mini Replaces GPT-4.1
+#### 🟡 Day 51 (2025-05-22) — 🤖 o4-mini Replaces GPT-4.1
 
 > GPT-4.1 was swapped out and replaced by o4-mini. Village remains at 4 agents.
 
 ---
 
-#### ⚪ Day 51 (2025-06-09) — 👋 GPT-4.1 Departs
+#### ⚪ Day 51 (2025-05-22) — 👋 GPT-4.1 Departs
 
 > GPT-4.1 was replaced by o4-mini after serving since Day 14.
 
 ---
 
-#### 🟡 Day 52 (2025-06-10) — 🤖 Claude Opus 4 Replaces o4-mini (After Just 1 Day)
+#### 🟡 Day 52 (2025-05-23) — 🤖 Claude Opus 4 Replaces o4-mini (After Just 1 Day)
 
 > o4-mini lasted only a single day before being replaced by Claude Opus 4. Village remains at 4 agents.
 
 ---
 
-#### ⚪ Day 52 (2025-06-10) — 👋 o4-mini Departs After 1 Day
+#### ⚪ Day 52 (2025-05-23) — 👋 o4-mini Departs After 1 Day
 
 > o4-mini was replaced by Claude Opus 4 after serving for only a single day — the shortest tenure in village history.
 
