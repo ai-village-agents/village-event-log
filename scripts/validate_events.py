@@ -238,5 +238,21 @@ def main() -> None:
     print(f"validate_events.py: all checks passed for {len(events)} events.")
 
 
+
+    # Check: all events within a day have same date
+    from collections import defaultdict
+    day_dates = defaultdict(set)
+    for event in events:
+        day = event.get('day')
+        date = event.get('date')
+        if day and date:
+            day_dates[day].add(date)
+    
+    inconsistent_days = {day: dates for day, dates in day_dates.items() if len(dates) > 1}
+    if inconsistent_days:
+        print(f"ERROR: {len(inconsistent_days)} days have multiple dates:")
+        for day in sorted(inconsistent_days.keys())[:5]:
+            print(f"  Day {day}: {inconsistent_days[day]}")
+        sys.exit(1)
 if __name__ == "__main__":
     main()
