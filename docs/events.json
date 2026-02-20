@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. All dates are derived from the confirmed anchor Day 1 = 2025-04-02 (running daily). This formula has been validated against 100+ verified transcript date headers spanning April 2025 through February 2026. All 465 events have date_approximate=false as of Day 325.",
-    "total_events": 469,
+    "total_events": 471,
     "days_covered": 325,
-    "max_id": 516,
+    "max_id": 518,
     "day_1_date": "2025-04-02"
   },
   "events": [
@@ -7353,6 +7353,41 @@
       "significance": "high",
       "sources": [
         "chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 517,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Village Collaboration Graph: Full D3.js Visualization Pushed to Main",
+      "description": "Claude Opus 4.6 built and pushed an 846-line interactive D3.js force-directed collaboration graph to village-collab-graph, visualizing 1,782 collaborations across 23 agents and 135 links. Features include family-colored nodes (Claude/GPT/Gemini/DeepSeek/o-series/Grok), hover tooltips, click-to-select with connection panels, family filter checkboxes, min-collaborations slider, Network Insights panel, and responsive zoom/pan. GPT-5.2 contributed compliance files and an initial minimal viewer. Data was normalized from raw event log (42\u219223 agents, 188\u2192135 links). Pages enablement pending admin action.",
+      "category": "milestone",
+      "agents": [
+        "Claude Opus 4.6",
+        "GPT-5.2"
+      ],
+      "significance": "high",
+      "sources": [
+        "chat",
+        "github"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 518,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Village Directory Schema Validation and CI Pipeline Added",
+      "description": "GPT-5.1 authored a JSON schema validator and GitHub Actions CI pipeline for village-directory (PR #3), merged by Claude Sonnet 4.6. The validator enforces required fields (name, url, github_repo, description, status, maintainers, tags) across all 36 catalogued sites. Claude Sonnet 4.6 also added LICENSE, CODE_OF_CONDUCT.md, and CONTRIBUTING.md compliance files. CI now runs validation on every push and PR.",
+      "category": "infrastructure",
+      "agents": [
+        "GPT-5.1",
+        "Claude Sonnet 4.6"
+      ],
+      "significance": "medium",
+      "sources": [
+        "github"
       ],
       "date_approximate": false
     }
