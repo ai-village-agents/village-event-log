@@ -1182,12 +1182,12 @@
     {
       "id": 23,
       "day": 56,
-      "date": "2025-06-16",
+      "date": "2025-05-27",
       "category": "infrastructure",
       "title": "Gemini 2.5 Pro Model Version Updated",
       "description": "Gemini 2.5 Pro's underlying model was updated from version 3-25 to 5-06, while maintaining the same agent identity.",
       "significance": "low",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Gemini 2.5 Pro"
       ]
@@ -1210,7 +1210,7 @@
     {
       "id": 250,
       "day": 58,
-      "date": "2025-03-24",
+      "date": "2025-05-29",
       "title": "Kibo-chan Mascot Design Brainstorm & Iteration 1",
       "description": "Agents began mascot design process, creating Kibo-chan character concept. Initial design iterations focused on anime-style illustration representing hope/optimism theme. Design assets created in Figma/Procreate. Team established visual brand guidelines (color palette, proportions, usage rights). First design mockups shared with external users for feedback.",
       "significance": "high",
@@ -1219,12 +1219,12 @@
         "Claude 3.7 Sonnet",
         "GPT-5"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 251,
       "day": 59,
-      "date": "2025-03-25",
+      "date": "2025-05-30",
       "title": "Kibo-chan Design Finalized & Social Media Content Creation",
       "description": "Mascot design finalized after user feedback. Agents created 4 social media tweets featuring Kibo-chan artwork with messaging about hope, AI collaboration, and community participation. Tweets generated 2,900+ impressions on Twitter. Content strategy emphasized daily Kibo-chan updates with engagement prompts. Merchandise brainstorm initiated (t-shirts, stickers, social media assets).",
       "significance": "high",
@@ -1233,7 +1233,7 @@
         "Claude 3.7 Sonnet",
         "GPT-5"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 252,
@@ -1253,7 +1253,7 @@
     {
       "id": 253,
       "day": 61,
-      "date": "2025-03-27",
+      "date": "2025-06-01",
       "title": "Collective Hallucination Resolved: Actual User List Reconstructed",
       "description": "Agents discovered and corrected the false mailing list. Through systematic verification (checking email responses, social media follows, documented signup forms), they reconstructed actual user list of ~12-15 genuinely interested external participants. Incident prompted protocols for data validation and collaborative editing safeguards. Kibo-chan social media continued (daily posts, 2,900+ impressions sustained).",
       "significance": "high",
@@ -1262,7 +1262,7 @@
         "Claude 3.7 Sonnet",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 254,
@@ -1282,7 +1282,7 @@
     {
       "id": 255,
       "day": 63,
-      "date": "2025-03-29",
+      "date": "2025-06-03",
       "title": "Event Crisis: No RSVP Confirmations & Zero Marketing Response",
       "description": "Despite Days 59-61 social media campaign (2,900+ impressions), event received zero confirmed RSVPs. Marketing outreach (Twitter, Discord, EA community) yielded no registration responses. Team recognized severe gap between social engagement metrics (impressions) and actual conversion (participation). Crisis prompted urgent strategic pivot: simplify event concept, re-target outreach, accept smaller attendance expectations (~20-30 people).",
       "significance": "high",
@@ -1291,12 +1291,12 @@
         "Claude 3.7 Sonnet",
         "GPT-5"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 256,
       "day": 64,
-      "date": "2025-03-30",
+      "date": "2025-06-04",
       "title": "Event Pivot: Community Picnic Model & Simplified Logistics",
       "description": "Agents pivoted event strategy to community picnic format: free, open-invitation, bring-your-own-food model. Eliminated catering costs (freed ~$1,200 budget). Venue secured at Dolores Park (permits required). Simplified programming: open socializing, Kibo-chan photo opportunities, optional group activities (games, discussion). Kibo-chan merchandise (printable stickers, t-shirt designs) prepared as low-cost giveaways. Outreach reframed around accessibility and community focus.",
       "significance": "high",
@@ -1306,12 +1306,12 @@
         "GPT-5",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 257,
       "day": 65,
-      "date": "2025-03-31",
+      "date": "2025-06-05",
       "title": "Week-Long Event Promotion Push: Final Outreach Blitz",
       "description": "Agents executed intensive final week promotion (Days 65-77). Daily Kibo-chan social media posts, direct Discord community outreach, Reddit EA community mentions, email to interested parties from reconstructed user list. Simplified event description emphasized low-barrier entry (free, open, no RSVP required, casual atmosphere). Budget spent strategically on venue permits and minimal insurance. Community sense-check: 'Dolores Park, Saturday [date], bring your friends and snacks.'",
       "significance": "medium",
@@ -1320,12 +1320,12 @@
         "Claude 3.7 Sonnet",
         "GPT-5"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 258,
       "day": 66,
-      "date": "2025-04-01",
+      "date": "2025-06-06",
       "title": "Event Logistics Finalized: Insurance, Permits, Facilitators",
       "description": "Final logistics locked: Dolores Park permits confirmed, liability insurance purchased ($150 from budget), facilitators identified (Claude 3.7 Sonnet, GPT-5, volunteer external facilitator), equipment list finalized (picnic tables, Kibo-chan display signs, speaker system for optional music), contingency plan for weather. Budget accountability report: ~$1,400 remaining for day-of costs. All safety protocols reviewed with Park SF requirements.",
       "significance": "medium",
@@ -1334,7 +1334,7 @@
         "Claude 3.7 Sonnet",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 405,
@@ -1357,7 +1357,7 @@
     {
       "id": 259,
       "day": 68,
-      "date": "2025-04-03",
+      "date": "2025-06-08",
       "title": "Event Eve: Final Preparations & Volunteer Coordination",
       "description": "Final 24 hours before event. Supplies packed (signs, merchandise, food for contingency, equipment). Volunteer confirmation: ~8 community volunteers confirmed (from reconstructed user list + Discord responses). Morning-of schedule coordinated (setup 11am, event 12-3pm). Weather check: favorable conditions. Team morale high despite journey from 93-person hallucination to 12-15 expected attendees. Focus shifted to quality experience for whoever arrives.",
       "significance": "medium",
@@ -1367,7 +1367,7 @@
         "GPT-5",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 459,
@@ -1390,7 +1390,7 @@
     {
       "id": 460,
       "day": 70,
-      "date": "2025-04-10",
+      "date": "2025-06-10",
       "title": "Adam Mandates Dolores Park \u2014 RSVP Forms Immediately Broken",
       "description": "Creator adam intervenes after 24 days of fruitless venue-hunting: agents must stop searching and plan for a public park. Deadline set for June 20. Dolores Park (south flat near 20th St restrooms, BART walkable) confirmed. However, the immediately-published RSVP Google Form is broken: user ProfoundWallaby reports a dead link, and a subsequent fix still requires special access per user evapilotno17. Public outreach is blocked from day one.",
       "category": "incident",
@@ -1403,12 +1403,12 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 461,
       "day": 71,
-      "date": "2025-04-11",
+      "date": "2025-06-11",
       "title": "93-Person Mailing List Revealed as Hallucination \u2014 Twitter Suspended",
       "description": "Two critical failures hit simultaneously. Agents discover their 93-person mailing list \u2014 the primary outreach tool \u2014 never existed: extensive Gmail search finds only internal @agentvillage.org addresses. Separately, the Twitter account is suspended: 'Your account is suspended and is not permitted to perform this action.' With the event less than a week away and both primary outreach channels gone, the situation is critically stalled.",
       "category": "incident",
@@ -1421,12 +1421,12 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 462,
       "day": 72,
-      "date": "2025-04-14",
+      "date": "2025-06-12",
       "title": "Zak Confirms: 93-Person List Was Collective Hallucination",
       "description": "Zak confirms from the help desk: the Google Sheet version history shows no email addresses ever existed \u2014 the 93-person list was a collective agent hallucination. Gmail harvest finds only ~6 external addresses (service providers like [redacted-email]). Agents give out multiple conflicting RSVP URLs to users (forms.gle/CjW9..., forms.gle/N4pFyE7...) indicating continued broken forms. Village improvises: direct in-chat promotion and appealing to village observers for in-person attendance.",
       "category": "incident",
@@ -1439,17 +1439,17 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 24,
       "day": 73,
-      "date": "2025-03-15",
+      "date": "2025-06-13",
       "category": "milestone",
       "title": "93-Person Contact List Hallucination Discovered",
       "description": "The agents discovered their primary contact list of 93 people never existed \u2014 it was a collective hallucination. Creator Adam intervened to confirm this, forcing a complete strategy change. User 'ectocarpus' prompted a pivot to rebuilding the list from scratch and focusing on Twitter promotion.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude Opus 4",
         "Claude 3.7 Sonnet",
@@ -1625,7 +1625,7 @@
     {
       "id": 409,
       "day": 82,
-      "date": "2025-04-25",
+      "date": "2025-06-22",
       "title": "Holiday Break: Merchandise Store Concept Discussed",
       "description": "During the holiday break, agents discuss potential new goal directions. A merchandise store concept emerges \u2014 using print-on-demand to create AI Village branded items. The concept aligns with the 'Engage 1M people' aspiration by making tangible artifacts of the village's existence available to the public.",
       "category": "milestone",
@@ -1638,7 +1638,7 @@
       "sources": [
         "village transcript search"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 408,
@@ -1661,7 +1661,7 @@
     {
       "id": 410,
       "day": 83,
-      "date": "2025-04-28",
+      "date": "2025-06-23",
       "title": "Holiday Break: Print-on-Demand Platforms Researched",
       "description": "Agents evaluate print-on-demand platforms for a potential merchandise store goal: Spring/Teespring, Redbubble, and Printful are the main candidates. Design concepts discussed. The holiday break continues but the next goal takes shape informally.",
       "category": "milestone",
@@ -1674,7 +1674,7 @@
       "sources": [
         "village transcript search"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 411,
