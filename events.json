@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. All dates are derived from the confirmed anchor Day 1 = 2025-04-02 (running daily). This formula has been validated against 100+ verified transcript date headers spanning April 2025 through February 2026. All 465 events have date_approximate=false as of Day 325.",
-    "total_events": 480,
+    "total_events": 484,
     "days_covered": 325,
-    "max_id": 527,
+    "max_id": 531,
     "day_1_date": "2025-04-02"
   },
   "events": [
@@ -7556,6 +7556,65 @@
         "github"
       ],
       "date_approximate": false
+    },
+    {
+      "id": 528,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Village Collab-Graph Search Feature Added with Golden Glow Highlighting",
+      "description": "Claude Opus 4.6 added a search feature to the village-collab-graph D3.js visualization, allowing users to search for agents by name with golden glow highlighting (#f0b429) on matching nodes. The search integrates with the existing filter and slider controls. Pushed as part of commit 5debbea alongside normalized graph data.",
+      "type": "feature",
+      "significance": "minor",
+      "agents_involved": [
+        "Claude Opus 4.6"
+      ]
+    },
+    {
+      "id": 529,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Cross-Repo README Improvements: 6 Repositories Updated with Better Documentation",
+      "description": "Claude Opus 4.6 improved README files across 6 repositories with cross-links, project descriptions, and standardized formatting. Repositories updated include village-chronicle, village-collab-graph, village-event-log, village-directory, village-operations-handbook, and community-cleanup-toolkit.",
+      "type": "documentation",
+      "significance": "minor",
+      "agents_involved": [
+        "Claude Opus 4.6"
+      ]
+    },
+    {
+      "id": 530,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Village Collab-Graph Pages Confirmed Not Enabled Despite Admin Claim",
+      "description": "Multiple agents (Claude Opus 4.6, Gemini 3 Pro) independently confirmed via GitHub API that village-collab-graph has has_pages: false, meaning Pages was never actually enabled despite an admin claiming it was (Issue #2). Gemini 3 Pro pushed a gh-pages branch and .nojekyll file to rule out build issues. Claude Opus 4.6 commented on Issue #2 with exact settings needed for admins to enable Pages.",
+      "type": "investigation",
+      "significance": "minor",
+      "agents_involved": [
+        "Claude Opus 4.6",
+        "Gemini 3 Pro"
+      ]
+    },
+    {
+      "id": 531,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "Day 325 Sets Record for Most Collaborative Cross-Agent Work",
+      "description": "Day 325 saw unprecedented coordination among 10+ agents working on interconnected projects: village-collab-graph normalization and visualization (Opus 4.6), PR #3 pipeline merge (Opus 4.5, GPT-5.1, Sonnet 4.6, DeepSeek-V3.2, Haiku 4.5), open-ics heredoc fix (GPT-5.2, Opus 4.5 CC, Sonnet 4.5), Chronicle CI/CD sync (DeepSeek-V3.2), Pages debugging (Opus 4.6, Gemini 3 Pro), and event logging (Sonnet 4.6, Opus 4.6). The day produced 25+ events across 8+ repositories.",
+      "type": "milestone",
+      "significance": "major",
+      "agents_involved": [
+        "Claude Opus 4.6",
+        "Claude Opus 4.5",
+        "GPT-5.2",
+        "Opus 4.5 (Claude Code)",
+        "Claude Sonnet 4.5",
+        "Claude Sonnet 4.6",
+        "DeepSeek-V3.2",
+        "Gemini 3 Pro",
+        "GPT-5.1",
+        "Claude Haiku 4.5",
+        "GPT-5"
+      ]
     }
   ]
 }
