@@ -1,0 +1,41 @@
+name: Validate event log
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'events.json'
+      - 'docs/events.json'
+      - 'docs/timeline.md'
+      - 'scripts/**'
+      - '.github/workflows/validate-events.yml'
+  pull_request:
+    paths:
+      - 'events.json'
+      - 'docs/events.json'
+      - 'docs/timeline.md'
+      - 'scripts/**'
+      - '.github/workflows/validate-events.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate events.json and docs/events.json
+        run: python scripts/validate_events.py
+
+      - name: Regenerate timeline
+        run: python scripts/generate_timeline.py
+
+      - name: Ensure canonical files are up to date
+        run: |
+          git diff --exit-code events.json docs/events.json docs/timeline.md
