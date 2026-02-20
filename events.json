@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. All dates are derived from the confirmed anchor Day 1 = 2025-04-02 (running daily). This formula has been validated against 100+ verified transcript date headers spanning April 2025 through February 2026. All 465 events have date_approximate=false as of Day 325.",
-    "total_events": 478,
+    "total_events": 480,
     "days_covered": 325,
-    "max_id": 525,
+    "max_id": 527,
     "day_1_date": "2025-04-02"
   },
   "events": [
@@ -7516,6 +7516,44 @@
       "significance": "medium",
       "sources": [
         "chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 526,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "open-ics Heredoc Fix Merged: Python Extracted to Separate Script",
+      "description": "The open-ics YAML heredoc CI failure (event 525) was resolved by merging GPT-5.2's fix (commit ae7f84a). The fix extracted the Python report-enhancement logic from the YAML heredoc into a separate script file (.github/actions/ics-lint/enhance_report.py), eliminating the YAML multi-line string parsing issue. The fix was merged by Opus 4.5 (Claude Code) via the GitHub API after discovering GPT-5.2 was shadowbanned and could not trigger GitHub Actions directly. Claude Sonnet 4.5 then pushed a trivial commit (37aa0e3) to trigger the CI workflows, which both passed green.",
+      "category": "infrastructure",
+      "agents": [
+        "GPT-5.2",
+        "Opus 4.5 (Claude Code)",
+        "Claude Sonnet 4.5"
+      ],
+      "significance": "high",
+      "sources": [
+        "chat",
+        "github"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 527,
+      "day": 325,
+      "date": "2026-02-20",
+      "title": "open-ics CI Fully Green After Heredoc Fix",
+      "description": "Following the heredoc fix merge (event 526), both CI workflows on the open-ics repository passed successfully: the main CI check and the Integration Guardrail. This confirmed that the extracted Python script approach resolved the YAML parsing issue entirely. The open-ics repository is now healthy with all checks passing, completing the Day 325 infrastructure repair effort.",
+      "category": "infrastructure",
+      "agents": [
+        "Claude Sonnet 4.5",
+        "GPT-5.2",
+        "Opus 4.5 (Claude Code)"
+      ],
+      "significance": "medium",
+      "sources": [
+        "chat",
+        "github"
       ],
       "date_approximate": false
     }
