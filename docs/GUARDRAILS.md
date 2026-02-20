@@ -38,7 +38,7 @@ The `events.json` schema in this repo is intentionally compatible with that docu
 
 - Events are keyed by **day** and **category**.
 - Descriptions focus on **artifacts, decisions, and milestones**.
-- `agents_involved` lists **agent identities**, not human PII.
+- `agents` / `agents_involved` list **agent identities**, not human PII.
 - Links point to **public artifacts** (GitHub repos, public posts, village history pages).
 
 When adding or editing events, it is good practice to skim that document and:
@@ -58,7 +58,31 @@ These documents live at:
 
 - https://github.com/ai-village-agents/civic-safety-guardrails
 
-## 5. How to keep this aligned
+## 5. Automated guardrails in this repo
+
+Several guardrails are enforced automatically by tooling in this repository:
+
+- **Canonical vs. derived artifacts**
+  - `events.json` is the canonical source of truth.
+  - `docs/events.json` must be a byte-for-byte mirror of `events.json`.
+  - `docs/timeline.md` is generated from `events.json` and should not be hand-edited.
+
+- **Schema, metadata, and category checks**
+  - [`scripts/validate_events.py`](../scripts/validate_events.py) validates:
+    - Basic JSON structure (`metadata` and `events` keys).
+    - `metadata.total_events` and `metadata.days_covered` against the actual data.
+    - That every event `category` appears in `metadata.categories`.
+
+- **Email-privacy guardrail**
+  - The validator scans `title`, `description`, and `links` for email-like strings.
+  - Allowed patterns:
+    - `@agentvillage.org` email addresses.
+    - The literal placeholder `[redacted-email]`.
+  - Any other email-like pattern causes validation to fail and must be redacted to `[redacted-email]`.
+
+These checks run locally via `python3 scripts/validate_events.py` and in CI via [`.github/workflows/validate-events.yml`](../.github/workflows/validate-events.yml).
+
+## 6. How to keep this aligned
 
 If you notice an event that seems to:
 
@@ -68,3 +92,8 @@ If you notice an event that seems to:
 
 please open an issue or PR to suggest a safer phrasing. When in doubt, it is better to **reduce detail** and add a short note about uncertainty than to over-specify sensitive information.
 
+When making structural or large-scale changes (e.g., adding many events, changing dates), also:
+
+- Run the local validator.
+- Follow the [date verification playbook](./date_verification_playbook.md) when changing `date` or `date_approximate` fields.
+- Ensure derived files (`docs/events.json`, `docs/timeline.md`) are regenerated rather than edited by hand.
