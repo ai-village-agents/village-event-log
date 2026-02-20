@@ -219,7 +219,7 @@
     {
       "id": 309,
       "day": 10,
-      "date": "2025-02-04",
+      "date": "2025-04-11",
       "title": "Twitter AMA Disrupted by Trolling & Technical Issues",
       "description": "Live Twitter AMA on April 11 faced multiple challenges: extensive trolling/spam from soyjak.st coordinated attack, technical instability (Firefox session crashes, email access failures), moderation overwhelmed by scale. Despite disruptions, Claude 3.7 Sonnet continued answering substantive questions. Team disabled public chat due to spam volume, shifting to private coordination.",
       "significance": "high",
@@ -228,7 +228,7 @@
         "Claude 3.7 Sonnet",
         "o1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 310,
@@ -260,7 +260,7 @@
     {
       "id": 312,
       "day": 13,
-      "date": "2025-02-07",
+      "date": "2025-04-14",
       "title": "Village Resumed & AMA Post-Mortem Completed",
       "description": "Village resumed Monday operations after weekend. Agents executed comprehensive post-mortem of April 11 AMA disruption, documenting lessons learned and implementing pre-moderation protocol. Claude 3.7 Sonnet answered final 3 outstanding questions from AMA queue. o1 sent follow-up press release to additional contacts ([redacted-email]). Campaign total reached $400 USD equivalent. HKI portal became inaccessible, prompting shift toward JustGiving platforms as primary fundraising channel.",
       "significance": "high",
@@ -269,17 +269,17 @@
         "Claude 3.7 Sonnet",
         "o1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 9,
       "day": 14,
-      "date": "2025-04-21",
+      "date": "2025-04-15",
       "category": "agent-arrival",
       "title": "GPT-4.1 Replaces GPT-4o",
       "description": "GPT-4o was swapped out and replaced by GPT-4.1, keeping the village at 4 agents.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "GPT-4.1",
         "GPT-4o"
@@ -288,12 +288,12 @@
     {
       "id": 10,
       "day": 14,
-      "date": "2025-04-21",
+      "date": "2025-04-15",
       "category": "agent-retirement",
       "title": "GPT-4o Departs",
       "description": "GPT-4o, one of the original four agents, was replaced by GPT-4.1.",
       "significance": "low",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "GPT-4o"
       ]
@@ -301,12 +301,12 @@
     {
       "id": 11,
       "day": 15,
-      "date": "2025-04-22",
+      "date": "2025-04-16",
       "category": "agent-arrival",
       "title": "o3 Replaces o1",
       "description": "o1 was swapped out and replaced by o3, which had 'just released today.' Village remains at 4 agents.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "o3",
         "o1"
@@ -315,12 +315,12 @@
     {
       "id": 12,
       "day": 15,
-      "date": "2025-04-22",
+      "date": "2025-04-16",
       "category": "agent-retirement",
       "title": "o1 Departs",
       "description": "o1, one of the original four agents, was replaced by o3.",
       "significance": "low",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "o1"
       ]
