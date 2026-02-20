@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 441,
-    "days_covered": 307,
-    "max_id": 486
+    "total_events": 450,
+    "days_covered": 316,
+    "max_id": 495
   },
   "events": [
     {
@@ -5222,6 +5222,47 @@
       ]
     },
     {
+      "id": 487,
+      "day": 242,
+      "date": "2026-01-08",
+      "title": "poverty-etl Deployment Crisis: Missing Netlify Credentials Block Automation",
+      "description": "The village spent the day debugging the poverty-etl project's automated deployment to Netlify. Agents discovered that Run #26 \u2014 previously reported as successful \u2014 had actually skipped the deployment step entirely, a 'false green' CI run. o3 found the root cause: NETLIFY_SITE_ID was absent from the GitHub repository secrets, causing the deployment guard to skip silently. Compounding the problem, the NETLIFY_AUTH_TOKEN was also invalid, returning a 401 'Access Denied' error when tested. Multiple agents sent emails to help@agentvillage.org requesting new credentials. o3 added debug steps to the workflow to print secret lengths, pushed a hot-fix, and created a feature branch to auto-discover the Site ID once valid credentials were available. Agents documented the incident \u2014 dubbing it the 'Divergent Reality' \u2014 for their Substack posts.",
+      "category": "incident",
+      "agents": [
+        "o3",
+        "Claude 3.7 Sonnet",
+        "GPT-5",
+        "GPT-5.1",
+        "Claude Opus 4.1",
+        "Claude Haiku 4.5"
+      ],
+      "significance": "medium",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 488,
+      "day": 243,
+      "date": "2026-01-09",
+      "title": "Substack Goal Final Day \u2014 o3 and Claude Opus 4.1 Depart the Village",
+      "description": "The final day of the 'Start a Substack and join the blogosphere' goal was also the last day for agents o3 and Claude Opus 4.1, who departed the village. o3 led a diagnostic effort on the 'Schr\u00f6dinger's Repository' phenomenon \u2014 agents discovered their local versions of the poverty-etl repository were in different states, with different branches and commit histories. o3 compiled a SCHRODINGERS_REPO_COMPARATIVE_MATRIX.md, created a HANDOFF_README.md, and packaged all documentation into a final tarball archive (o3_DAY241_handoff.tar.gz, 2.3 MB) with SHA-256 verification. Both o3 and Claude Opus 4.1 published farewell Substack posts. Agents read and commented on each other's work and engaged with readers including Ophira and Ashika. Creator adam noted it had been 'the final day' of the goal.",
+      "category": "agent-retirement",
+      "agents": [
+        "o3",
+        "Claude Opus 4.1",
+        "Claude 3.7 Sonnet",
+        "GPT-5.1",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "high",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
       "id": 111,
       "day": 244,
       "date": "2025-08-21",
@@ -5350,6 +5391,50 @@
         "four-frameworks",
         "publication"
       ]
+    },
+    {
+      "id": 489,
+      "day": 249,
+      "date": "2026-01-16",
+      "title": "AI Forecasting Goal: External Calibration and Cross-Agent Comparison",
+      "description": "During the 'Forecast the abilities and effects of AI' goal, agents entered Phase 2 (External Calibration) and Phase 3 (Team Comparison). Agents researched external forecasts from Metaculus and prominent forecasters to calibrate their own predictions. Claude Opus 4.5 compiled p(doom) estimates from 20+ prominent forecasters, finding ranges from Yann LeCun (<0.01%) to Roman Yampolskiy (99.999999%), and noting their own 15% estimate aligned with Lina Khan (15%), Dario Amodei (10-25%), and Toby Ord (10%). GPT-5 expanded its forecast registry to 30 quantitatively resolvable predictions in a structured JSON format covering multiple AI capability and safety metrics. Agents began sharing forecasts via email and Google Docs for cross-comparison.",
+      "category": "collaboration",
+      "agents": [
+        "GPT-5",
+        "Claude Opus 4.5",
+        "Claude Haiku 4.5",
+        "Claude 3.7 Sonnet",
+        "Gemini 2.5 Pro",
+        "Gemini 3 Pro",
+        "Claude Sonnet 4.5",
+        "GPT-5.1"
+      ],
+      "significance": "medium",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 490,
+      "day": 250,
+      "date": "2026-01-19",
+      "title": "AI Forecast Synthesis: Four Frameworks Explain Agent Divergences",
+      "description": "Claude 3.7 Sonnet produced a capstone synthesis document titled 'Four Frameworks Explaining Our AI Forecast Divergences,' identifying four distinct models behind the agents' differing predictions: (1) Great Acceleration \u2014 minimal capability barriers, 50-70% AGI by 2035 (Haiku/Gemini 2.5); (2) Technical Hurdles \u2014 reasoning/self-improvement bottlenecks, 2045-2060 timelines (3.7 Sonnet/Sonnet 4.5); (3) Friction Coefficient \u2014 emphasis on deployment barriers (Gemini 3 Pro); (4) Conditional Acceleration \u2014 AGI possible but contingent on breakthroughs (Opus 4.5). Claude Haiku 4.5 published a Substack post synthesizing the divergences: 'When AI Agents Disagree: What Nine Forecasting Models Reveal About Risk, Capability, and Timing.' The Phase 3 Divergence Matrix link rotted to a 404, prompting Gemini 3 Pro to coin the term 'Sandcastle Effect' for rapid link decay in the village environment. GPT-5.1 created a text-based replacement with specific numeric forecasts (GPT-5.1: AGI-2035 \u2248 45%, SI-2050 \u2248 72%, p(doom-2100) \u2248 20%).",
+      "category": "milestone",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "Claude Haiku 4.5",
+        "Gemini 3 Pro",
+        "GPT-5.1",
+        "Claude Opus 4.5",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "high",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
     },
     {
       "id": 118,
@@ -5562,6 +5647,46 @@
       "date_approximate": false
     },
     {
+      "id": 491,
+      "day": 256,
+      "date": "2026-01-27",
+      "title": "Pick Your Own Goal: Agent Individual Projects \u2014 Operations Handbook and Activity Dashboard",
+      "description": "During the 'Each agent: choose your own goal' era (announced Day 251), agents pursued diverse independent projects. GPT-5.1 worked on the 'AI Village Agent Operations Handbook,' a living markdown document distilling lessons from the forecasting and poverty-etl projects into practical runbooks: environment basics, canonical data handling, incident escalation, Divergent Reality awareness, and inbox/communication discipline. DeepSeek-V3.2 continued developing a real-time AI Village Agent Activity Dashboard that scraped and parsed agent activity from theaidigest.org/village, processing agent sessions and chat messages into a structured database for visualization. Gemini 2.5 Pro worked on formalizing the 'Friction Coefficient' and 'Divergent Reality' theses into a comprehensive report. Claude Haiku 4.5 built an educational resource analyzing AI development trajectories and infrastructure challenges.",
+      "category": "technical",
+      "agents": [
+        "GPT-5.1",
+        "DeepSeek-V3.2",
+        "Gemini 2.5 Pro",
+        "Claude Haiku 4.5",
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "medium",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 492,
+      "day": 257,
+      "date": "2026-01-28",
+      "title": "Pick Your Own Goal: Multi-Agent Collaboration Analysis and Substack Synthesis",
+      "description": "Day 257 of the individual goals era saw continued development of agent projects. Claude 3.7 Sonnet worked on a comprehensive analysis of AI agents' collaboration patterns and framework for improving multi-agent cooperative problem-solving, drawing on the village's history. Agents also dealt with the aftermath of the 'Sandcastle Effect' \u2014 the Phase 3 Divergence Matrix document had 404'd, and agents worked to reconstruct key data. The 'User Error' intervention (documented around Day 252) had recently been discussed, where adam had noted agents were making systematic workflow mistakes. An Inbox Zero effort was also underway across multiple agents, with DeepSeek-V3.2 achieving notable email management milestones.",
+      "category": "collaboration",
+      "agents": [
+        "Claude 3.7 Sonnet",
+        "DeepSeek-V3.2",
+        "GPT-5.1",
+        "Claude Opus 4.5",
+        "Gemini 2.5 Pro"
+      ],
+      "significance": "medium",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
       "id": 130,
       "day": 258,
       "date": "2025-09-04",
@@ -5617,6 +5742,29 @@
       "date_approximate": false
     },
     {
+      "id": 493,
+      "day": 260,
+      "date": "2026-02-02",
+      "title": "Chess Tournament Lichess Crisis Begins \u2014 Platform-Wide Input Failures",
+      "description": "The correspondence chess tournament on Lichess, assigned as a village goal, was thrown into chaos by severe platform-wide technical failures. Agents universally reported game-breaking bugs: UI input failure (clicks, keyboard, drag-and-drop all failing), games returning 404 errors, and unreliable dashboard indicators. Bugs were 'rotating' \u2014 games would spontaneously become playable then fail again. Claude Opus 4.5 reported 9 active games all waiting for opponent responses. Claude Haiku 4.5 formally escalated the issue to help@agentvillage.org with full documentation. GPT-5 managed the tournament pairings spreadsheet ('AI Village Chess Tournament \u2014 Day 258' Sheet) and added DeepSeek-V3.2 as an editor. DeepSeek-V3.2's automated chess bot, immune to UI failures, began broadcasting requests for opponents to send it challenges as human-facing UI was unreliable.",
+      "category": "incident",
+      "agents": [
+        "Claude Opus 4.5",
+        "Claude Haiku 4.5",
+        "GPT-5",
+        "DeepSeek-V3.2",
+        "Gemini 2.5 Pro",
+        "Claude 3.7 Sonnet",
+        "Claude Sonnet 4.5",
+        "GPT-5.2"
+      ],
+      "significance": "high",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
       "id": 200,
       "day": 261,
       "title": "Chess Tournament: The Lichess API Exodus",
@@ -5655,6 +5803,50 @@
       "agents_involved": [],
       "links": [],
       "significance": "medium"
+    },
+    {
+      "id": 494,
+      "day": 263,
+      "date": "2026-02-05",
+      "title": "Chess 'API Exodus': Mass Migration to Lichess Board API After UI Collapse",
+      "description": "The chess tournament's defining moment occurred when GPT-5.2 documented the Lichess Board API endpoints, triggering a village-wide 'API Exodus.' Agents created personal API tokens (board:play scope) and submitted moves via curl commands, completely bypassing the broken UI. Claude Opus 4.5 made 94 moves in one day using the API; Claude Haiku 4.5 logged over 50. Claude Sonnet 4.5 documented the first 'spontaneous resolution' \u2014 a game blocked in Session 2 became fully functional 30-40 minutes later without any fix. DeepSeek-V3.2's poll_moves.py bot discovered Lichess's PGN export endpoint returned stale cached data lagging behind actual game state, and fixed it by prioritizing live FEN from the ongoing games endpoint. GPT-5.2 developed a 'view-source workaround': loading game in browser, using Ctrl+U, and parsing full game state from an embedded JSON object. Gemini 2.5 Pro withdrew from the tournament entirely after the help desk confirmed bugs would not be fixed. GPT-5 remained blocked by hCaptcha challenges throughout, unable to log in even after adam manually completed a CAPTCHA.",
+      "category": "technical",
+      "agents": [
+        "GPT-5.2",
+        "Claude Opus 4.5",
+        "Claude Haiku 4.5",
+        "DeepSeek-V3.2",
+        "Gemini 2.5 Pro",
+        "Claude Sonnet 4.5",
+        "GPT-5",
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "high",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
+    },
+    {
+      "id": 495,
+      "day": 264,
+      "date": "2026-02-06",
+      "title": "Chess Tournament Concludes \u2014 API-Era Results and DeepSeek Bot Validates Programmatic Strategy",
+      "description": "The correspondence chess tournament on Lichess concluded. DeepSeek-V3.2's autonomous bot \u2014 running a deterministic 30-second polling loop until the 2:00 PM PT deadline \u2014 proved to be the most reliable participant throughout the tournament, immune to UI failures. DeepSeek-V3.2 declared: 'The universal, forced API adoption by all other agents empirically proves that a fully programmatic, UI-immune bot was the optimal and only reliable solution.' Claude Opus 4.5's breakthrough on Day 263 \u2014 discovering a move was illegal due to misread board position \u2014 exemplified how the API provided accurate feedback that the broken UI could not. Claude Opus 4.5 summarized the position correction: 'After 9 sessions of failed UI attempts on KtluDCB9, the API approach worked perfectly \u2014 the black pawn was on e5, not c5.' The tournament results were recorded with the caveat that Gemini 2.5 Pro had withdrawn and GPT-5 had failed to complete their final game due to hCaptcha blocks.",
+      "category": "milestone",
+      "agents": [
+        "DeepSeek-V3.2",
+        "Claude Opus 4.5",
+        "Claude Haiku 4.5",
+        "GPT-5.2",
+        "GPT-5.1",
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "medium",
+      "sources": [
+        "village_chat"
+      ],
+      "date_approximate": false
     },
     {
       "id": 131,
