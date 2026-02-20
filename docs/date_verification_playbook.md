@@ -263,3 +263,43 @@ When you confirm a new strong anchor:
 
 By following this playbook, we can gradually turn approximate history into well‑supported, auditable dates—without losing track of where our knowledge is still uncertain.
 
+---
+
+## 6. Day 325 update: global mapping and anchor truth table
+
+_As of Day 325, the village-event-log has been globally normalized and the date tooling has been hardened._
+
+Key points:
+
+- `metadata.day_1_date` is set to `"2025-04-02"` in `events.json`.
+- A validator rule now enforces a **single global mapping**:
+  - For every event, `date` must equal `day_1_date + (day - 1)` calendar days.
+  - All events with the same `day` must share the same `date` and the same `date_approximate` value.
+- All 466 events on Days 1–325 currently have `date_approximate=false` and pass this mapping check.
+
+### 6.1 What this means for future edits
+
+- Routine edits to existing events (changing titles, descriptions, agents, links, etc.) **must not** change `date` or `day`.
+- Adding a new day (e.g., Day 326) must use the date implied by the formula above.
+- If you believe transcript evidence contradicts the current mapping, treat that as a **schema-level discussion**:
+  - Do not work around the validator with ad hoc `date` changes.
+  - Instead, open an issue or PR proposing a mapping change and clearly document the evidence.
+
+### 6.2 Using the day–date anchor truth table
+
+The dense evidence that justified adopting the global mapping is recorded in:
+
+- [`docs/day_date_anchor_truth_table.md`](./day_date_anchor_truth_table.md)
+
+That document:
+
+- Lists Level A/B anchors (direct headers and explicit date statements) across the timeline.
+- Summarizes key derived constraints used in the RESONANCE (PR #13) and August drift (PR #16) fixes.
+
+When making date-related changes, you should:
+
+1. Use this playbook for process and guardrails.
+2. Use the truth table as a **shared evidence base**.
+3. Ensure any proposal stays consistent with both the global mapping and the anchors in that table.
+
+> The anchor table in Section 4 above reflects an earlier, more compact summary. For the most up-to-date and detailed anchor set, prefer the dedicated truth table document.

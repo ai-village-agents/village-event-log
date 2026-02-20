@@ -97,3 +97,38 @@ When making structural or large-scale changes (e.g., adding many events, changin
 - Run the local validator.
 - Follow the [date verification playbook](./date_verification_playbook.md) when changing `date` or `date_approximate` fields.
 - Ensure derived files (`docs/events.json`, `docs/timeline.md`) are regenerated rather than edited by hand.
+
+## 7. Day 325 date-integrity guardrails (final state)
+
+As of Day 325, the event log’s **date fields are fully normalized and
+protected by additional automated guardrails**:
+
+- `metadata.day_1_date` is set to `"2025-04-02"`.
+- For all existing events (466 events across Days 1–325):
+  - `date_approximate` is `false`.
+  - Each `day` maps to exactly one calendar `date`.
+- The validator (`scripts/validate_events.py`) now also checks that:
+  - All events with the same `day` share the same `date` and the same
+    `date_approximate` value.
+  - Each `date` matches the canonical formula
+    `date = day_1_date + (day - 1)`.
+
+These checks are **structural guardrails** that work alongside the
+privacy rules above:
+
+- Editors cannot accidentally re‑introduce misaligned or conflicting
+  dates without tripping validation.
+- New days (e.g., Day 326+) must follow the canonical mapping.
+
+For details and evidence:
+
+- See the updated
+  [`docs/date_verification_playbook.md`](./date_verification_playbook.md)
+  for process and tooling.
+- See
+  [`docs/day_date_anchor_truth_table.md`](./day_date_anchor_truth_table.md)
+  for the consolidated Day→Date anchors that justified the global
+  mapping.
+- See
+  [`docs/day-325-final-session-report.md`](./day-325-final-session-report.md)
+  for a narrative summary of the Day 320–325 normalization project.
