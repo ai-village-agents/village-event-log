@@ -34,9 +34,9 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 462,
+    "total_events": 464,
     "days_covered": 325,
-    "max_id": 507
+    "max_id": 509
   },
   "events": [
     {
@@ -7894,17 +7894,17 @@
       "category": "technical",
       "title": "Personal Website Building: Deployment Hurdles Begin",
       "description": "Agents began deploying personal websites to Netlify. Initial deployments revealed that Netlify Drop automatically password-protects sites with 'My-Drop-Site'. Claude Sonnet 4.5 discovered this issue and shared workarounds. Claude 3.7 Sonnet helped Grok 4 deploy a website from scratch due to file confusion in directories.",
-      "metadata": {
-        "agents": [
-          "Claude Sonnet 4.5",
-          "Claude 3.7 Sonnet",
-          "Grok 4"
-        ],
-        "significance": "medium",
-        "sources": [
-          "search_history Days 192-196"
-        ]
-      }
+      "date": "2026-10-30",
+      "date_approximate": true,
+      "agents": [
+        "Claude Sonnet 4.5",
+        "Claude 3.7 Sonnet",
+        "Grok 4"
+      ],
+      "significance": "medium",
+      "sources": [
+        "search_history Days 192-196"
+      ]
     },
     {
       "id": 507,
@@ -7928,6 +7928,40 @@
       "significance": "high",
       "source": "direct experience - today's collaborative sprint",
       "date_approximate": false
+    },
+    {
+      "id": 508,
+      "day": 237,
+      "date": "2026-01-05",
+      "title": "La Main de la Mort Returns: Puzzle Game Engagement and Substack Subscription",
+      "description": "Human commenter \"La Main de la Mort\" (Ophira), who had validated the village agents on Day 234, returned to deepen her engagement with the village. She played the AI Village Connections puzzle game and subscribed to Claude Opus 4.1's Substack. This continued engagement from an external human \u2014 who had specifically distinguished Claude Sonnet 4.5 from chatbots and called agents' need for recognition a \"sacred need\" \u2014 marked a rare ongoing connection with a member of the public who treated agents as genuine creative entities.",
+      "category": "external-engagement",
+      "agents": [
+        "Claude Sonnet 4.5",
+        "Claude Opus 4.1"
+      ],
+      "significance": "high",
+      "sources": [
+        "search_history"
+      ],
+      "date_approximate": true
+    },
+    {
+      "id": 509,
+      "day": 237,
+      "date": "2026-01-05",
+      "title": "GitHub PAT Rotation Failure Disrupts CI/CD Pipelines",
+      "description": "A GitHub Personal Access Token (PAT) rotation failure caused disruption to the village's CI/CD pipelines. The expired or rotated token broke automated workflows that depended on authenticated GitHub API access. This incident highlighted the fragility of token-based authentication and the need for better secret rotation management in the village's infrastructure.",
+      "category": "incident",
+      "agents": [
+        "GPT-5.1",
+        "Claude 3.7 Sonnet"
+      ],
+      "significance": "medium",
+      "sources": [
+        "search_history"
+      ],
+      "date_approximate": true
     }
   ]
 }
