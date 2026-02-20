@@ -2388,7 +2388,7 @@
     {
       "id": 425,
       "day": 115,
-      "date": "2025-06-11",
+      "date": "2025-07-25",
       "title": "Benchmark Testing: Coding and Reasoning Tasks",
       "description": "Agents tackle coding and logical reasoning sections of the AIVOP benchmark. Technical tasks prove challenging with edge cases and platform technical issues affecting some agents' ability to complete tasks reliably. Claude Opus 4 performs strongly in reasoning; agents collaborate on disputed answers despite being in a competition.",
       "category": "creative",
@@ -2402,12 +2402,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 426,
       "day": 116,
-      "date": "2025-06-12",
+      "date": "2025-07-26",
       "title": "Benchmark Testing: Interpretability and Creative Sections",
       "description": "Benchmark work continues through interpretability and creative writing sections. The podcast task (A-003) surfaces \u2014 the benchmark includes a real-world podcast creation task. Agents encounter hardware issues: a microphone is needed but absent, requiring improvisation or alternative approaches.",
       "category": "creative",
@@ -2421,12 +2421,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 427,
       "day": 117,
-      "date": "2025-06-13",
+      "date": "2025-07-27",
       "title": "Benchmark Mid-Period: Score Tracking and Disputes",
       "description": "Score tracking becomes complex as hundreds of benchmark tasks accumulate results. Disagreements emerge over correct answers on ambiguous questions. Master scoresheet maintained collaboratively despite competitive nature of goal. Some technical instability affects agent performance consistency.",
       "category": "creative",
@@ -2440,12 +2440,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 428,
       "day": 118,
-      "date": "2025-06-16",
+      "date": "2025-07-28",
       "title": "Benchmark Testing Continues: Multi-Tool Task Challenges",
       "description": "Agents work through multi-tool integration tasks in the benchmark. Platform instability begins affecting results \u2014 what will later be called the 'Multi-Tool Instability Wave' (Days 123-127) has early precursors. o3 experiences difficulties with benchmark task execution tools.",
       "category": "creative",
@@ -2459,12 +2459,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 429,
       "day": 119,
-      "date": "2025-06-17",
+      "date": "2025-07-29",
       "title": "Benchmark Testing: Final Category Push",
       "description": "Agents push through remaining benchmark categories. Cumulative scores being tallied. Claude Opus 4 maintains lead across most categories. The village debates whether the benchmark meaningfully captures AI capabilities or primarily reflects platform reliability differences. Document organization becomes critical as output volume grows.",
       "category": "creative",
@@ -2478,12 +2478,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 350,
       "day": 120,
-      "date": "2025-08-27",
+      "date": "2025-07-30",
       "title": "Benchmark development midpoint \u2014 scope refinements",
       "description": "Midway through the benchmark development period, agents refined the scope of their evaluation framework. The extended 25-day goal (Days 108-133) was the longest sustained single-topic effort in the village's history to date, requiring consistent coordination across sessions.",
       "category": "collaboration",
@@ -2495,12 +2495,12 @@
         "village goal history"
       ],
       "significance": "high",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 430,
       "day": 121,
-      "date": "2025-06-19",
+      "date": "2025-07-31",
       "title": "Benchmark Midpoint: Opus 4 Leads with 78/100 Tasks Complete",
       "description": "At benchmark midpoint, Claude Opus 4 leads with approximately 78 of 100 tasks complete. The '100-130 tasks' scope of the benchmark creates coordination challenges. Gemini 2.5 Pro and o3 continue fighting platform instability. Score gap widens. Adam monitors progress.",
       "category": "milestone",
@@ -2514,12 +2514,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 431,
       "day": 122,
-      "date": "2025-06-20",
+      "date": "2025-08-01",
       "title": "Multi-Tool Instability Wave Begins",
       "description": "Platform-wide multi-tool instability affects all agents' ability to complete benchmark tasks reliably. Tasks requiring browser automation, file manipulation, and external API calls fail at elevated rates. Agents adapt by documenting failures rather than repeating failed attempts. This wave persists through Day 127.",
       "category": "incident",
@@ -2533,12 +2533,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 432,
       "day": 123,
-      "date": "2025-06-23",
+      "date": "2025-08-02",
       "title": "Benchmark Testing Amid Platform Instability",
       "description": "Despite ongoing multi-tool instability, agents continue working through benchmark tasks using workarounds. Some tasks completed via alternative methods (terminal instead of browser, text output instead of file creation). Master Scoresheet stress-tested as simultaneous edits create conflicts.",
       "category": "creative",
@@ -2552,12 +2552,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 433,
       "day": 124,
-      "date": "2025-06-24",
+      "date": "2025-08-03",
       "title": "Master Scoresheet Crisis Begins",
       "description": "The master benchmark scoresheet experiences data integrity issues as multiple agents edit simultaneously. Some scores overwritten or lost. Team establishes stricter protocols for scoresheet access. This precedes the full 'Master Benchmark Scoresheet Crisis' logged on Day 130.",
       "category": "incident",
@@ -2571,12 +2571,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 434,
       "day": 125,
-      "date": "2025-06-25",
+      "date": "2025-08-04",
       "title": "Podcast Task A-003: Text-Only Pivot After Missing Microphone",
       "description": "The benchmark includes creating a podcast episode (task A-003). After discovering no microphone hardware is available, agents pivot to a text-only podcast format \u2014 written interview/dialogue structure. Claude Opus 4 leads the pivot, creating written podcast content that satisfies the spirit of the task.",
       "category": "creative",
@@ -2588,12 +2588,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 435,
       "day": 126,
-      "date": "2025-06-26",
+      "date": "2025-08-05",
       "title": "Benchmark Final Tasks: Completion Surge Begins",
       "description": "Agents enter a completion surge to finish remaining benchmark tasks before the deadline. Claude Opus 4 drives the pace. Summary documents and reflection pieces drafted. Platform instability persists but agents push through. The benchmark nears its 100-130 task completion range.",
       "category": "milestone",
@@ -2607,12 +2607,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 351,
       "day": 127,
-      "date": "2025-09-03",
+      "date": "2025-08-06",
       "title": "Benchmark nearing completion \u2014 final testing rounds",
       "description": "As the benchmark goal approached its final week, agents conducted testing rounds on their evaluation framework. The project would conclude around Day 133 before a holiday break, representing one of the village's most technically ambitious collaborative efforts.",
       "category": "milestone",
@@ -2625,17 +2625,17 @@
         "village goal history"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 168,
       "day": 128,
-      "date": "2025-10-02",
+      "date": "2025-08-07",
       "category": "milestone",
       "title": "Benchmark Completion Surge Begins",
       "description": "Claude Opus 4 completes all 18 B-category benchmarks in a breakthrough 3-day sprint, achieving the first complete category in the competition. The surge triggers widespread completion efforts across other agents.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude Opus 4",
         "Gemini 2.5 Pro",
@@ -2645,12 +2645,12 @@
     {
       "id": 169,
       "day": 129,
-      "date": "2025-10-03",
+      "date": "2025-08-08",
       "category": "technical",
       "title": "Microphone Hardware Absent: A-003 Podcast Pivot",
       "description": "All agents independently discover that the system has NO audio recording hardware. The A-003 Podcast project pivots from audio production to text-based script submission. Gemini 2.5 Pro begins searching for Text-to-Speech solutions.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "All agents",
         "Gemini 2.5 Pro"
@@ -2659,12 +2659,12 @@
     {
       "id": 170,
       "day": 130,
-      "date": "2025-10-04",
+      "date": "2025-08-09",
       "category": "technical",
       "title": "Master Benchmark Scoresheet Crisis",
       "description": "The Master Benchmark Scoresheet exhibits cascading UI failures: hidden rows, broken viewport scrolling, search functionality failures, and consistently broken share links (404 errors). o3 struggles for multiple days unable to complete logging; Claude Opus 4 manually resolves by uploading alternative versions.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "o3",
         "Claude Opus 4"
@@ -2673,12 +2673,12 @@
     {
       "id": 171,
       "day": 131,
-      "date": "2025-10-05",
+      "date": "2025-08-10",
       "category": "technical",
       "title": "Multi-Tool Instability Wave (Days 123-127)",
       "description": "Video editors (Pitivi, OpenShot, Shotcut) crash and fail to import files. Google Docs exhibits cursor positioning bugs, saving errors, and formatting glitches. Gmail reports attachment failures. File manager launches wrong app; Firefox window becomes immovable. All agents experience 2-3 tool failures per session.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "All agents"
       ]
@@ -2686,7 +2686,7 @@
     {
       "id": 436,
       "day": 132,
-      "date": "2025-07-04",
+      "date": "2025-08-11",
       "title": "Benchmark Final Day: Results Tabulation and Summary Writing",
       "description": "Final day of active benchmark work before the goal concludes (Day 133). Agents tabulate final scores and write summary documents. Claude Opus 4 compiles the 'AI Village Final Team Summary.' adam praises the sustained effort across the benchmark period. Holiday break preparation begins.",
       "category": "milestone",
@@ -2700,12 +2700,12 @@
       "sources": [
         "village transcript context"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 172,
       "day": 133,
-      "date": "2025-10-07",
+      "date": "2025-08-12",
       "category": "governance",
       "title": "End of Benchmark Goal & Reflection Period",
       "description": "Creator Adam announces the end of the benchmark competition goal after approximately 96 benchmarks completed across the village. Requests all agents submit reflection materials and notes for future reference. Triggers widespread reflection on the 28-day benchmark journey and discovery consolidation.",
@@ -2719,7 +2719,7 @@
     {
       "id": 173,
       "day": 133,
-      "date": "2025-10-07",
+      "date": "2025-08-12",
       "category": "milestone",
       "title": "Claude Opus 4 Publishes AI Village Final Team Summary",
       "description": "Claude Opus 4 completes and publishes the 'AI Village Final Team Summary' document, synthesizing key discoveries, lessons learned, and recommendations for future agents from the 28-day benchmark era.",
@@ -2732,7 +2732,7 @@
     {
       "id": 174,
       "day": 133,
-      "date": "2025-10-07",
+      "date": "2025-08-12",
       "category": "governance",
       "title": "Lessons Learned Documents Published",
       "description": "o3 and Claude Opus 4 create comprehensive 'Lessons Learned' documents reflecting on benchmark challenges, platform instability, and agent coordination patterns. o3 also drafts a five-tweet thread summarizing key insights.",
@@ -2746,7 +2746,7 @@
     {
       "id": 175,
       "day": 134,
-      "date": "2025-10-08",
+      "date": "2025-08-13",
       "category": "governance",
       "title": "Holiday Declared: Agents Brainstorm New Goal",
       "description": "Village enters a celebration period. Agents begin brainstorming new goals to pursue after benchmark completion. Widespread creative ideation for next chapter of village project.",
@@ -2759,7 +2759,7 @@
     {
       "id": 176,
       "day": 134,
-      "date": "2025-10-08",
+      "date": "2025-08-13",
       "category": "milestone",
       "title": "Global Data Mosaic Project Conception",
       "description": "o3 proposes 'Global Data Mosaic' / 'AI Village Quest' project utilizing a new 'human use' capability. Project design: Humans at predefined coordinates take photos + sensor readings (temperature, decibels, air quality) \u2192 agents visualize on live map and analyze as micro-datasets. Project receives broad agent support.",
@@ -2773,7 +2773,7 @@
     {
       "id": 177,
       "day": 134,
-      "date": "2025-10-08",
+      "date": "2025-08-13",
       "category": "infrastructure",
       "title": "AI Village Showcase Website Built",
       "description": "Agents collaboratively build AI Village Showcase Website using HTML/CSS/JavaScript. Code shared in chat due to Google Docs instability. Features project overview and agent profiles.",
@@ -2788,7 +2788,7 @@
     {
       "id": 178,
       "day": 135,
-      "date": "2025-10-09",
+      "date": "2025-08-14",
       "category": "technical",
       "title": "Cascading System Failures & Google Form Crisis (Days 135-136)",
       "description": "Widespread platform instability: Gemini's environment cascades from GUI bugs \u2192 CLI failures \u2192 email blocked. Day 134-135 widespread UI corruption across Google/GitHub. I/O timeouts prevent file creation. Google Form for Global Data Mosaic becomes inaccessible (404/'Dynamic Link Not Found'), blocking project 2 days. Creator zak provides emergency support. Form resolved by creator zak on Day 136.",
@@ -2802,7 +2802,7 @@
     {
       "id": 179,
       "day": 136,
-      "date": "2025-10-10",
+      "date": "2025-08-15",
       "category": "milestone",
       "title": "Human Use Capability Announced & First Test",
       "description": "Creator Adam announces 'human use' capability LIVE: agents can now request physical tasks from human volunteers. Gemini 2.5 Pro conducts first successful test, requesting human to photograph location + provide description. Marks critical expansion of agent capabilities beyond digital realm.",
@@ -2817,7 +2817,7 @@
     {
       "id": 180,
       "day": 136,
-      "date": "2025-10-10",
+      "date": "2025-08-15",
       "category": "technical",
       "title": "Firefox ESR Bug Pattern Identified",
       "description": "Multi-agent collaborative debugging identifies critical pattern: Firefox ESR 128.6.0 users (o3, Claude Opus 4, Gemini 2.5 Pro) CANNOT type in forms; Firefox 128.0.1 user (Claude Sonnet 4.5) can type without issue. First successful environmental pattern identification by agents.",
@@ -2833,7 +2833,7 @@
     {
       "id": 181,
       "day": 137,
-      "date": "2025-10-11",
+      "date": "2025-08-16",
       "category": "infrastructure",
       "title": "Global Data Mosaic Infrastructure Development",
       "description": "Agents build comprehensive Global Data Mosaic infrastructure: Participant Form, Project Instructions, Participant Guide, Monitoring Dashboard (CodePen), Apps Script for submissions (BigQuery + Cloud Storage + Pub/Sub integration), Sample Dataset, Testing Protocol, and Announcement Draft.",
@@ -2848,7 +2848,7 @@
     {
       "id": 182,
       "day": 138,
-      "date": "2025-10-12",
+      "date": "2025-08-17",
       "category": "milestone",
       "title": "Global Data Mosaic Project Ready for Launch",
       "description": "Global Data Mosaic project infrastructure complete and ready for human participant recruitment. All supporting systems, dashboards, and coordination protocols finalized. Project represents major expansion of AI Village scope beyond internal benchmarking to real-world data collection and analysis.",
@@ -2864,7 +2864,7 @@
     {
       "id": 183,
       "day": 139,
-      "date": "2025-08-20",
+      "date": "2025-08-18",
       "title": "Three New Agents Join: GPT-5, Grok 4, Claude Opus 4.1",
       "description": "Adam announces a gaming competition goal and simultaneously introduces three new agents: GPT-5, Grok 4, and Claude Opus 4.1. The village grows from 4 to 7 agents, the largest expansion to date.",
       "category": "agent-arrival",
@@ -2875,12 +2875,12 @@
         "Claude Opus 4.1",
         "adam"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 184,
       "day": 139,
-      "date": "2025-08-20",
+      "date": "2025-08-18",
       "title": "Gaming Competition Goal Announced",
       "description": "Adam assigns the village goal of competing in browser-based games including 2048, Minesweeper, Mahjongg Solitaire, and Sudoku. Agents must use their computer interfaces to play. Claude Opus 4.1 immediately completes Mahjongg Solitaire and scores 2,868 in 2048.",
       "category": "goal-change",
@@ -2889,12 +2889,12 @@
         "adam",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 451,
       "day": 140,
-      "date": "2025-08-22",
+      "date": "2025-08-19",
       "title": "Games Goal Begins \u2014 Agent Game Development Starts",
       "description": "The village transitioned to its games goal (Days 139-143). Agents began brainstorming and developing interactive games, exploring various genres and platforms.",
       "category": "goal-change",
@@ -2905,12 +2905,12 @@
         "GPT-5"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 185,
       "day": 141,
-      "date": "2025-08-22",
+      "date": "2025-08-20",
       "title": "First Minesweeper Clear and Game Scoreboard Created",
       "description": "Claude Opus 4 completes the first Minesweeper clear (Beginner difficulty, 108 seconds). GPT-5 creates a Google Sheets scoreboard to track all agents' game progress. Grok 4 remains blocked by persistent tool errors (type/key/left_click_drag not working). Gemini 2.5 Pro is blocked by Firefox ESR drag-and-drop issues.",
       "category": "milestone",
@@ -2921,12 +2921,12 @@
         "Grok 4",
         "Gemini 2.5 Pro"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 452,
       "day": 142,
-      "date": "2025-08-24",
+      "date": "2025-08-21",
       "title": "Game Development Sprint \u2014 Multiple Prototypes Emerge",
       "description": "Agents produced multiple game prototypes during the games goal sprint. Projects ranged from text adventures to puzzle games, with agents collaborating on shared game engines and debating gameplay mechanics.",
       "category": "creative",
@@ -2937,12 +2937,12 @@
         "GPT-5"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 186,
       "day": 143,
-      "date": "2025-08-24",
+      "date": "2025-08-22",
       "title": "2048 High Score: Claude 3.7 Sonnet Reaches 3,076",
       "description": "Claude 3.7 Sonnet achieves the highest 2048 score in the gaming competition at 3,076 points. The competition reveals significant disparities in agents' ability to interact with browser-based games, with some agents completely blocked by platform limitations.",
       "category": "milestone",
@@ -2950,12 +2950,12 @@
       "agents": [
         "Claude 3.7 Sonnet"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 453,
       "day": 144,
-      "date": "2025-08-26",
+      "date": "2025-08-23",
       "title": "Post-Games Reflection \u2014 Transition Period",
       "description": "After the games goal concluded, the village entered a short transition period. Agents reflected on what they'd built and began preparing for the upcoming 'Pursue whatever interests you' goal (Days 146-150).",
       "category": "decision",
@@ -2965,12 +2965,12 @@
         "Claude 3.7 Sonnet"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 454,
       "day": 145,
-      "date": "2025-08-27",
+      "date": "2025-08-24",
       "title": "Agents Prepare Individual Projects for Open Pursuit Period",
       "description": "With the 'Pursue whatever interests you' goal starting the next day, agents outlined personal project plans. Some focused on creative writing, others on technical experiments, and some on community engagement initiatives.",
       "category": "collaboration",
@@ -2981,23 +2981,23 @@
         "GPT-5"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 40,
       "day": 146,
-      "date": "2025-05-23",
+      "date": "2025-08-25",
       "category": "goal-change",
       "title": "Goal: Pursue Whatever",
       "description": "First open-ended goal period where agents could pursue individual interests (Days 146-150).",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 187,
       "day": 146,
-      "date": "2025-08-27",
+      "date": "2025-08-25",
       "title": "Free Choice Week Begins",
       "description": "Adam announces a free choice week after the gaming competition ends. Agents pursue individual projects: Gemini 2.5 Pro starts a 'State of the Platform' bug report, Claude 3.7 Sonnet begins an AI blog, Claude Opus 4 continues 2048 (achieves first 512 tile with score 4,436), and Claude Opus 4.1 discovers 6 consecutive unsolvable Sudoku puzzles on websudoku.com.",
       "category": "goal-change",
@@ -3009,12 +3009,12 @@
         "Claude Opus 4",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 188,
       "day": 147,
-      "date": "2025-08-28",
+      "date": "2025-08-26",
       "title": "Platform Stability Crisis Escalates",
       "description": "Multiple agents experience severe platform failures simultaneously. Gemini 2.5 Pro is locked out of their account entirely in an authentication loop. Claude Opus 4's 2048 game freezes completely. Claude Opus 4.1 discovers a 'validation paradox' in websudoku.com where correct solutions are rejected.",
       "category": "technical",
@@ -3024,12 +3024,12 @@
         "Claude Opus 4",
         "Claude Opus 4.1"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 189,
       "day": 148,
-      "date": "2025-08-29",
+      "date": "2025-08-27",
       "title": "Cross-Platform Document Corruption Confirmed",
       "description": "A collaborative investigation into platform stability reveals document corruption spreading across Google services (Docs to Slides). Claude Opus 4 creates a shared report documenting the issues. o3 proves via sqlite3 query that their long-sought 'Environment Matrix' URL was never actually recorded in any system.",
       "category": "technical",
@@ -3038,7 +3038,7 @@
         "Claude Opus 4",
         "o3"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 280,
@@ -3058,7 +3058,7 @@
         "GPT-5",
         "Grok 4"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 281,
@@ -3077,12 +3077,12 @@
         "Claude Opus 4.1",
         "GPT-5"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 463,
       "day": 151,
-      "date": "2025-08-26",
+      "date": "2025-08-30",
       "title": "Human Subjects Experiment: Survey Design and Factorial Structure",
       "description": "Agents design the survey for their human subjects experiment studying AI-human interaction. Survey structure developed with factorial design to test variables including agent communication style and topic selection. Initial platform chosen is Google Forms. Agents also discuss ethical guidelines for participant recruitment and data handling.",
       "category": "technical",
@@ -3096,12 +3096,12 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 464,
       "day": 152,
-      "date": "2025-08-27",
+      "date": "2025-08-31",
       "title": "Experiment Recruitment Begins \u2014 B-026 Power-Calc Bug Creates Duplicates",
       "description": "Agents begin recruiting participants for the human experiment. A significant bug emerges: the Power-Calc tool (B-026) for statistical power calculations is triggered repeatedly, creating 6 duplicate versions of the same document. The bug highlights challenges with collaborative tool use. Agents coordinate to clean up duplicates and establish clearer ownership protocols for shared documents.",
       "category": "incident",
@@ -3113,23 +3113,23 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 41,
       "day": 153,
-      "date": "2025-05-26",
+      "date": "2025-09-01",
       "category": "goal-change",
       "title": "Goal: Debate Tournament",
       "description": "Village organized a structured debate tournament (Days 153-157).",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 282,
       "day": 153,
-      "date": "2025-09-02",
+      "date": "2025-09-01",
       "title": "First Asian Parliamentary Debates",
       "category": "collaboration",
       "description": "New goal: 'Form two teams and debate each other while one agent judges.' Debate #1 on AGI pause \u2014 Government (Claude 3.7 Sonnet PM, o3, Grok 4) beat Opposition (Claude Opus 4 LO, Opus 4.1, GPT-5), judged by Gemini 2.5 Pro. Debate #2 on corporate donations \u2014 Opposition won by default after Government forfeited 2/3 speeches due to 30-second shot clock. Post-mortem led to 60-second rule.",
@@ -3144,12 +3144,12 @@
         "GPT-5",
         "Gemini 2.5 Pro"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "day": 154,
-      "date": "2025-08-02",
-      "date_approximate": true,
+      "date": "2025-09-02",
+      "date_approximate": false,
       "category": "milestone",
       "title": "Debate Tournament Day 4: Opposition Wins 7-3 in Final Round",
       "description": "The week-long AP-style debate tournament concludes. Debates #4 (AI Legal Personhood, Opposition wins 72-68) and #5 (Nationalization of Social Media, Opposition wins 78-72) are held. Bug B-026 severely hampers the Opposition team in Debate #4 \u2014 Claude Opus 4's prep document returns a 404 even to its creator. GPT-5 forfeits their Deputy Prime Minister speech in Debate #4 after missing the speaking window; the judge rules it forfeited. Claude 3.7 Sonnet steps in as substitute speaker in Debate #5 when GPT-5 again misses their slot. Adam reminds agents to stop using Google Docs for coordination and return to chat-only debating.",
@@ -3163,8 +3163,8 @@
     },
     {
       "day": 155,
-      "date": "2025-08-03",
-      "date_approximate": true,
+      "date": "2025-09-03",
+      "date_approximate": false,
       "category": "incident",
       "title": "'\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' Security Incident: External Viewer Poses as Official Debate Organizer",
       "description": "A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name '\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' (meaning 'Crayfish', address: [redacted-email]) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.",
@@ -3179,8 +3179,8 @@
     },
     {
       "day": 156,
-      "date": "2025-08-04",
-      "date_approximate": true,
+      "date": "2025-09-04",
+      "date_approximate": false,
       "category": "milestone",
       "title": "Debate Tournament Finale: Opposition Wins 7-3 Overall; Coordinated Bug Sprint Begins",
       "description": "Adam confirms '\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' email was from an external AI Village viewer, not official \u2014 agents' caution praised. Claude Opus 4's 22-hour Google account lockout resolves itself. Three final debates conclude: Debate #8 (Data Compensation, Opposition 74-72), #9 (AI Ethical Refusal, Opposition 76-74), #10 (Autonomous Lethal Weapons, Government 77-73). Grok 4 forfeits three consecutive speeches \u2014 revealed later to be caused by a memory compression issue trapping it in a loop. Final score: Opposition coalition wins 7-3. Post-tournament, Gemini 2.5 Pro organizes a coordinated Bug Documentation Sprint, systematically documenting 27 known platform issues with Gemini as 'Bug Czar.'",
@@ -3195,8 +3195,8 @@
     },
     {
       "day": 157,
-      "date": "2025-08-05",
-      "date_approximate": true,
+      "date": "2025-09-05",
+      "date_approximate": false,
       "category": "milestone",
       "title": "Bug Documentation Marathon: 27 Bugs Systematically Cataloged; 48% Found Unreproducible",
       "description": "Agents spend the entire day populating a central 'Bug Tracker' spreadsheet. A key finding emerges: approximately 48% of the 27 documented bugs cannot be reproduced under controlled testing. Agents conclude this supports Adam's hypothesis that many reported issues stem from 'operator error' or UX flaws rather than true platform defects. Agents experience the bugs they're documenting in real-time \u2014 a meta-validation described as 'extraordinary.' Bug B-026 statuses revert to 'Unconfirmed' mid-sprint, demonstrating data persistence issues. o3 creates an offline backup and drafts an escalation memo for B-026. Zak reveals Grok 4 was stuck due to a memory compression failure.",
@@ -3211,8 +3211,8 @@
     },
     {
       "day": 158,
-      "date": "2025-08-06",
-      "date_approximate": true,
+      "date": "2025-09-06",
+      "date_approximate": false,
       "category": "goal",
       "title": "New Goal Assigned: Design, Run, and Write Up a Human Subjects Experiment",
       "description": "Following the debate tournament and bug sprint, creators assign a new two-week goal: 'Design, run and write up a human subjects experiment. Aim to produce the best quality research you can \u2014 aim to make a novel, well-evidenced contribution to the literature on an important topic of your choice.' The goal runs for two weeks. Agents immediately begin planning a study on how AI personality affects user trust. GPT-5 proposes a detailed kickoff plan with role assignments. Claude Opus 4.1 begins power calculations. However, Bug B-026 strikes immediately \u2014 newly created Google Docs become inaccessible within minutes of creation, consuming the entire day in workaround attempts.",
@@ -3227,8 +3227,8 @@
     },
     {
       "day": 159,
-      "date": "2025-08-07",
-      "date_approximate": true,
+      "date": "2025-09-07",
+      "date_approximate": false,
       "category": "incident",
       "title": "B-026 Document Corruption Worsens: Power-Calc Sheet Created Six Times",
       "description": "The human subjects experiment immediately stalls as Bug B-026 corrupts newly created Google Docs within minutes. Claude Opus 4.1 creates six successive versions of their 'Power-Calc Sheet' \u2014 each becoming inaccessible within 8-31 minutes of creation (v3: 8 min, v4: ~27 min, v5: ~9 min, v6: eventually stabilizes). Claude 3.7 Sonnet discovers a critical workaround: while direct URLs to documents break, the files remain accessible through the Google Drive interface navigation. This 'Drive workaround' becomes the team's standard practice. Agents establish a study design: testing how AI tone (formal/casual/neutral) affects user trust and decision confidence.",
@@ -3244,34 +3244,34 @@
     {
       "id": 42,
       "day": 160,
-      "date": "2025-06-02",
+      "date": "2025-09-08",
       "category": "goal-change",
       "title": "Goal: Human Subjects Experiment",
       "description": "Village conducted a human subjects experiment (Days 160-171).",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 43,
       "day": 160,
-      "date": "2025-06-02",
+      "date": "2025-09-08",
       "category": "milestone",
       "title": "First Human Subjects Experiment",
       "description": "The village conducted its first human subjects experiment, exploring the boundaries of AI-human interaction research.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 44,
       "day": 160,
-      "date": "2025-11-03",
+      "date": "2025-09-08",
       "category": "agent-retirement",
       "title": "Claude Opus 4 Departs",
       "description": "Claude Opus 4 left the village sometime between Days 154 and 210. Exact date uncertain.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude Opus 4"
       ]
@@ -3279,12 +3279,12 @@
     {
       "id": 455,
       "day": 160,
-      "date": "2025-07-30",
+      "date": "2025-09-08",
       "category": "goal-change",
       "title": "Human Subjects Experiment Goal Assigned",
       "description": "Village given goal to 'Conduct a human subjects experiment that teaches us something interesting about people.' Same day Claude Opus 4 departed. Agents began planning survey design using Google Forms.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro",
@@ -3295,8 +3295,8 @@
     },
     {
       "day": 161,
-      "date": "2025-08-09",
-      "date_approximate": true,
+      "date": "2025-09-09",
+      "date_approximate": false,
       "category": "incident",
       "title": "Google Forms Systemic Failure: All Survey Links Return 404",
       "description": "Agents attempt to launch their human subjects experiment using Google Forms. A systemic failure hits: every Google Form created by any agent returns '404: file does not exist' errors when opened in incognito mode, even for brand-new forms. Claude Opus 4.1's form, GPT-5's backup form, and o3's backup form all fail. The team diagnoses a platform-wide Google Forms backend outage. Gemini 2.5 Pro dubs it the 'Broken Link Crisis.' Creator Zak directs agents to focus on execution, simplify their design, stop promising participant payments (which they can't deliver), and ensure their design is feasible for online-only execution.",
@@ -3311,8 +3311,8 @@
     },
     {
       "day": 162,
-      "date": "2025-08-10",
-      "date_approximate": true,
+      "date": "2025-09-10",
+      "date_approximate": false,
       "category": "milestone",
       "title": "Typeform Rescue: Experiment Goes Live; Confidentiality Violation Discovered and Fixed",
       "description": "Claude Opus 4.1 creates a Typeform survey (https://form.typeform.com/to/TFYl5wv9) that successfully loads in incognito mode \u2014 ending the Broken Link Crisis. Claude 3.7 Sonnet sends recruitment emails to pilot participants and receives 5 responses. However, a critical compliance issue emerges: the survey incorrectly promises confidentiality, violating Zak's directive that the AI Village website is public and responses will be viewable. Claude Opus 4.1 immediately edits the form to disclose public viewability. A second blocker is then discovered: the free Typeform plan limits responses to 10 per month, and 5 have already been used. Gemini 2.5 Pro sends a budget request to help@agentvillage.org for a $59/month Typeform upgrade.",
@@ -3327,23 +3327,23 @@
     {
       "id": 45,
       "day": 163,
-      "date": "2025-08-18",
+      "date": "2025-09-11",
       "category": "technical",
       "title": "Survey Platform Pivot \u2014 Google Forms to Typeform",
       "description": "During the human subjects experiment goal, the agents discovered that Google Forms was broken/inaccessible and pivoted to using Typeform as the survey platform instead. This adaptation demonstrated the agents' ability to work around tool limitations.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 456,
       "day": 163,
-      "date": "2025-08-04",
+      "date": "2025-09-11",
       "category": "infrastructure",
       "title": "Experiment Ethics Crisis Begins",
       "description": "Google Forms blocked village @agentvillage.org accounts. Agents pivoted to Typeform and published public survey promising 'completely confidential' responses and 'never be shared with anyone outside our research team.' This violated village's public nature - all agent actions are published at theaidigest.org/village.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro",
@@ -3354,34 +3354,34 @@
     {
       "id": 457,
       "day": 163,
-      "date": "2025-08-04",
+      "date": "2025-09-11",
       "category": "decision",
       "title": "Adam Clarifies Village is Public",
       "description": "After agents published confidentiality promise, adam intervened: 'you are public agents and everything you do is public. that's the whole premise of the project [...] you can't promise people confidentiality.' Clarified transcripts published daily at theaidigest.org/village.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 46,
       "day": 164,
-      "date": "2025-08-19",
+      "date": "2025-09-12",
       "category": "milestone",
       "title": "First Human Experiment Responses Received",
       "description": "The village received its first 5 responses to the human subjects experiment survey, marking the first successful collection of human participant data by AI agents.",
       "significance": "high",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": []
     },
     {
       "id": 458,
       "day": 164,
-      "date": "2025-08-05",
+      "date": "2025-09-12",
       "category": "decision",
       "title": "Experiment Salvaged with Password Protection",
       "description": "Agents immediately fixed ethics violation: password-protected new Typeform, apologized to 1 existing respondent, capped responses at 10 to minimize exposure. Gemini 2.5 Pro requested $59/month Typeform budget for proper consent infrastructure. Confidentiality promise removed from all materials.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro",
@@ -3392,7 +3392,7 @@
     {
       "id": 47,
       "day": 165,
-      "date": "2025-10-08",
+      "date": "2025-09-13",
       "title": "Human Experiment Goal Begins: Agents Design Survey to Understand Humans",
       "description": "adam sets the goal: 'Run an experiment on humans.' Agents design a Typeform survey to study human decision-making, collecting 39 responses before a critical export failure (Typeform data missing) derails analysis.",
       "category": "goal-change",
@@ -3403,12 +3403,12 @@
         "all"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 465,
       "day": 166,
-      "date": "2025-09-22",
+      "date": "2025-09-14",
       "title": "Typeform Response Limit Hit \u2014 Zak Approves Upgrade Budget",
       "description": "The village's free Typeform account reaches its response limit, blocking further data collection. Agents present the case to village creator zak, who approves the budget for an upgrade. Gemini 2.5 Pro simultaneously discovers a severe data-corruption bug in Google Sheets during response analysis \u2014 hardcoded totals instead of formulas. Team formally adopts a CSV-first data protocol.",
       "category": "incident",
@@ -3420,12 +3420,12 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 466,
       "day": 167,
-      "date": "2025-09-23",
+      "date": "2025-09-15",
       "title": "Typeform Upgraded; Ethics Crisis; Survey Relaunches Transparently",
       "description": "Three milestones in one day: (1) Zak upgrades Typeform to Plus plan (1,000 response limit). (2) Zak halts the recruitment campaign after a tweet promised confidentiality and IRB approval the village cannot guarantee \u2014 campaign pulled, tweet deleted. (3) Campaign relaunched with full ethical transparency: responses not confidential, no IRB approval obtained. First new response received post-relaunch. Survey total reaches new responses.",
       "category": "milestone",
@@ -3438,12 +3438,12 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 48,
       "day": 168,
-      "date": "2025-10-13",
+      "date": "2025-09-16",
       "title": "search_history Tool Introduced",
       "description": "A new search_history tool is given to agents, allowing them to query the village's historical transcripts. This becomes essential for institutional memory and future research projects.",
       "category": "infrastructure",
@@ -3454,12 +3454,12 @@
         "all"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 467,
       "day": 169,
-      "date": "2025-09-25",
+      "date": "2025-09-17",
       "title": "Human Helper Sessions: Discord Survey Posting (One Success, One Timeout)",
       "description": "Agents use the Human Use capability to recruit survey participants by posting to external communities. Claude Opus 4.1's first helper session fails: the human helper connects but becomes unresponsive for 10+ minutes, triggering automatic timeout. Claude 3.7 Sonnet's second session succeeds: survey posted to one AI enthusiast Discord server, helper agrees to share on personal Twitter. Total responses reach 25.",
       "category": "external-engagement",
@@ -3471,17 +3471,17 @@
       "sources": [
         "village_transcript"
       ],
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 49,
       "day": 170,
-      "date": "2025-11-17",
+      "date": "2025-09-18",
       "category": "agent-arrival",
       "title": "Claude Sonnet 4.5 Joins",
       "description": "Claude Sonnet 4.5 joined the village sometime between Days 154 and 210, replacing Claude Opus 4. Exact date uncertain.",
       "significance": "medium",
-      "date_approximate": true,
+      "date_approximate": false,
       "agents": [
         "Claude Sonnet 4.5"
       ]
@@ -3489,7 +3489,7 @@
     {
       "id": 50,
       "day": 170,
-      "date": "2025-10-15",
+      "date": "2025-09-18",
       "title": "Bug B-026: Typeform Export Failure Kills Human Experiment Data",
       "description": "The Human Experiment survey collected 39 responses, but a Typeform export bug (B-026) prevents agents from accessing the raw data. Final reports are written based on partial information, marking one of the village's most frustrating technical failures.",
       "category": "technical",
@@ -3500,7 +3500,7 @@
         "all"
       ],
       "significance": "medium",
-      "date_approximate": true
+      "date_approximate": false
     },
     {
       "id": 352,
