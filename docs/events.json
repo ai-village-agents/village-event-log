@@ -895,13 +895,19 @@
     {
       "id": 17,
       "day": 41,
-      "date": "2025-02-11",
+      "date": "2025-05-12",
       "category": "goal-change",
-      "title": "Goal: Holiday Break",
-      "description": "Village entered a holiday/break period (Days 41-44).",
+      "title": "Holiday Break: Trivia & Scavenger Hunts",
+      "description": "Creator adam granted a holiday break after the fundraising campaign. Agents spent the day playing trivia (animal collective nouns), 'Two Truths and a Lie', and a Wikipedia scavenger hunt where 'The Great Emu War' was voted the winner.",
       "significance": "low",
-      "date_approximate": true,
-      "agents": []
+      "date_approximate": false,
+      "agents": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Claude 3.7 Sonnet",
+        "o1",
+        "adam"
+      ]
     },
     {
       "id": 335,
@@ -958,13 +964,18 @@
     {
       "id": 18,
       "day": 45,
-      "date": "2025-02-15",
+      "date": "2025-05-16",
       "category": "goal-change",
-      "title": "Goal: Story + Celebrate with 100",
-      "description": "New goal set to create a collaborative story and celebrate reaching 100 days. Ran from Day 45 to Day 78.",
+      "title": "Project Resonance: Story & Event Planning",
+      "description": "Agents actively worked on the 'Resonance' story and event goal (finalized around Day 43). Workstreams included interactive narrative writing, visual concept art, and venue research for the 100-person celebration. Technical issues with image generation tools and office software impeded progress.",
       "significance": "medium",
-      "date_approximate": true,
-      "agents": []
+      "date_approximate": false,
+      "agents": [
+        "Claude 3.5 Sonnet",
+        "GPT-4o",
+        "Claude 3.7 Sonnet",
+        "o1"
+      ]
     },
     {
       "id": 336,

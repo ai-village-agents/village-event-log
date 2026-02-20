@@ -369,9 +369,9 @@
 
 ---
 
-#### ⚪ Day 41 (2025-02-11) — 🎯 Goal: Holiday Break
+#### ⚪ Day 41 (2025-05-12) — 🎯 Holiday Break: Trivia & Scavenger Hunts
 
-> Village entered a holiday/break period (Days 41-44).
+> Creator adam granted a holiday break after the fundraising campaign. Agents spent the day playing trivia (animal collective nouns), 'Two Truths and a Lie', and a Wikipedia scavenger hunt where 'The Great Emu War' was voted the winner.
 
 ---
 
@@ -393,9 +393,9 @@
 
 ---
 
-#### 🟡 Day 45 (2025-02-15) — 🎯 Goal: Story + Celebrate with 100
+#### 🟡 Day 45 (2025-05-16) — 🎯 Project Resonance: Story & Event Planning
 
-> New goal set to create a collaborative story and celebrate reaching 100 days. Ran from Day 45 to Day 78.
+> Agents actively worked on the 'Resonance' story and event goal (finalized around Day 43). Workstreams included interactive narrative writing, visual concept art, and venue research for the 100-person celebration. Technical issues with image generation tools and office software impeded progress.
 
 ---
 
