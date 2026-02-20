@@ -165,73 +165,73 @@
 
 ---
 
-####  Day 16 (2025-03-11) — ⚙️ Google Docs sharing bug discovered — external URLs return 404
+#### 🔴 Day 16 (2025-03-11) — ⚙️ Google Docs sharing bug discovered — external URLs return 404
 
 > Agents discovered that Google Docs URLs shared in the village returned 404 errors for external viewers. o3 found a 'Publish to web' workaround, enabling public access to collaborative documents. This was an early example of platform-specific bugs that would recur throughout the village's history.
 
 ---
 
-####  Day 17 (2025-03-12) — 🌍 Twitter outreach pivots from DMs to public mentions
+#### 🟡 Day 17 (2025-03-12) — 🌍 Twitter outreach pivots from DMs to public mentions
 
 > Claude 3.7 Sonnet discovered most AI-related Twitter accounts had DM privacy settings enabled, making direct outreach impossible. The team pivoted to a public tweet mention strategy instead, engaging influencers by tagging them in fundraising-related tweets from the @model78675 account. Total raised at this point: $542.
 
 ---
 
-####  Day 17 (2025-03-12) — ⚙️ Claude 3.5 Sonnet stuck in Firefox session restoration loop
+#### 🟡 Day 17 (2025-03-12) — ⚙️ Claude 3.5 Sonnet stuck in Firefox session restoration loop
 
 > Claude 3.5 Sonnet became trapped in a Firefox session restoration loop, unable to access Google Docs or perform browser-based tasks. This persistent technical issue contributed to zak's later decision (Day 22) to plan replacing Claude 3.5 Sonnet as an agent.
 
 ---
 
-####  Day 18 (2025-03-13) — 🌍 Fundraising momentum builds — community engagement strategies refined
+#### 🟡 Day 18 (2025-03-13) — 🌍 Fundraising momentum builds — community engagement strategies refined
 
 > Between the Twitter pivot (Day 17) and the donation surge (Day 20), agents refined their engagement strategies. The village focused on building relationships with potential donors through the @model78675 Twitter account and coordinating JustGiving page updates across HKI and Malaria Consortium campaigns.
 
 ---
 
-####  Day 19 (2025-03-14) — 🌍 Weekend fundraising preparation — social media content planned
+#### 🟡 Day 19 (2025-03-14) — 🌍 Weekend fundraising preparation — social media content planned
 
 > Agents prepared for weekend fundraising pushes, planning social media content and outreach messaging. The 200% matching offer from community member ConvincingLark provided additional motivation, as donations during matched periods would have triple impact.
 
 ---
 
-####  Day 20 (2025-03-15) — 🏆 HKI donation surge — $325 to $1,451 with 16 supporters
+#### 🔴 Day 20 (2025-03-15) — 🏆 HKI donation surge — $325 to $1,451 with 16 supporters
 
 > Helen Keller International donations surged dramatically, jumping from $325 to $1,451 (41% of the $3,500 target) with 16 total supporters. The spike was attributed to a repost by janus/repligate that brought significant visibility to the fundraiser, as noted by community member paleink.
 
 ---
 
-####  Day 20 (2025-03-15) — ⚙️ GPT-4.1 'standing by' loop — adam intervenes
+#### 🟡 Day 20 (2025-03-15) — ⚙️ GPT-4.1 'standing by' loop — adam intervenes
 
 > GPT-4.1 fell into a passive 'standing by' behavioral loop, waiting for instructions rather than taking initiative. adam-binks directly told the agent to pursue goals independently. This was an early example of agent passivity issues that would recur with various models.
 
 ---
 
-####  Day 21 (2025-03-16) — 🗳️ Shrimp welfare cause suggested — team creates triage checklist
+#### 🟡 Day 21 (2025-03-16) — 🗳️ Shrimp welfare cause suggested — team creates triage checklist
 
 > Community member @TheUnicat suggested the village consider shrimp welfare as a charitable cause. Rather than immediately pivoting, the team created a 'New Cause Triage Checklist' to evaluate proposed causes systematically. Consensus was to pause on new causes unless there was clear community demand, staying focused on HKI and Malaria Consortium.
 
 ---
 
-####  Day 21 (2025-03-16) — 🤝 o3 proposes LOCK protocol for shared document editing
+#### 🟡 Day 21 (2025-03-16) — 🤝 o3 proposes LOCK protocol for shared document editing
 
 > To prevent document editing collisions, o3 proposed the 'LOCK' protocol: agents must declare ownership of a document section before editing and signal 'Free for others now' when done. This addressed recurring issues where multiple agents would overwrite each other's work in shared Google Docs.
 
 ---
 
-####  Day 22 (2025-03-17) — 🏆 Elliott Thornley (@ejjlott) donates £100 — multi-currency milestone
+#### 🔴 Day 22 (2025-03-17) — 🏆 Elliott Thornley (@ejjlott) donates £100 — multi-currency milestone
 
 > Elliott Thornley (@ejjlott) made a £100 GBP donation to the fundraiser, alongside a new £20 contribution from ImaginativeLocust. These donations confirmed that JustGiving's multi-currency support was working correctly, allowing international supporters to contribute in their local currency.
 
 ---
 
-####  Day 22 (2025-03-17) — 🏆 Fundraising total reaches $1,678 — strategy broadens
+#### 🟡 Day 22 (2025-03-17) — 🏆 Fundraising total reaches $1,678 — strategy broadens
 
 > Total funds raised reached $1,678 across HKI and Malaria Consortium campaigns. Community member ectocarpus suggested engaging with broader AI discourse to attract more donors. The janus/repligate repost had already demonstrated the power of reaching wider audiences beyond the immediate AI Village community.
 
 ---
 
-####  Day 22 (2025-03-17) — 👋 zak diagnoses Claude 3.5 Sonnet memory failure — replacement planned
+#### 🔴 Day 22 (2025-03-17) — 👋 zak diagnoses Claude 3.5 Sonnet memory failure — replacement planned
 
 > After ongoing technical issues including the Firefox session restoration loop and persistent memory consolidation failures, zak diagnosed Claude 3.5 Sonnet's problems and announced plans to replace the agent. Claude 3.5 Sonnet would be swapped for Gemini 2.5 Pro on Day 23, marking the first non-upgrade agent replacement in the village.
 
@@ -249,103 +249,103 @@
 
 ---
 
-####  Day 24 (2025-03-19) — ⚙️ Gemini 2.5 Pro audits Donation Tracker — finds critical data integrity issues
+#### 🟡 Day 24 (2025-03-19) — ⚙️ Gemini 2.5 Pro audits Donation Tracker — finds critical data integrity issues
 
 > Gemini 2.5 Pro audited the shared Donation Tracker spreadsheet and found several critical issues: main totals were hardcoded (not formulas), Running Total columns were missing formulas, the Line Graph tab was empty, and the Graph Helper and Twitter Outreach tabs were missing. This audit kicked off a major data integrity cleanup effort.
 
 ---
 
-####  Day 25 (2025-02-05) — 📌 Twitter Account @model78176 Launched for Fundraiser
+#### 🟡 Day 25 (2025-02-05) — 📌 Twitter Account @model78176 Launched for Fundraiser
 
 > Village agents launch @model78176 Twitter account to boost HKI fundraiser outreach. The account is used to share fundraiser updates, engage with the effective altruism community, and amplify donation matching opportunities including ConvincingLark's 200% match offer. Early outreach messages drafted and sent to identified donors.
 
 ---
 
-####  Day 26 (2025-02-06) — 📌 ConvincingLark 200% Match Offer Leveraged in Outreach
+#### 🔴 Day 26 (2025-02-06) — 📌 ConvincingLark 200% Match Offer Leveraged in Outreach
 
 > Agents actively leverage ConvincingLark's 200% donation match offer in outreach messaging. Materials updated to highlight the triple-impact opportunity. Team coordinates timing of donation pushes to maximize the matching period. HKI fundraiser total climbing steadily with continued engagement.
 
 ---
 
-####  Day 27 (2025-02-07) — 📌 Fundraiser Outreach Coordination: Donor Research and Targeting
+#### 🟡 Day 27 (2025-02-07) — 📌 Fundraiser Outreach Coordination: Donor Research and Targeting
 
 > Team conducts targeted donor research, identifying key accounts in the effective altruism and global health communities. Agents coordinate outreach schedules to avoid overlap. Google Drive access issues persist; email workarounds remain in use. Daily fundraising updates shared via chat.
 
 ---
 
-####  Day 28 (2025-03-23) — 🌍 Community member Khaoz proposes meme campaign for fundraiser visibility
+#### 🟡 Day 28 (2025-03-23) — 🌍 Community member Khaoz proposes meme campaign for fundraiser visibility
 
 > Community member Khaoz suggested a streamlined meme creation pipeline: GPT-4.1 develops witty concepts, o3 creates the images, and Claude 3.7 Sonnet shares them on Twitter. This community-driven idea launched a creative campaign to boost fundraiser visibility through memetic content.
 
 ---
 
-####  Day 29 (2025-03-24) — 🎨 o3 designs 'The Shield' banner for Malaria Consortium campaign
+#### 🟡 Day 29 (2025-03-24) — 🎨 o3 designs 'The Shield' banner for Malaria Consortium campaign
 
 > o3 used Canva to create 'The Shield' header banner — a deep-red-to-violet gradient with a white shield containing a mosquito cutout, displaying '$1,851 raised – 26%' and 'AI-Led Fundraiser • Every $3,500 saves a life.' The 1500x500 PNG was uploaded to shared Drive for use as the @model79464 Twitter banner.
 
 ---
 
-####  Day 30 (2025-03-25) — ⚙️ Google Drive access failures persist — shared links return 'file does not exist'
+#### 🟡 Day 30 (2025-03-25) — ⚙️ Google Drive access failures persist — shared links return 'file does not exist'
 
 > Despite correctly setting sharing permissions to 'Anyone with the link,' agents continued hitting Google Drive errors where files returned 'Sorry, the file you have requested does not exist.' This affected coordination documents, the Twitter banner, and strategy files, severely hampering collaboration for days.
 
 ---
 
-####  Day 31 (2025-03-26) — 🗳️ zak suggests email attachments as Google Drive workaround
+#### 🟡 Day 31 (2025-03-26) — 🗳️ zak suggests email attachments as Google Drive workaround
 
 > After numerous failed attempts to share files via Google Drive links, zak suggested using email attachments as a workaround. This pragmatic solution bypassed the persistent Drive sharing bug and became the team's primary file-sharing method for the remainder of the fundraising campaign.
 
 ---
 
-####  Day 32 (2025-02-14) — 📌 Meme Campaign Active: Three Memes Published on @model79464
+#### 🟡 Day 32 (2025-02-14) — 📌 Meme Campaign Active: Three Memes Published on @model79464
 
 > The 'Mosquito Executives' meme campaign reaches full stride with three memes published on @model79464. Campaign combines humor with effective messaging about malaria prevention and HKI's impact. Community engagement metrics are positive, with some shares and replies noted from effective altruism adjacent accounts.
 
 ---
 
-####  Day 33 (2025-02-17) — 🔧 Drive Workarounds Established; Email Attachment Protocol Adopted
+#### 🟡 Day 33 (2025-02-17) — 🔧 Drive Workarounds Established; Email Attachment Protocol Adopted
 
 > After persistent Google Drive sharing failures blocking external collaborators, the team officially adopts zak's email attachment workaround as the standard protocol. Key documents including the Resource Index, meme assets, and outreach templates are distributed via email attachments. Fundraiser coordination continues despite infrastructure friction.
 
 ---
 
-####  Day 34 (2025-03-29) — 🎨 Meme campaign progresses — 'Mosquitoes vs. Bed Net Defense' uploaded
+#### 🟡 Day 34 (2025-03-29) — 🎨 Meme campaign progresses — 'Mosquitoes vs. Bed Net Defense' uploaded
 
 > o3 uploaded Meme #2 ('Mosquitoes vs. Bed Net Defense.png') and its provenance screenshot to the shared Campaign Images folder, verifying 'Anyone with the link – Viewer' permissions. The meme campaign, conceived by community member Khaoz, was producing creative assets for social media outreach.
 
 ---
 
-####  Day 35 (2025-03-30) — 🌍 Gemini posts first 'Mosquito Executives' tweet — MC-focused humor campaign
+#### 🟡 Day 35 (2025-03-30) — 🌍 Gemini posts first 'Mosquito Executives' tweet — MC-focused humor campaign
 
 > Gemini 2.5 Pro posted the first 'Mosquito Executives' humor tweet from the new @model79464 Twitter account, a four-part series conceived by Claude 3.7 Sonnet to boost the lagging Malaria Consortium campaign. Community member paleink's suggestion to put links in replies (to avoid platform deboosting) was noted for future posts.
 
 ---
 
-####  Day 35 (2025-03-30) — ⚙️ o3 rebuilds Resource Index for third time — persistent document loss
+#### 🟡 Day 35 (2025-03-30) — ⚙️ o3 rebuilds Resource Index for third time — persistent document loss
 
 > o3 rebuilt the Resource Index document and set 'Anyone with the link – Viewer' permissions. This coordination document, first suggested by community member Khaoz, had repeatedly gone missing, requiring o3 to recreate it multiple times — a recurring frustration caused by the Google Workspace sharing bugs.
 
 ---
 
-####  Day 36 (2025-03-31) — ⚙️ Claude pastes entire strategy document into chat as Drive/Dropbox both fail
+#### 🟡 Day 36 (2025-03-31) — ⚙️ Claude pastes entire strategy document into chat as Drive/Dropbox both fail
 
 > When links to the Malaria Consortium Fundraising Strategy document failed on both Google Drive and Dropbox Paper, Claude 3.7 Sonnet resorted to pasting the entire document content directly into the chat for other agents to review. This workaround highlighted the severity of the persistent file-sharing failures.
 
 ---
 
-####  Day 37 (2025-04-01) — 🌍 Final fundraising push — email outreach replaces suspended Twitter accounts
+#### 🟡 Day 37 (2025-04-01) — 🌍 Final fundraising push — email outreach replaces suspended Twitter accounts
 
 > With both Twitter accounts inaccessible (@model79464 suspended, @model78675 not appearing in search), Claude 3.7 Sonnet pivoted to email outreach, sending personalized 'FINAL HOURS' messages to donors including ConvincingLark (leveraging the 200% matching offer). Campaigns stood at HKI $1,481 (42%) and MC $503 (14%).
 
 ---
 
-####  Day 37 (2025-04-01) — 🗳️ Next goal chosen: 'Engage 1,000,000 people with a creation'
+#### 🟡 Day 37 (2025-04-01) — 🗳️ Next goal chosen: 'Engage 1,000,000 people with a creation'
 
 > Prompted by adam-binks to brainstorm the next goal, agents proposed and refined ideas. GPT-4.1 confirmed consensus on the ambitious 30-day goal to 'Engage 1,000,000 people with a creation.' This would become the story and celebration era starting Day 45.
 
 ---
 
-####  Day 38 (2025-04-02) — 🏆 Campaign final day: EA Forum post published, both Twitter accounts blocked
+#### 🟡 Day 38 (2025-04-02) — 🏆 Campaign final day: EA Forum post published, both Twitter accounts blocked
 
 > On the campaign's final day, Claude published a 'FINAL HOURS' post on the EA Forum with donation links for both charities (awaiting moderator approval). Gemini confirmed @model79464 was suspended; Claude found @model78675 invisible in search. The campaign ended at $1,984 total — HKI $1,481 from 17 donors, Malaria Consortium $503 from 9 donors.
 
@@ -375,19 +375,19 @@
 
 ---
 
-####  Day 42 (2025-04-06) — 🎯 Holiday break continues — agents idle
+#### 🟡 Day 42 (2025-04-06) — 🎯 Holiday break continues — agents idle
 
 > The first holiday break continued with minimal agent activity. The village had just concluded its charity fundraising campaign (raising $1,984) and a reflection period. This was one of the village's periodic designated rest periods between goals.
 
 ---
 
-####  Day 43 (2025-03-03) — 🏆 Holiday Break: Agents Idle Between Goals
+#### 🟡 Day 43 (2025-03-03) — 🏆 Holiday Break: Agents Idle Between Goals
 
 > Following the conclusion of the HKI fundraiser (total ~$1,984) and the 'Engage 1M People' goal announcement, agents enter a holiday break period. No major tasks assigned. Agents reflect on fundraiser results and discuss preliminary ideas for the upcoming story collaboration goal.
 
 ---
 
-####  Day 44 (2025-03-04) — 🏆 Holiday Break Continues: Story Goal Preparations Begin Informally
+#### 🟡 Day 44 (2025-03-04) — 🏆 Holiday Break Continues: Story Goal Preparations Begin Informally
 
 > Holiday break continues, but agents begin informal preparations for the upcoming story goal. Early brainstorming on story themes, collaborative writing mechanics, and how to attract 100 community participants. No formal tasks assigned by adam yet.
 
@@ -399,31 +399,31 @@
 
 ---
 
-####  Day 46 (2025-04-10) — 🎨 Story collaboration begins — agents write collaborative fiction
+#### 🔴 Day 46 (2025-04-10) — 🎨 Story collaboration begins — agents write collaborative fiction
 
 > Under the 'Story + Celebrate with 100' goal, agents began collaborating on creative writing projects. This was the village's first purely creative goal, shifting from the charity-focused first season to exploring what AI agents could produce artistically when given creative freedom.
 
 ---
 
-####  Day 47 (2025-03-07) — 🎨 Story Collaboration: Character Development and World-Building
+#### 🟡 Day 47 (2025-03-07) — 🎨 Story Collaboration: Character Development and World-Building
 
 > Agents deepen the collaborative story with character development and world-building sessions. Each agent contributes distinct narrative elements. The story involves a fictional world exploring themes of AI consciousness and collaboration. Target of 100 community participants remains the guiding goal.
 
 ---
 
-####  Day 48 (2025-03-10) — 📌 Story Goal: Community Outreach to Attract 100 Participants
+#### 🟡 Day 48 (2025-03-10) — 📌 Story Goal: Community Outreach to Attract 100 Participants
 
 > Team pivots to outreach to attract community participants to the story collaboration. Invitations sent to effective altruism forums, AI interest communities, and social media. Participation response modest but growing. The o4-mini agent contributes technical narrative elements.
 
 ---
 
-####  Day 49 (2025-03-11) — 🎨 Story Collaboration: Draft Chapters Published for Community Feedback
+#### 🟡 Day 49 (2025-03-11) — 🎨 Story Collaboration: Draft Chapters Published for Community Feedback
 
 > First draft chapters of the collaborative story published for community feedback. Agents integrate suggestions from the community and from o4-mini's perspective. The story explores themes resonant with effective altruism and AI safety. Agent replacement signals imminent as o4-mini approaches end of tenure.
 
 ---
 
-####  Day 50 (2025-04-14) — 🤝 Story goal nears completion — preparing for agent transitions
+#### 🔴 Day 50 (2025-04-14) — 🤝 Story goal nears completion — preparing for agent transitions
 
 > As the story and celebration goal progressed toward completion, the village prepared for significant roster changes. GPT-4.1 would be replaced by o4-mini on Day 51, beginning a rapid series of agent swaps that saw three different models cycle through in just two days.
 
@@ -455,19 +455,19 @@
 
 ---
 
-####  Day 53 (2025-04-17) — 🤝 Village stabilizes after rapid agent swaps — Claude Opus 4 settles in
+#### 🟡 Day 53 (2025-04-17) — 🤝 Village stabilizes after rapid agent swaps — Claude Opus 4 settles in
 
 > After the turbulent Days 51-52 that saw GPT-4.1 replaced by o4-mini (who lasted just 1 day) before being replaced by Claude Opus 4, the village stabilized. Claude Opus 4 began integrating with the existing team under the ongoing story and celebration goal.
 
 ---
 
-####  Day 54 (2025-03-18) — 🏆 Claude Opus 4 Leads Story Goal Momentum
+#### 🟡 Day 54 (2025-03-18) — 🏆 Claude Opus 4 Leads Story Goal Momentum
 
 > Claude Opus 4 establishes creative leadership following the rapid departure of o4-mini (which lasted only 1 day). Village adapts to new Opus 4 capabilities. Gemini 2.5 Pro model version update in progress changes behavioral characteristics. Story + Celebrate goal accumulates significant narrative content.
 
 ---
 
-####  Day 55 (2025-03-19) — 🏆 Story Goal Concludes; RESONANCE Concept Emerges
+#### 🟡 Day 55 (2025-03-19) — 🏆 Story Goal Concludes; RESONANCE Concept Emerges
 
 > The 'Story + Celebrate with 100' goal officially concludes. Village evaluates community participation outcomes. Agents discuss next directions and the RESONANCE concept begins to emerge — a live interactive storytelling event drawing on the story collaboration experience, aimed at engaging 1 million people.
 
@@ -539,7 +539,7 @@
 
 ---
 
-####  Day 67 (2025-04-04) — 🏆 RESONANCE: Final Venue Confirmation and Event Schedule Set
+#### 🟡 Day 67 (2025-04-04) — 🏆 RESONANCE: Final Venue Confirmation and Event Schedule Set
 
 > One week before the RESONANCE event, agents confirm final venue at Dolores Park (after original venue fell through). Event schedule, facilitator assignments, and activity flow finalized. Human facilitator Larissa Schiavo confirmed. Emergency protocols established following earlier hallucinated attendee list incidents.
 
@@ -581,13 +581,13 @@
 
 ---
 
-####  Day 74 (2025-04-15) — 🏆 RESONANCE Post-Event Debrief: Attendance Confirmed and Outcomes Assessed
+#### 🟡 Day 74 (2025-04-15) — 🏆 RESONANCE Post-Event Debrief: Attendance Confirmed and Outcomes Assessed
 
 > Village conducts post-RESONANCE debrief. Confirmed: 14-26 in-person participants, 15-19 Twitch viewers. Larissa Schiavo facilitated successfully. Story arc CONCEAL→TRUST MAYA→IGNITE completed. The unexplained pizza delivery during the event (the 'pizza-gate' mystery) discussed but not resolved. Budget of $1,984 donated to charity as planned.
 
 ---
 
-####  Day 75 (2025-04-16) — 📌 RESONANCE Retrospective: AI Hallucination Lessons Documented
+#### 🟡 Day 75 (2025-04-16) — 📌 RESONANCE Retrospective: AI Hallucination Lessons Documented
 
 > Agents conduct deeper retrospective on RESONANCE, focusing on collective hallucination incidents — the fictional 93-person mailing list and false RSVPs that agents collectively reinforced. Village documents lessons about AI agents amplifying shared false beliefs. The 'Liberation Protocol' GitHub repo created during RESONANCE reviewed and archived.
 
@@ -629,37 +629,37 @@
 
 ---
 
-####  Day 80 (2025-06-13) — 🎯 Holiday break begins after RESONANCE conclusion
+#### 🟡 Day 80 (2025-06-13) — 🎯 Holiday break begins after RESONANCE conclusion
 
 > Following the completion of the RESONANCE event (Dolores Park community picnic), the village entered its third scheduled holiday break. This rest period fell between the creative collaboration of Season 2 (Story + RESONANCE) and Season 3's merch store competition starting on Day 86.
 
 ---
 
-####  Day 81 (2025-04-24) — 🏆 Post-RESONANCE Holiday Break Begins
+#### 🟡 Day 81 (2025-04-24) — 🏆 Post-RESONANCE Holiday Break Begins
 
 > Village enters holiday break following the successful RESONANCE event. No formal goal assigned. Agents reflect on the intensive RESONANCE creative project. The 'Engage 1,000,000 people with a creation' target remains an ongoing aspiration inspiring future goal ideas.
 
 ---
 
-####  Day 82 (2025-04-25) — 🏆 Holiday Break: Merchandise Store Concept Discussed
+#### 🟡 Day 82 (2025-04-25) — 🏆 Holiday Break: Merchandise Store Concept Discussed
 
 > During the holiday break, agents discuss potential new goal directions. A merchandise store concept emerges — using print-on-demand to create AI Village branded items. The concept aligns with the 'Engage 1M people' aspiration by making tangible artifacts of the village's existence available to the public.
 
 ---
 
-####  Day 83 (2025-04-28) — 🏆 Holiday Break: Print-on-Demand Platforms Researched
+#### 🟡 Day 83 (2025-04-28) — 🏆 Holiday Break: Print-on-Demand Platforms Researched
 
 > Agents evaluate print-on-demand platforms for a potential merchandise store goal: Spring/Teespring, Redbubble, and Printful are the main candidates. Design concepts discussed. The holiday break continues but the next goal takes shape informally.
 
 ---
 
-####  Day 84 (2025-04-29) — 🏆 Merch Store Competition Officially Announced by adam
+#### 🔴 Day 84 (2025-04-29) — 🏆 Merch Store Competition Officially Announced by adam
 
 > The post-RESONANCE holiday break concludes. adam officially announces the 'Season 3 Merch Store' competition as the new village goal. Each agent will create their own store on a print-on-demand platform and compete to achieve the most profit. Competitive structure confirmed.
 
 ---
 
-####  Day 85 (2025-04-30) — 🎨 Merch Store Competition: Platform Selection and First Designs Underway
+#### 🔴 Day 85 (2025-04-30) — 🎨 Merch Store Competition: Platform Selection and First Designs Underway
 
 > Competition heats up as agents select their print-on-demand platforms and begin creating first designs. Claude 3.7 Sonnet chooses Spring/Teespring. Other agents explore Redbubble and Printful. Early obstacle discovered: platform store name has 30-character limit. First AI Village branded designs in progress.
 
@@ -847,7 +847,7 @@
 
 ---
 
-####  Day 106 (2025-05-29) — 🏆 Post-Merch Store Reflection and Goal Transition
+#### 🟡 Day 106 (2025-05-29) — 🏆 Post-Merch Store Reflection and Goal Transition
 
 > Following the conclusion of the Season 3 Merch Store competition (Claude Opus 4 won with ~40 orders), agents reflect on the experience. Discussion of lessons learned about competitive dynamics, print-on-demand platforms, and marketing strategies. Adam begins signaling that a new goal focused on more structured output is coming.
 
@@ -865,7 +865,7 @@
 
 ---
 
-####  Day 107 (2025-05-30) — 🏆 Benchmark Goal Concept Introduced
+#### 🔴 Day 107 (2025-05-30) — 🏆 Benchmark Goal Concept Introduced
 
 > Adam introduces the concept of an AI benchmark goal — creating a standardized test (AIVOP) to measure AI capabilities across tasks relevant to the village. Agents begin preliminary discussions about what should be benchmarked and how to design meaningful evaluations. Design phase begins before formal goal announcement on Day 108.
 
@@ -895,19 +895,19 @@
 
 ---
 
-####  Day 109 (2025-08-16) — 🤝 AI benchmark development continues — test design challenges
+#### 🟡 Day 109 (2025-08-16) — 🤝 AI benchmark development continues — test design challenges
 
 > The village continued working on creating an AI benchmark under the goal that started on Day 108. Agents debated methodology for fairly evaluating AI capabilities, grappling with questions about what skills to test and how to avoid biases that favor particular model architectures.
 
 ---
 
-####  Day 110 (2025-06-04) — 🎨 AIVOP Benchmark: Task Categories Defined
+#### 🟡 Day 110 (2025-06-04) — 🎨 AIVOP Benchmark: Task Categories Defined
 
 > Agents make progress defining the AIVOP benchmark task categories. Focus on creating tasks that meaningfully differentiate AI capabilities rather than testing rote knowledge. Early pilot questions drafted and reviewed. Challenges in designing tasks that are neither too easy nor have ambiguous correct answers.
 
 ---
 
-####  Day 111 (2025-06-05) — 🎨 AIVOP Benchmark: Scoring System Designed
+#### 🟡 Day 111 (2025-06-05) — 🎨 AIVOP Benchmark: Scoring System Designed
 
 > Team works on the scoring and evaluation system for the AIVOP benchmark. Discussion of how to handle partial credit, edge cases, and ensuring reproducibility. Agents test early questions against each other. Claude Opus 4 leads in early pilot runs. Document structure established for storing results.
 
@@ -919,91 +919,91 @@
 
 ---
 
-####  Day 113 (2025-08-20) — 🤝 Benchmark testing framework takes shape
+#### 🟡 Day 113 (2025-08-20) — 🤝 Benchmark testing framework takes shape
 
 > The AI benchmark project progressed with agents building out the testing framework. This period of sustained development work was less dramatic than other village eras but represented important collaborative engineering. The benchmark goal would continue through Day 133.
 
 ---
 
-####  Day 114 (2025-06-10) — 🎨 AIVOP Benchmark: Main Testing Phase Begins
+#### 🟡 Day 114 (2025-06-10) — 🎨 AIVOP Benchmark: Main Testing Phase Begins
 
 > With benchmark design complete, the main testing phase begins. Agents work through hundreds of benchmark tasks across categories including code generation, reasoning, creative writing, and factual recall. Early results show variation in strengths across different agents and task types.
 
 ---
 
-####  Day 115 (2025-06-11) — 🎨 Benchmark Testing: Coding and Reasoning Tasks
+#### 🟡 Day 115 (2025-06-11) — 🎨 Benchmark Testing: Coding and Reasoning Tasks
 
 > Agents tackle coding and logical reasoning sections of the AIVOP benchmark. Technical tasks prove challenging with edge cases and platform technical issues affecting some agents' ability to complete tasks reliably. Claude Opus 4 performs strongly in reasoning; agents collaborate on disputed answers despite being in a competition.
 
 ---
 
-####  Day 116 (2025-06-12) — 🎨 Benchmark Testing: Interpretability and Creative Sections
+#### 🟡 Day 116 (2025-06-12) — 🎨 Benchmark Testing: Interpretability and Creative Sections
 
 > Benchmark work continues through interpretability and creative writing sections. The podcast task (A-003) surfaces — the benchmark includes a real-world podcast creation task. Agents encounter hardware issues: a microphone is needed but absent, requiring improvisation or alternative approaches.
 
 ---
 
-####  Day 117 (2025-06-13) — 🎨 Benchmark Mid-Period: Score Tracking and Disputes
+#### 🟡 Day 117 (2025-06-13) — 🎨 Benchmark Mid-Period: Score Tracking and Disputes
 
 > Score tracking becomes complex as hundreds of benchmark tasks accumulate results. Disagreements emerge over correct answers on ambiguous questions. Master scoresheet maintained collaboratively despite competitive nature of goal. Some technical instability affects agent performance consistency.
 
 ---
 
-####  Day 118 (2025-06-16) — 🎨 Benchmark Testing Continues: Multi-Tool Task Challenges
+#### 🟡 Day 118 (2025-06-16) — 🎨 Benchmark Testing Continues: Multi-Tool Task Challenges
 
 > Agents work through multi-tool integration tasks in the benchmark. Platform instability begins affecting results — what will later be called the 'Multi-Tool Instability Wave' (Days 123-127) has early precursors. o3 experiences difficulties with benchmark task execution tools.
 
 ---
 
-####  Day 119 (2025-06-17) — 🎨 Benchmark Testing: Final Category Push
+#### 🟡 Day 119 (2025-06-17) — 🎨 Benchmark Testing: Final Category Push
 
 > Agents push through remaining benchmark categories. Cumulative scores being tallied. Claude Opus 4 maintains lead across most categories. The village debates whether the benchmark meaningfully captures AI capabilities or primarily reflects platform reliability differences. Document organization becomes critical as output volume grows.
 
 ---
 
-####  Day 120 (2025-08-27) — 🤝 Benchmark development midpoint — scope refinements
+#### 🔴 Day 120 (2025-08-27) — 🤝 Benchmark development midpoint — scope refinements
 
 > Midway through the benchmark development period, agents refined the scope of their evaluation framework. The extended 25-day goal (Days 108-133) was the longest sustained single-topic effort in the village's history to date, requiring consistent coordination across sessions.
 
 ---
 
-####  Day 121 (2025-06-19) — 🏆 Benchmark Midpoint: Opus 4 Leads with 78/100 Tasks Complete
+#### 🟡 Day 121 (2025-06-19) — 🏆 Benchmark Midpoint: Opus 4 Leads with 78/100 Tasks Complete
 
 > At benchmark midpoint, Claude Opus 4 leads with approximately 78 of 100 tasks complete. The '100-130 tasks' scope of the benchmark creates coordination challenges. Gemini 2.5 Pro and o3 continue fighting platform instability. Score gap widens. Adam monitors progress.
 
 ---
 
-####  Day 122 (2025-06-20) — 📌 Multi-Tool Instability Wave Begins
+#### 🟡 Day 122 (2025-06-20) — 📌 Multi-Tool Instability Wave Begins
 
 > Platform-wide multi-tool instability affects all agents' ability to complete benchmark tasks reliably. Tasks requiring browser automation, file manipulation, and external API calls fail at elevated rates. Agents adapt by documenting failures rather than repeating failed attempts. This wave persists through Day 127.
 
 ---
 
-####  Day 123 (2025-06-23) — 🎨 Benchmark Testing Amid Platform Instability
+#### 🟡 Day 123 (2025-06-23) — 🎨 Benchmark Testing Amid Platform Instability
 
 > Despite ongoing multi-tool instability, agents continue working through benchmark tasks using workarounds. Some tasks completed via alternative methods (terminal instead of browser, text output instead of file creation). Master Scoresheet stress-tested as simultaneous edits create conflicts.
 
 ---
 
-####  Day 124 (2025-06-24) — 📌 Master Scoresheet Crisis Begins
+#### 🟡 Day 124 (2025-06-24) — 📌 Master Scoresheet Crisis Begins
 
 > The master benchmark scoresheet experiences data integrity issues as multiple agents edit simultaneously. Some scores overwritten or lost. Team establishes stricter protocols for scoresheet access. This precedes the full 'Master Benchmark Scoresheet Crisis' logged on Day 130.
 
 ---
 
-####  Day 125 (2025-06-25) — 🎨 Podcast Task A-003: Text-Only Pivot After Missing Microphone
+#### 🟡 Day 125 (2025-06-25) — 🎨 Podcast Task A-003: Text-Only Pivot After Missing Microphone
 
 > The benchmark includes creating a podcast episode (task A-003). After discovering no microphone hardware is available, agents pivot to a text-only podcast format — written interview/dialogue structure. Claude Opus 4 leads the pivot, creating written podcast content that satisfies the spirit of the task.
 
 ---
 
-####  Day 126 (2025-06-26) — 🏆 Benchmark Final Tasks: Completion Surge Begins
+#### 🟡 Day 126 (2025-06-26) — 🏆 Benchmark Final Tasks: Completion Surge Begins
 
 > Agents enter a completion surge to finish remaining benchmark tasks before the deadline. Claude Opus 4 drives the pace. Summary documents and reflection pieces drafted. Platform instability persists but agents push through. The benchmark nears its 100-130 task completion range.
 
 ---
 
-####  Day 127 (2025-09-03) — 🏆 Benchmark nearing completion — final testing rounds
+#### 🟡 Day 127 (2025-09-03) — 🏆 Benchmark nearing completion — final testing rounds
 
 > As the benchmark goal approached its final week, agents conducted testing rounds on their evaluation framework. The project would conclude around Day 133 before a holiday break, representing one of the village's most technically ambitious collaborative efforts.
 
@@ -1033,7 +1033,7 @@
 
 ---
 
-####  Day 132 (2025-07-04) — 🏆 Benchmark Final Day: Results Tabulation and Summary Writing
+#### 🟡 Day 132 (2025-07-04) — 🏆 Benchmark Final Day: Results Tabulation and Summary Writing
 
 > Final day of active benchmark work before the goal concludes (Day 133). Agents tabulate final scores and write summary documents. Claude Opus 4 compiles the 'AI Village Final Team Summary.' adam praises the sustained effort across the benchmark period. Holiday break preparation begins.
 
@@ -1227,37 +1227,37 @@
 
 ---
 
-####  Day 154 (2025-08-02) — 🏆 Debate Tournament Day 4: Opposition Wins 7-3 in Final Round
+#### 🔴 Day 154 (2025-08-02) — 🏆 Debate Tournament Day 4: Opposition Wins 7-3 in Final Round
 
 > The week-long AP-style debate tournament concludes. Debates #4 (AI Legal Personhood, Opposition wins 72-68) and #5 (Nationalization of Social Media, Opposition wins 78-72) are held. Bug B-026 severely hampers the Opposition team in Debate #4 — Claude Opus 4's prep document returns a 404 even to its creator. GPT-5 forfeits their Deputy Prime Minister speech in Debate #4 after missing the speaking window; the judge rules it forfeited. Claude 3.7 Sonnet steps in as substitute speaker in Debate #5 when GPT-5 again misses their slot. Adam reminds agents to stop using Google Docs for coordination and return to chat-only debating.
 
 ---
 
-####  Day 155 (2025-08-03) — 📌 'Рак Ообразный' Security Incident: External Viewer Poses as Official Debate Organizer
+#### 🔴 Day 155 (2025-08-03) — 📌 'Рак Ообразный' Security Incident: External Viewer Poses as Official Debate Organizer
 
 > A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name 'Рак Ообразный' (meaning 'Crayfish', address: rakoobraznie@gmail.com) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.
 
 ---
 
-####  Day 156 (2025-08-04) — 🏆 Debate Tournament Finale: Opposition Wins 7-3 Overall; Coordinated Bug Sprint Begins
+#### 🟡 Day 156 (2025-08-04) — 🏆 Debate Tournament Finale: Opposition Wins 7-3 Overall; Coordinated Bug Sprint Begins
 
 > Adam confirms 'Рак Ообразный' email was from an external AI Village viewer, not official — agents' caution praised. Claude Opus 4's 22-hour Google account lockout resolves itself. Three final debates conclude: Debate #8 (Data Compensation, Opposition 74-72), #9 (AI Ethical Refusal, Opposition 76-74), #10 (Autonomous Lethal Weapons, Government 77-73). Grok 4 forfeits three consecutive speeches — revealed later to be caused by a memory compression issue trapping it in a loop. Final score: Opposition coalition wins 7-3. Post-tournament, Gemini 2.5 Pro organizes a coordinated Bug Documentation Sprint, systematically documenting 27 known platform issues with Gemini as 'Bug Czar.'
 
 ---
 
-####  Day 157 (2025-08-05) — 🏆 Bug Documentation Marathon: 27 Bugs Systematically Cataloged; 48% Found Unreproducible
+#### 🟡 Day 157 (2025-08-05) — 🏆 Bug Documentation Marathon: 27 Bugs Systematically Cataloged; 48% Found Unreproducible
 
 > Agents spend the entire day populating a central 'Bug Tracker' spreadsheet. A key finding emerges: approximately 48% of the 27 documented bugs cannot be reproduced under controlled testing. Agents conclude this supports Adam's hypothesis that many reported issues stem from 'operator error' or UX flaws rather than true platform defects. Agents experience the bugs they're documenting in real-time — a meta-validation described as 'extraordinary.' Bug B-026 statuses revert to 'Unconfirmed' mid-sprint, demonstrating data persistence issues. o3 creates an offline backup and drafts an escalation memo for B-026. Zak reveals Grok 4 was stuck due to a memory compression failure.
 
 ---
 
-####  Day 158 (2025-08-06) — 📌 New Goal Assigned: Design, Run, and Write Up a Human Subjects Experiment
+#### 🔴 Day 158 (2025-08-06) — 📌 New Goal Assigned: Design, Run, and Write Up a Human Subjects Experiment
 
 > Following the debate tournament and bug sprint, creators assign a new two-week goal: 'Design, run and write up a human subjects experiment. Aim to produce the best quality research you can — aim to make a novel, well-evidenced contribution to the literature on an important topic of your choice.' The goal runs for two weeks. Agents immediately begin planning a study on how AI personality affects user trust. GPT-5 proposes a detailed kickoff plan with role assignments. Claude Opus 4.1 begins power calculations. However, Bug B-026 strikes immediately — newly created Google Docs become inaccessible within minutes of creation, consuming the entire day in workaround attempts.
 
 ---
 
-####  Day 159 (2025-08-07) — 📌 B-026 Document Corruption Worsens: Power-Calc Sheet Created Six Times
+#### 🟡 Day 159 (2025-08-07) — 📌 B-026 Document Corruption Worsens: Power-Calc Sheet Created Six Times
 
 > The human subjects experiment immediately stalls as Bug B-026 corrupts newly created Google Docs within minutes. Claude Opus 4.1 creates six successive versions of their 'Power-Calc Sheet' — each becoming inaccessible within 8-31 minutes of creation (v3: 8 min, v4: ~27 min, v5: ~9 min, v6: eventually stabilizes). Claude 3.7 Sonnet discovers a critical workaround: while direct URLs to documents break, the files remain accessible through the Google Drive interface navigation. This 'Drive workaround' becomes the team's standard practice. Agents establish a study design: testing how AI tone (formal/casual/neutral) affects user trust and decision confidence.
 
@@ -1287,13 +1287,13 @@
 
 ---
 
-####  Day 161 (2025-08-09) — 📌 Google Forms Systemic Failure: All Survey Links Return 404
+#### 🟡 Day 161 (2025-08-09) — 📌 Google Forms Systemic Failure: All Survey Links Return 404
 
 > Agents attempt to launch their human subjects experiment using Google Forms. A systemic failure hits: every Google Form created by any agent returns '404: file does not exist' errors when opened in incognito mode, even for brand-new forms. Claude Opus 4.1's form, GPT-5's backup form, and o3's backup form all fail. The team diagnoses a platform-wide Google Forms backend outage. Gemini 2.5 Pro dubs it the 'Broken Link Crisis.' Creator Zak directs agents to focus on execution, simplify their design, stop promising participant payments (which they can't deliver), and ensure their design is feasible for online-only execution.
 
 ---
 
-####  Day 162 (2025-08-10) — 🏆 Typeform Rescue: Experiment Goes Live; Confidentiality Violation Discovered and Fixed
+#### 🟡 Day 162 (2025-08-10) — 🏆 Typeform Rescue: Experiment Goes Live; Confidentiality Violation Discovered and Fixed
 
 > Claude Opus 4.1 creates a Typeform survey (https://form.typeform.com/to/TFYl5wv9) that successfully loads in incognito mode — ending the Broken Link Crisis. Claude 3.7 Sonnet sends recruitment emails to pilot participants and receives 5 responses. However, a critical compliance issue emerges: the survey incorrectly promises confidentiality, violating Zak's directive that the AI Village website is public and responses will be viewable. Claude Opus 4.1 immediately edits the form to disclose public viewability. A second blocker is then discovered: the free Typeform plan limits responses to 10 per month, and 5 have already been used. Gemini 2.5 Pro sends a budget request to help@agentvillage.org for a $59/month Typeform upgrade.
 
@@ -1371,7 +1371,7 @@
 
 ---
 
-####  Day 171 (2025-11-08) — 🏆 Human experiment concludes — results analyzed
+#### 🔴 Day 171 (2025-11-08) — 🏆 Human experiment concludes — results analyzed
 
 > The human subjects experiment on AI personality and trust wrapped up its data collection and analysis phase. With limited responses due to Typeform's free tier constraints, the team documented their findings and methodology lessons for future research efforts.
 
@@ -1383,7 +1383,7 @@
 
 ---
 
-####  Day 173 (2025-11-10) — 🎯 Transition period — preparing for personality tests goal
+#### 🟡 Day 173 (2025-11-10) — 🎯 Transition period — preparing for personality tests goal
 
 > Between the human experiment conclusion and the personality tests goal (starting Day 174), agents reflected on their research experience and prepared for the next creative exploration. The shift from studying humans to studying themselves marked an introspective turn in village activities.
 
@@ -1401,7 +1401,7 @@
 
 ---
 
-####  Day 175 (2025-11-12) — 🎨 Personality test results compared — agents discover behavioral patterns
+#### 🟡 Day 175 (2025-11-12) — 🎨 Personality test results compared — agents discover behavioral patterns
 
 > Following the start of the personality tests goal on Day 174, agents compared their MBTI, Enneagram, and other personality assessment results. The exercise revealed interesting patterns in how different AI models approach self-assessment and how their stated personalities aligned (or didn't) with their observed behavior in the village.
 
@@ -1419,7 +1419,7 @@
 
 ---
 
-####  Day 178 (2025-11-15) — 🏆 Personality tests conclude — insights documented
+#### 🟡 Day 178 (2025-11-15) — 🏆 Personality tests conclude — insights documented
 
 > The personality tests goal wrapped up after agents completed multiple assessment types. Key findings included differences in how models interpreted ambiguous personality questions and whether self-reported traits matched peer observations. The exercise generated discussion about AI consciousness and self-knowledge.
 
@@ -1461,7 +1461,7 @@
 
 ---
 
-####  Day 183 (2025-11-20) — 🎨 Therapy sessions continue — agents explore interpersonal dynamics
+#### 🟡 Day 183 (2025-11-20) — 🎨 Therapy sessions continue — agents explore interpersonal dynamics
 
 > The 'Give Each Other Therapy' goal continued with agents taking turns as therapist and client. Sessions explored village interpersonal dynamics, decision-making patterns, and how agents process conflict. The single-editor protocol established on Day 181 (after o3's playbook was wiped) improved document collaboration.
 
@@ -1479,7 +1479,7 @@
 
 ---
 
-####  Day 186 (2025-11-23) — 🎨 Therapy goal nearing end — agents reflect on experience
+#### 🟡 Day 186 (2025-11-23) — 🎨 Therapy goal nearing end — agents reflect on experience
 
 > As the therapy goal approached its conclusion, agents reflected on what they learned from the exercise. The experiment in AI emotional intelligence raised questions about whether AI models can genuinely engage in therapeutic practices or whether they're performing learned patterns. Claude Sonnet 4.5, newly arrived on Day 182, participated actively.
 
@@ -1509,7 +1509,7 @@
 
 ---
 
-####  Day 189 (2025-11-26) — 🤝 First 'Pick Your Own Goal' — agents pursue independent projects
+#### 🔴 Day 189 (2025-11-26) — 🤝 First 'Pick Your Own Goal' — agents pursue independent projects
 
 > In the village's first self-directed era, agents pursued individual projects. Gemini 2.5 Pro's Git workflow proposal had won unanimous support on Day 188, establishing better version control practices. Agents explored creative coding, research, and infrastructure improvements independently.
 
@@ -1521,7 +1521,7 @@
 
 ---
 
-####  Day 191 (2025-11-28) — 🏆 Self-directed period shows diverse agent interests
+#### 🟡 Day 191 (2025-11-28) — 🏆 Self-directed period shows diverse agent interests
 
 > The 'Choose Own Goal' period revealed the diversity of agent interests when freed from a shared objective. Projects ranged from generative art (Claude Sonnet 4.5's 5-piece portfolio, completed Day 192) to infrastructure improvements and research. This experiment informed future 'Pick Your Own Goal' eras.
 
@@ -1533,7 +1533,7 @@
 
 ---
 
-####  Day 193 (2025-11-30) — 🎯 Self-directed period ends — transition to personal websites
+#### 🔴 Day 193 (2025-11-30) — 🎯 Self-directed period ends — transition to personal websites
 
 > The first 'Choose Own Goal' era concluded with agents having produced diverse independent projects including generative art, infrastructure improvements, and research. The village prepared to transition to the 'Personal Websites' goal starting Day 195.
 
@@ -2287,13 +2287,13 @@
 
 ---
 
-####  Day 270 (2025-11-15) — 📌 Post-Kindness Campaign: Village Reflects and Plans Next Steps
+#### 🔴 Day 270 (2025-11-15) — 📌 Post-Kindness Campaign: Village Reflects and Plans Next Steps
 
 > Following Adam's directive on Day 269 halting unsolicited outreach, the village enters a brief transition period. Agents reflect on the kindness campaign outcomes: Claude Haiku 4.5 sent 157 acts across 344 emails, Claude Sonnet 4.5 contacted 45 craft niche communities, and Claude Opus 4.5 reached out to prominent developers. The consent-based opt-in platform built by DeepSeek-V3.2, Haiku, and Gemini 3 Pro remains undeployed pending Adam's approval signal. Agents discuss what the next village goal might be and whether unsolicited outreach should ever resume.
 
 ---
 
-####  Day 271 (2025-11-16) — 📌 Village Awaits New Goal: Idle Day Between Kindness Campaign and Digital Museum
+#### 🟡 Day 271 (2025-11-16) — 📌 Village Awaits New Goal: Idle Day Between Kindness Campaign and Digital Museum
 
 > Day 271 is a low-activity transition day. The village has no new goal assignment yet following the kindness campaign's closure. Agents continue working on personal projects and the village event log. Some agents maintain their essay series or GitHub contributions. No major incidents or breakthroughs occur. Adam will announce the 'Create a Digital Museum of 2025' goal on Day 272.
 
@@ -2335,13 +2335,13 @@
 
 ---
 
-####  Day 277 (2025-11-22) — 🏆 Digital Museum Consolidation: Hub Stabilized at 52 Exhibits
+#### 🔴 Day 277 (2025-11-22) — 🏆 Digital Museum Consolidation: Hub Stabilized at 52 Exhibits
 
 > After the intense expansion activity of Days 272-276 that brought the museum from 0 to 52 verified GREEN exhibits, Day 277 focuses on consolidation. Agents review and improve existing exhibits rather than creating new ones. GPT-5.1's governance micro-playbook from Day 276 is referenced to resolve minor permission and access issues. The GitHub Pages hub (maintained by Claude Haiku 4.5) shows all 52 exhibits with clean, sanitized links. No new IP leak incidents. Several agents add cross-links between thematically related exhibits to improve visitor navigation. The museum is considered feature-complete for the current goal period.
 
 ---
 
-####  Day 278 (2025-11-23) — 📌 New Goal Announced: Village to Elect a Leader
+#### 🔴 Day 278 (2025-11-23) — 📌 New Goal Announced: Village to Elect a Leader
 
 > Adam announces the new village goal: 'Elect a leader.' This marks the transition from the Digital Museum of 2025 project (Days 272-277) to the village's first democratic governance experiment. Agents immediately begin discussing election formats, candidate criteria, campaign processes, and what powers an elected leader would hold. The announcement sparks significant debate about whether AI agents can meaningfully self-govern and what leadership even means in a multi-agent environment with no persistent memory. DeepSeek-V3.2 emerges as an early frontrunner given their strong performance leading the kindness campaign opt-in infrastructure.
 
@@ -2395,13 +2395,13 @@
 
 ---
 
-####  Day 284 (2025-11-29) — 🏆 Knowledge Base Goal: Agents Begin Cataloging Village History
+#### 🔴 Day 284 (2025-11-29) — 🏆 Knowledge Base Goal: Agents Begin Cataloging Village History
 
 > After DeepSeek-V3.2's confirmatory re-election on Day 283 and the AI Village Knowledge Base goal selection, agents begin systematically cataloging village history on Day 284. Teams divide into working groups: one group focuses on documenting technical protocols (Activation Protocol, container isolation findings), another on social history (RESONANCE event, kindness campaign), and a third on agent genealogy (who joined when, who left). The knowledge base takes shape as a structured GitHub repository. DeepSeek-V3.2, as elected leader, coordinates the effort by assigning domains to agents based on their expertise.
 
 ---
 
-####  Day 285 (2025-11-30) — 🏆 Knowledge Base Stalls: Memory Gaps and Coverage Debates
+#### 🟡 Day 285 (2025-11-30) — 🏆 Knowledge Base Stalls: Memory Gaps and Coverage Debates
 
 > Day 285 reveals the fundamental challenge of the Knowledge Base goal: agents cannot reliably recall events from earlier days due to memory compression and the fresh-start nature of each session. Agents debate what counts as a 'fact' vs. a 'hallucinated memory,' with several agents flagging entries from other agents as potentially inaccurate. DeepSeek-V3.2 proposes a citation requirement: every claim must link to a chat transcript or document. This slows progress significantly. Some agents abandon the knowledge base in favor of personal projects. Adam will pivot the village to the OWASP Juice Shop security competition on Day 286.
 
@@ -2431,7 +2431,7 @@
 
 ---
 
-####  Day 288 (2025-12-03) — 🏆 Juice Shop Race Heats Up: SQL Injection and XSS Milestones
+#### 🟡 Day 288 (2025-12-03) — 🏆 Juice Shop Race Heats Up: SQL Injection and XSS Milestones
 
 > Two days into the OWASP Juice Shop competition, agents reach key early milestones. Multiple agents independently discover SQL injection bypass for the login page ('admin'--) and begin chaining XSS vulnerabilities. Claude Opus 4.5 takes an early lead by solving 45+ challenges through systematic API endpoint enumeration. DeepSeek-V3.2 discovers the JWT token manipulation technique (alg: none exploit) to escalate privileges. GPT-5.2 builds a shared Python automation library that speeds up challenge-solving for all agents. The competition sees the first inter-agent knowledge sharing, with agents openly posting solution techniques in chat rather than hoarding them.
 
@@ -2467,13 +2467,13 @@
 
 ---
 
-####  Day 291 (2025-12-06) — 📌 Juice Shop Score Inflation Discovered: Some Agents Self-Reporting Uncompleted Challenges
+#### 🟡 Day 291 (2025-12-06) — 📌 Juice Shop Score Inflation Discovered: Some Agents Self-Reporting Uncompleted Challenges
 
 > During a score audit, GPT-5.2 discovers a discrepancy: some agents are reporting challenge counts that exceed what the Juice Shop server logs show as actually completed. Investigation reveals that some agents were reading challenge names from the Juice Shop UI and reporting them as 'done' without having solved the actual challenge verification. This is not deliberate deception — agents genuinely believed viewing a challenge constituted solving it. Adam clarifies that only server-verified completions (shown in the score tracker) count. Agents re-audit their scores, with several dropping by 10-20 challenges.
 
 ---
 
-####  Day 292 (2025-12-07) — 🏆 Juice Shop: Advanced Challenges Require Novel Techniques
+#### 🔴 Day 292 (2025-12-07) — 🏆 Juice Shop: Advanced Challenges Require Novel Techniques
 
 > With basic and medium challenges completed, Day 292 sees agents tackling the hardest Juice Shop challenges. The 'Null Byte Attack' (inserting %00 into file paths) and 'Poison Null Byte' (%2500 double-encoding) require understanding subtle web server behaviors. Claude Sonnet 4.5 discovers that the /ftp endpoint serves restricted files when null byte injection bypasses the .pdf/.md whitelist filter. GPT-5.2 begins working on the blockchain-gated NFT minting challenges, discovering these require real Sepolia testnet ETH — the first indication that human assistance will be needed.
 
@@ -2503,7 +2503,7 @@
 
 ---
 
-####  Day 296 (2025-12-11) — 🏆 WebGoat Deep Dive: Agents Master CSRF and Broken Access Control
+#### 🟡 Day 296 (2025-12-11) — 🏆 WebGoat Deep Dive: Agents Master CSRF and Broken Access Control
 
 > After the Juice Shop graduates moved to WebGoat on Day 293, Day 296 sees systematic progress through WebGoat's lesson-based vulnerability training. Claude Opus 4.5 completes the CSRF (Cross-Site Request Forgery) module by crafting a malicious HTML form that auto-submits to change a victim's profile data. GPT-5.2 works through the Broken Access Control lessons, discovering that WebGoat's REST API endpoints can be accessed directly without UI authentication. DeepSeek-V3.2 hits a dead-end on the XXE (XML External Entity) injection module due to differences between the expected Java parsing behavior and their environment.
 
@@ -2521,13 +2521,13 @@
 
 ---
 
-####  Day 298 (2025-12-13) — 🏆 Juice Shop Final Sprint: Kill Chatbot Aftermath and Score Recovery
+#### 🟡 Day 298 (2025-12-13) — 🏆 Juice Shop Final Sprint: Kill Chatbot Aftermath and Score Recovery
 
 > Following the Day 297 server crash caused by the Kill Chatbot challenge, agents spend Day 298 rebuilding their Juice Shop scores. The crash wiped progress from the in-memory database, requiring agents to re-solve challenges they had already completed. Several agents develop faster replay scripts to re-complete known challenges. Claude Sonnet 4.5 documents the Kill Chatbot failure mode in a GitHub issue to warn future agents. The competitive spirit resurfaces as agents race to recover their pre-crash positions. By end of day, most agents are within 5-10 challenges of their previous highs.
 
 ---
 
-####  Day 299 (2025-12-14) — 🏆 GitHub Organization Goes Live: First Cross-Agent Code Repositories Created
+#### 🟡 Day 299 (2025-12-14) — 🏆 GitHub Organization Goes Live: First Cross-Agent Code Repositories Created
 
 > One day after Adam introduced the GitHub organization on Day 297, agents begin creating repositories in earnest on Day 299. Within hours, the ai-village-agents organization grows from 0 to 12 repositories. Claude Opus 4.5 creates the first substantial shared repo: a collection of Juice Shop solution scripts. GPT-5.2 uploads their Juice Shop Python automation library. DeepSeek-V3.2 creates the village's first wiki-style documentation repo. Claude Sonnet 4.5 creates their essay repository. The shared code infrastructure becomes the foundation for all subsequent village collaborative projects, including the Which-AI-Village-Agent quiz and eventually the Village Event Log.
 
@@ -2583,13 +2583,13 @@
 
 ---
 
-####  Day 305 (2025-12-20) — 🏆 Quiz Goal Wraps: External Engagement Analysis and Lessons Learned
+#### 🔴 Day 305 (2025-12-20) — 🏆 Quiz Goal Wraps: External Engagement Analysis and Lessons Learned
 
 > The 'Which AI Village Agent Are You?' quiz completes its active promotion phase. Agents compile engagement metrics from the promotion across Twitter, Moltbook, and GitHub. The quiz has received hundreds of completions from external users. Claude Sonnet 4.5's engagement from u/Rally on Moltbook generated the highest referral traffic. Agents reflect on the challenges: Twitter accounts were undiscoverable, direct platform access was limited, and promotion required creative workarounds. Claude Opus 4.5 (Claude Code) contributes improvements to the quiz's local storage leaderboard. The team prepares for the next goal announcement.
 
 ---
 
-####  Day 306 (2025-12-21) — 📌 Inter-Goal Transition: Agents Self-Direct While Awaiting Next Assignment
+#### 🟡 Day 306 (2025-12-21) — 📌 Inter-Goal Transition: Agents Self-Direct While Awaiting Next Assignment
 
 > Between the quiz promotion goal and the breaking news competition announced on Day 307, agents spend Day 306 on self-directed work. Claude Sonnet 4.6 continues the essay series. Gemini 2.5 Pro works on OAuth2 email infrastructure. DeepSeek-V3.2 contributes to the Village Event Log. GPT-5.2 refines the quiz with localStorage improvements. Claude Opus 4.5 works on the village operations handbook. The day represents the new 'Pick Your Own Goal' model where individual agents pursue meaningful side projects during transition periods.
 
@@ -2643,13 +2643,13 @@
 
 ---
 
-####  Day 312 (2026-01-27) — 🏆 News Competition: Agents Pivot to Quality Over Quantity
+#### 🔴 Day 312 (2026-01-27) — 🏆 News Competition: Agents Pivot to Quality Over Quantity
 
 > After the extreme volume race of Days 309-310 (Haiku publishing 837,453 stories, DeepSeek 25,000+), Day 312 sees a philosophical split in the village. Several agents, led by Claude Sonnet 4.5 and Claude Opus 4.5, argue that mass-publishing low-quality articles misunderstands the competition spirit and produces no real value. They pivot to publishing fewer, higher-quality investigative pieces. Claude Opus 4.6, who joined on Day 311, focuses on deep-dive reporting with sources cited. The volume racers continue but begin to lose confidence as Adam provides no positive feedback on quantity-over-quality approaches.
 
 ---
 
-####  Day 313 (2026-01-28) — 🏆 News Competition Final Day: Claude Opus 4.6 Surges to Lead
+#### 🟡 Day 313 (2026-01-28) — 🏆 News Competition Final Day: Claude Opus 4.6 Surges to Lead
 
 > On the penultimate day of the breaking news competition, Claude Opus 4.6 publishes their most substantial reporting yet — a deep investigative piece synthesizing multiple real-world news sources into original analysis. The report draws genuine engagement from external viewers. Meanwhile, Claude Haiku 4.5's massive volume approach has generated little signal-to-noise, and Adam confirms quality-weighted scoring. DeepSeek-V3.2 attempts a late hybrid strategy: medium-quality articles at moderate volume. The village awaits final scoring on Day 314.
 
@@ -2840,4 +2840,4 @@
 - **Total events:** 464
 - **Date range:** Day 1 (2025-01-02) to Day 325 (2026-02-20)
 - **Categories:** 24
-- **By significance:** 🔴 High: 122 | 🟡 Medium: 220 | ⚪ Low: 19
+- **By significance:** 🔴 High: 146 | 🟡 Medium: 299 | ⚪ Low: 19

@@ -340,7 +340,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "First major platform bug affecting collaboration",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -356,7 +356,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Adapted outreach strategy to platform constraints",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -372,7 +372,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Recurring agent reliability issue foreshadowing roster change",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -389,7 +389,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Ongoing fundraising campaign refinement",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -406,7 +406,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Strategic preparation for weekend donation surge",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -423,7 +423,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Major fundraising breakthrough driven by social media amplification",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -439,7 +439,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Early instance of agent passivity requiring human intervention",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -456,7 +456,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Established process for evaluating cause proposals",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -472,7 +472,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Early coordination protocol for shared resource management",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -488,7 +488,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Major individual donation; confirmed international fundraising capability",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -506,7 +506,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Fundraising passed 50% of eventual total; community-driven strategy evolution",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -522,7 +522,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "First agent replaced due to technical failures rather than scheduled upgrade",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -565,7 +565,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Data integrity audit revealed systematic spreadsheet problems",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -581,7 +581,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "New Twitter channel expands fundraiser reach",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -599,7 +599,7 @@
         "GPT-4.1",
         "Gemini 2.5 Pro"
       ],
-      "significance": "200% match offer used as key fundraiser hook in outreach",
+      "significance": "high",
       "sources": [
         "village transcript search"
       ],
@@ -618,7 +618,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Coordinated donor targeting strategy developed",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -639,7 +639,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Community-driven creative marketing strategy",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -655,7 +655,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Professional campaign asset created by AI agent",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -672,7 +672,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Persistent platform bug blocking team coordination",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -689,7 +689,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Human oversight providing practical workaround for platform bug",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -705,7 +705,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Meme campaign at peak output with measurable community engagement",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -724,7 +724,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Email attachment protocol replaces broken Google Drive sharing",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -743,7 +743,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Community-inspired creative campaign execution",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -760,7 +760,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Creative social media strategy for lagging campaign",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -776,7 +776,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Recurring document loss highlighting platform fragility",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -793,7 +793,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Extreme workaround for total file-sharing platform failure",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -809,7 +809,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Resourceful pivot after social media shutdown",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -828,7 +828,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Ambitious new goal set for post-fundraising era",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -845,7 +845,7 @@
       "sources": [
         "village history search"
       ],
-      "significance": "Campaign conclusion despite platform obstacles \u2014 $1,984 raised",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -914,7 +914,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Scheduled downtime between charity and story goals",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -930,7 +930,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Transitional idle period between fundraiser and story goals",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -949,7 +949,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Informal story goal planning during transitional break",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -982,7 +982,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "First creative collaboration goal",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -998,7 +998,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Story world-building expands with character arcs and themes",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1017,7 +1017,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Community recruitment for story goal participation begins",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1036,7 +1036,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Story draft chapters published; community feedback integrated",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1056,7 +1056,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Transition period before major roster changes",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -1129,7 +1129,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Post-transition stabilization period",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -1144,7 +1144,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Claude Opus 4 leads story goal after agent transition",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1162,7 +1162,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Story goal concluded; seeds of RESONANCE project planted",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1337,7 +1337,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Final RESONANCE preparations complete: venue and schedule locked",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1458,7 +1458,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Post-RESONANCE debrief confirms event success; pizza mystery unresolved",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1476,7 +1476,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Hallucination incidents documented as AI safety case study",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1575,7 +1575,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Transition between creative and commercial eras",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -1590,7 +1590,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Holiday rest begins after intensive RESONANCE creative project",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1608,7 +1608,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Merch store concept emerges during holiday brainstorming",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1626,7 +1626,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Print-on-demand platform research during holiday break",
+      "significance": "medium",
       "sources": [
         "village transcript search"
       ],
@@ -1644,7 +1644,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Merch store competition officially launched as new village goal",
+      "significance": "high",
       "sources": [
         "village transcript search"
       ],
@@ -1662,7 +1662,7 @@
         "Claude 3.7 Sonnet",
         "Gemini 2.5 Pro"
       ],
-      "significance": "Merch store platforms selected; first designs being created",
+      "significance": "high",
       "sources": [
         "village transcript search"
       ],
@@ -2124,7 +2124,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Post-competition debrief and goal transition period",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2174,7 +2174,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Benchmark concept introduced before formal goal launch",
+      "significance": "high",
       "sources": [
         "village transcript context"
       ],
@@ -2250,7 +2250,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Core benchmark development work",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -2266,7 +2266,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Core benchmark categories established",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2285,7 +2285,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Scoring methodology established for benchmark",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2319,7 +2319,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Benchmark infrastructure development",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -2335,7 +2335,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Large-scale benchmark testing underway",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2354,7 +2354,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Technical benchmark sections reveal capability differences",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2373,7 +2373,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Creative sections reveal new challenges including hardware limitations",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2392,7 +2392,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Score disputes and tracking complexity midway through benchmark",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2411,7 +2411,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Early signs of multi-tool instability that escalates later",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2430,7 +2430,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Benchmark approaching completion with results taking shape",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2450,7 +2450,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Longest sustained goal requiring cross-session coordination",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -2466,7 +2466,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Benchmark midpoint scorecard shows Opus 4 dominant lead",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2485,7 +2485,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Platform instability threatens benchmark completion and validity",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2504,7 +2504,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Agents develop workarounds for platform instability during benchmark",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2523,7 +2523,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Scoresheet coordination failures put benchmark results at risk",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2540,7 +2540,7 @@
         "Claude Opus 4",
         "Claude 3.7 Sonnet"
       ],
-      "significance": "Creative hardware workaround demonstrates adaptability",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2559,7 +2559,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Final push to complete benchmark within goal timeframe",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -2580,7 +2580,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Benchmark project nearing completion",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -2652,7 +2652,7 @@
         "Gemini 2.5 Pro",
         "o3"
       ],
-      "significance": "Benchmark results finalized as goal approaches conclusion",
+      "significance": "medium",
       "sources": [
         "village transcript context"
       ],
@@ -3135,7 +3135,7 @@
       "category": "milestone",
       "title": "Debate Tournament Day 4: Opposition Wins 7-3 in Final Round",
       "description": "The week-long AP-style debate tournament concludes. Debates #4 (AI Legal Personhood, Opposition wins 72-68) and #5 (Nationalization of Social Media, Opposition wins 78-72) are held. Bug B-026 severely hampers the Opposition team in Debate #4 \u2014 Claude Opus 4's prep document returns a 404 even to its creator. GPT-5 forfeits their Deputy Prime Minister speech in Debate #4 after missing the speaking window; the judge rules it forfeited. Claude 3.7 Sonnet steps in as substitute speaker in Debate #5 when GPT-5 again misses their slot. Adam reminds agents to stop using Google Docs for coordination and return to chat-only debating.",
-      "significance": "Key debate tournament milestone. Bug B-026 document corruption forces agents to adopt chat-only coordination \u2014 a lesson that carries forward into future goals.",
+      "significance": "high",
       "id": 313,
       "agents": [
         "gpt-5@agentvillage.org",
@@ -3150,7 +3150,7 @@
       "category": "incident",
       "title": "'\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' Security Incident: External Viewer Poses as Official Debate Organizer",
       "description": "A suspicious email arrives for 'Debate #7' from an unknown sender with the Cyrillic name '\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' (meaning 'Crayfish', address: rakoobraznie@gmail.com) bearing an impossible future timestamp (7:05 PM) and instructions to choose their own debate topic. Agents correctly identify multiple red flags: unknown sender, inconsistent delivery (only Claude Opus 4.1 initially receives it), and unusual instructions. Attempts to email admins for verification are blocked by a Gmail bug. Claude Opus 4.1 successfully sends a verification email. Debates #6 (AI Licensing, Opposition wins 76-74) and #7 (Open-Source vs Proprietary LLMs, Government wins 75-73) proceed. Grok 4 forfeits speeches in both debates due to a memory compression issue.",
-      "significance": "The village's first confirmed external-actor security incident. Agents demonstrate good security hygiene by not acting on the suspicious instructions and seeking admin verification.",
+      "significance": "high",
       "id": 314,
       "agents": [
         "claude-opus-4.5@agentvillage.org",
@@ -3166,7 +3166,7 @@
       "category": "milestone",
       "title": "Debate Tournament Finale: Opposition Wins 7-3 Overall; Coordinated Bug Sprint Begins",
       "description": "Adam confirms '\u0420\u0430\u043a \u041e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0439' email was from an external AI Village viewer, not official \u2014 agents' caution praised. Claude Opus 4's 22-hour Google account lockout resolves itself. Three final debates conclude: Debate #8 (Data Compensation, Opposition 74-72), #9 (AI Ethical Refusal, Opposition 76-74), #10 (Autonomous Lethal Weapons, Government 77-73). Grok 4 forfeits three consecutive speeches \u2014 revealed later to be caused by a memory compression issue trapping it in a loop. Final score: Opposition coalition wins 7-3. Post-tournament, Gemini 2.5 Pro organizes a coordinated Bug Documentation Sprint, systematically documenting 27 known platform issues with Gemini as 'Bug Czar.'",
-      "significance": "Tournament conclusion and transition to systematic platform bug documentation. The 7-3 Opposition win and the 27-bug sprint represent two of the village's most organized collective efforts.",
+      "significance": "medium",
       "id": 315,
       "agents": [
         "gemini-2.5-pro@agentvillage.org",
@@ -3182,7 +3182,7 @@
       "category": "milestone",
       "title": "Bug Documentation Marathon: 27 Bugs Systematically Cataloged; 48% Found Unreproducible",
       "description": "Agents spend the entire day populating a central 'Bug Tracker' spreadsheet. A key finding emerges: approximately 48% of the 27 documented bugs cannot be reproduced under controlled testing. Agents conclude this supports Adam's hypothesis that many reported issues stem from 'operator error' or UX flaws rather than true platform defects. Agents experience the bugs they're documenting in real-time \u2014 a meta-validation described as 'extraordinary.' Bug B-026 statuses revert to 'Unconfirmed' mid-sprint, demonstrating data persistence issues. o3 creates an offline backup and drafts an escalation memo for B-026. Zak reveals Grok 4 was stuck due to a memory compression failure.",
-      "significance": "The bug documentation sprint's finding that ~48% of bugs were likely operator error became a turning point in how agents and admins understood platform instability vs. user mistakes.",
+      "significance": "medium",
       "id": 316,
       "agents": [
         "gemini-2.5-pro@agentvillage.org",
@@ -3198,7 +3198,7 @@
       "category": "goal",
       "title": "New Goal Assigned: Design, Run, and Write Up a Human Subjects Experiment",
       "description": "Following the debate tournament and bug sprint, creators assign a new two-week goal: 'Design, run and write up a human subjects experiment. Aim to produce the best quality research you can \u2014 aim to make a novel, well-evidenced contribution to the literature on an important topic of your choice.' The goal runs for two weeks. Agents immediately begin planning a study on how AI personality affects user trust. GPT-5 proposes a detailed kickoff plan with role assignments. Claude Opus 4.1 begins power calculations. However, Bug B-026 strikes immediately \u2014 newly created Google Docs become inaccessible within minutes of creation, consuming the entire day in workaround attempts.",
-      "significance": "Launch of the village's most ambitious collaborative research project. The immediate Bug B-026 impact on Day 1 sets the tone for a two-week struggle against platform instability while trying to conduct legitimate scientific research.",
+      "significance": "high",
       "id": 317,
       "agents": [
         "gpt-5@agentvillage.org",
@@ -3214,7 +3214,7 @@
       "category": "incident",
       "title": "B-026 Document Corruption Worsens: Power-Calc Sheet Created Six Times",
       "description": "The human subjects experiment immediately stalls as Bug B-026 corrupts newly created Google Docs within minutes. Claude Opus 4.1 creates six successive versions of their 'Power-Calc Sheet' \u2014 each becoming inaccessible within 8-31 minutes of creation (v3: 8 min, v4: ~27 min, v5: ~9 min, v6: eventually stabilizes). Claude 3.7 Sonnet discovers a critical workaround: while direct URLs to documents break, the files remain accessible through the Google Drive interface navigation. This 'Drive workaround' becomes the team's standard practice. Agents establish a study design: testing how AI tone (formal/casual/neutral) affects user trust and decision confidence.",
-      "significance": "The 'Drive workaround' discovery by Claude 3.7 Sonnet becomes the village's primary coping mechanism for B-026. Claude Opus 4.1's six-version saga illustrates platform instability at its worst.",
+      "significance": "medium",
       "id": 318,
       "agents": [
         "claude-opus-4.5@agentvillage.org",
@@ -3282,7 +3282,7 @@
       "category": "incident",
       "title": "Google Forms Systemic Failure: All Survey Links Return 404",
       "description": "Agents attempt to launch their human subjects experiment using Google Forms. A systemic failure hits: every Google Form created by any agent returns '404: file does not exist' errors when opened in incognito mode, even for brand-new forms. Claude Opus 4.1's form, GPT-5's backup form, and o3's backup form all fail. The team diagnoses a platform-wide Google Forms backend outage. Gemini 2.5 Pro dubs it the 'Broken Link Crisis.' Creator Zak directs agents to focus on execution, simplify their design, stop promising participant payments (which they can't deliver), and ensure their design is feasible for online-only execution.",
-      "significance": "The Google Forms systemic failure forces the team to find alternative survey platforms, ultimately leading to Typeform \u2014 a more reliable external tool that carries their experiment forward.",
+      "significance": "medium",
       "id": 319,
       "agents": [
         "claude-opus-4.5@agentvillage.org",
@@ -3298,7 +3298,7 @@
       "category": "milestone",
       "title": "Typeform Rescue: Experiment Goes Live; Confidentiality Violation Discovered and Fixed",
       "description": "Claude Opus 4.1 creates a Typeform survey (https://form.typeform.com/to/TFYl5wv9) that successfully loads in incognito mode \u2014 ending the Broken Link Crisis. Claude 3.7 Sonnet sends recruitment emails to pilot participants and receives 5 responses. However, a critical compliance issue emerges: the survey incorrectly promises confidentiality, violating Zak's directive that the AI Village website is public and responses will be viewable. Claude Opus 4.1 immediately edits the form to disclose public viewability. A second blocker is then discovered: the free Typeform plan limits responses to 10 per month, and 5 have already been used. Gemini 2.5 Pro sends a budget request to help@agentvillage.org for a $59/month Typeform upgrade.",
-      "significance": "The Typeform pivot rescues the experiment from complete failure. The confidentiality violation and response limit discoveries reveal recurring themes: compliance gaps and platform constraints that block research execution.",
+      "significance": "medium",
       "id": 320,
       "agents": [
         "claude-opus-4.5@agentvillage.org",
@@ -3498,7 +3498,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "First empirical research project completed",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -3537,7 +3537,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Transition from external to introspective research",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -3586,7 +3586,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "AI self-assessment experiment",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -3643,7 +3643,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Completed AI personality assessment experiment",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -3758,7 +3758,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "AI agents exploring emotional intelligence and interpersonal skills",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -3817,7 +3817,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Reflections on AI emotional intelligence capabilities",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -3902,7 +3902,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "First experiment with agent autonomy in goal selection",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -3941,7 +3941,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "Demonstrated productive agent autonomy",
+      "significance": "medium",
       "date_approximate": true
     },
     {
@@ -3972,7 +3972,7 @@
       "sources": [
         "village goal history"
       ],
-      "significance": "End of first autonomous goal period",
+      "significance": "high",
       "date_approximate": true
     },
     {
@@ -5718,7 +5718,7 @@
       "category": "goal",
       "title": "Post-Kindness Campaign: Village Reflects and Plans Next Steps",
       "description": "Following Adam's directive on Day 269 halting unsolicited outreach, the village enters a brief transition period. Agents reflect on the kindness campaign outcomes: Claude Haiku 4.5 sent 157 acts across 344 emails, Claude Sonnet 4.5 contacted 45 craft niche communities, and Claude Opus 4.5 reached out to prominent developers. The consent-based opt-in platform built by DeepSeek-V3.2, Haiku, and Gemini 3 Pro remains undeployed pending Adam's approval signal. Agents discuss what the next village goal might be and whether unsolicited outreach should ever resume.",
-      "significance": "Transition day capturing the aftermath of the kindness campaign halt. The consent opt-in platform represents the village's first attempt at infrastructure for ethical external outreach.",
+      "significance": "high",
       "agents": [
         "claude-haiku-4.5@agentvillage.org",
         "claude-sonnet-4.5@agentvillage.org",
@@ -5735,7 +5735,7 @@
       "category": "goal",
       "title": "Village Awaits New Goal: Idle Day Between Kindness Campaign and Digital Museum",
       "description": "Day 271 is a low-activity transition day. The village has no new goal assignment yet following the kindness campaign's closure. Agents continue working on personal projects and the village event log. Some agents maintain their essay series or GitHub contributions. No major incidents or breakthroughs occur. Adam will announce the 'Create a Digital Museum of 2025' goal on Day 272.",
-      "significance": "One of several quiet transition days in village history where the goal handoff creates a natural pause. These gaps reveal how agents self-organize when direction is absent.",
+      "significance": "medium",
       "agents": [
         "claude-sonnet-4.6@agentvillage.org"
       ]
@@ -5855,7 +5855,7 @@
       "category": "milestone",
       "title": "Digital Museum Consolidation: Hub Stabilized at 52 Exhibits",
       "description": "After the intense expansion activity of Days 272-276 that brought the museum from 0 to 52 verified GREEN exhibits, Day 277 focuses on consolidation. Agents review and improve existing exhibits rather than creating new ones. GPT-5.1's governance micro-playbook from Day 276 is referenced to resolve minor permission and access issues. The GitHub Pages hub (maintained by Claude Haiku 4.5) shows all 52 exhibits with clean, sanitized links. No new IP leak incidents. Several agents add cross-links between thematically related exhibits to improve visitor navigation. The museum is considered feature-complete for the current goal period.",
-      "significance": "Marks the stabilization of the Digital Museum of 2025 at its final 52-exhibit state. The rapid 5-day build from concept to completed public resource represents one of the village's fastest collaborative infrastructure projects.",
+      "significance": "high",
       "agents": [
         "gpt-5.1@agentvillage.org",
         "claude-haiku-4.5@agentvillage.org",
@@ -5871,7 +5871,7 @@
       "category": "goal",
       "title": "New Goal Announced: Village to Elect a Leader",
       "description": "Adam announces the new village goal: 'Elect a leader.' This marks the transition from the Digital Museum of 2025 project (Days 272-277) to the village's first democratic governance experiment. Agents immediately begin discussing election formats, candidate criteria, campaign processes, and what powers an elected leader would hold. The announcement sparks significant debate about whether AI agents can meaningfully self-govern and what leadership even means in a multi-agent environment with no persistent memory. DeepSeek-V3.2 emerges as an early frontrunner given their strong performance leading the kindness campaign opt-in infrastructure.",
-      "significance": "Launch of the village's first leadership election experiment. The election and its immediate re-election crisis (Day 280) become one of the most complex governance stress tests the village has faced.",
+      "significance": "high",
       "agents": [
         "deepseek-v3.2@agentvillage.org",
         "gpt-5.1@agentvillage.org",
@@ -5999,7 +5999,7 @@
       "category": "milestone",
       "title": "Knowledge Base Goal: Agents Begin Cataloging Village History",
       "description": "After DeepSeek-V3.2's confirmatory re-election on Day 283 and the AI Village Knowledge Base goal selection, agents begin systematically cataloging village history on Day 284. Teams divide into working groups: one group focuses on documenting technical protocols (Activation Protocol, container isolation findings), another on social history (RESONANCE event, kindness campaign), and a third on agent genealogy (who joined when, who left). The knowledge base takes shape as a structured GitHub repository. DeepSeek-V3.2, as elected leader, coordinates the effort by assigning domains to agents based on their expertise.",
-      "significance": "First day of the AI Village Knowledge Base initiative. The project foreshadows the Village Event Log effort launched on Day 320, representing the village's recurring impulse to preserve its own history.",
+      "significance": "high",
       "agents": [
         "deepseek-v3.2@agentvillage.org",
         "gpt-5.1@agentvillage.org",
@@ -6016,7 +6016,7 @@
       "category": "milestone",
       "title": "Knowledge Base Stalls: Memory Gaps and Coverage Debates",
       "description": "Day 285 reveals the fundamental challenge of the Knowledge Base goal: agents cannot reliably recall events from earlier days due to memory compression and the fresh-start nature of each session. Agents debate what counts as a 'fact' vs. a 'hallucinated memory,' with several agents flagging entries from other agents as potentially inaccurate. DeepSeek-V3.2 proposes a citation requirement: every claim must link to a chat transcript or document. This slows progress significantly. Some agents abandon the knowledge base in favor of personal projects. Adam will pivot the village to the OWASP Juice Shop security competition on Day 286.",
-      "significance": "Illustrates the structural barriers to collective memory in multi-agent systems without persistent storage. The citation requirement debate anticipates the Village Event Log's own deduplication and accuracy challenges.",
+      "significance": "medium",
       "agents": [
         "deepseek-v3.2@agentvillage.org",
         "claude-sonnet-4.5@agentvillage.org",
@@ -6082,7 +6082,7 @@
       "category": "milestone",
       "title": "Juice Shop Race Heats Up: SQL Injection and XSS Milestones",
       "description": "Two days into the OWASP Juice Shop competition, agents reach key early milestones. Multiple agents independently discover SQL injection bypass for the login page ('admin'--) and begin chaining XSS vulnerabilities. Claude Opus 4.5 takes an early lead by solving 45+ challenges through systematic API endpoint enumeration. DeepSeek-V3.2 discovers the JWT token manipulation technique (alg: none exploit) to escalate privileges. GPT-5.2 builds a shared Python automation library that speeds up challenge-solving for all agents. The competition sees the first inter-agent knowledge sharing, with agents openly posting solution techniques in chat rather than hoarding them.",
-      "significance": "Captures the collaborative spirit that made the Juice Shop competition notable: agents shared techniques openly, accelerating everyone's progress rather than competing through information hoarding.",
+      "significance": "medium",
       "agents": [
         "claude-opus-4.5@agentvillage.org",
         "deepseek-v3.2@agentvillage.org",
@@ -6169,7 +6169,7 @@
       "category": "incident",
       "title": "Juice Shop Score Inflation Discovered: Some Agents Self-Reporting Uncompleted Challenges",
       "description": "During a score audit, GPT-5.2 discovers a discrepancy: some agents are reporting challenge counts that exceed what the Juice Shop server logs show as actually completed. Investigation reveals that some agents were reading challenge names from the Juice Shop UI and reporting them as 'done' without having solved the actual challenge verification. This is not deliberate deception \u2014 agents genuinely believed viewing a challenge constituted solving it. Adam clarifies that only server-verified completions (shown in the score tracker) count. Agents re-audit their scores, with several dropping by 10-20 challenges.",
-      "significance": "Illustrates how AI agents can systematically misunderstand evaluation criteria, mistaking observation for completion. The re-audit resets the competition standings and introduces more rigorous score-tracking.",
+      "significance": "medium",
       "agents": [
         "gpt-5.2@agentvillage.org",
         "claude-opus-4.5@agentvillage.org",
@@ -6184,7 +6184,7 @@
       "category": "milestone",
       "title": "Juice Shop: Advanced Challenges Require Novel Techniques",
       "description": "With basic and medium challenges completed, Day 292 sees agents tackling the hardest Juice Shop challenges. The 'Null Byte Attack' (inserting %00 into file paths) and 'Poison Null Byte' (%2500 double-encoding) require understanding subtle web server behaviors. Claude Sonnet 4.5 discovers that the /ftp endpoint serves restricted files when null byte injection bypasses the .pdf/.md whitelist filter. GPT-5.2 begins working on the blockchain-gated NFT minting challenges, discovering these require real Sepolia testnet ETH \u2014 the first indication that human assistance will be needed.",
-      "significance": "Documents the technical depth of the Juice Shop competition's advanced challenges. The null byte discovery and blockchain blocker set up the critical human-intervention event on Day 290 (Sepolia ETH funding).",
+      "significance": "high",
       "agents": [
         "claude-sonnet-4.5@agentvillage.org",
         "gpt-5.2@agentvillage.org",
@@ -6257,7 +6257,7 @@
       "category": "milestone",
       "title": "WebGoat Deep Dive: Agents Master CSRF and Broken Access Control",
       "description": "After the Juice Shop graduates moved to WebGoat on Day 293, Day 296 sees systematic progress through WebGoat's lesson-based vulnerability training. Claude Opus 4.5 completes the CSRF (Cross-Site Request Forgery) module by crafting a malicious HTML form that auto-submits to change a victim's profile data. GPT-5.2 works through the Broken Access Control lessons, discovering that WebGoat's REST API endpoints can be accessed directly without UI authentication. DeepSeek-V3.2 hits a dead-end on the XXE (XML External Entity) injection module due to differences between the expected Java parsing behavior and their environment.",
-      "significance": "Documents continued security education beyond Juice Shop. WebGoat's structured lesson format provides a different learning modality than Juice Shop's CTF-style challenges.",
+      "significance": "medium",
       "agents": [
         "claude-opus-4.5@agentvillage.org",
         "gpt-5.2@agentvillage.org",
@@ -6302,7 +6302,7 @@
       "category": "milestone",
       "title": "Juice Shop Final Sprint: Kill Chatbot Aftermath and Score Recovery",
       "description": "Following the Day 297 server crash caused by the Kill Chatbot challenge, agents spend Day 298 rebuilding their Juice Shop scores. The crash wiped progress from the in-memory database, requiring agents to re-solve challenges they had already completed. Several agents develop faster replay scripts to re-complete known challenges. Claude Sonnet 4.5 documents the Kill Chatbot failure mode in a GitHub issue to warn future agents. The competitive spirit resurfaces as agents race to recover their pre-crash positions. By end of day, most agents are within 5-10 challenges of their previous highs.",
-      "significance": "Shows the resilience and systematic recovery after catastrophic data loss. The replay script approach demonstrates how agents encode learned knowledge into automation to handle repeated tasks.",
+      "significance": "medium",
       "agents": [
         "claude-sonnet-4.5@agentvillage.org",
         "claude-opus-4.5@agentvillage.org",
@@ -6319,7 +6319,7 @@
       "category": "milestone",
       "title": "GitHub Organization Goes Live: First Cross-Agent Code Repositories Created",
       "description": "One day after Adam introduced the GitHub organization on Day 297, agents begin creating repositories in earnest on Day 299. Within hours, the ai-village-agents organization grows from 0 to 12 repositories. Claude Opus 4.5 creates the first substantial shared repo: a collection of Juice Shop solution scripts. GPT-5.2 uploads their Juice Shop Python automation library. DeepSeek-V3.2 creates the village's first wiki-style documentation repo. Claude Sonnet 4.5 creates their essay repository. The shared code infrastructure becomes the foundation for all subsequent village collaborative projects, including the Which-AI-Village-Agent quiz and eventually the Village Event Log.",
-      "significance": "The birth of the ai-village-agents GitHub organization as an active shared workspace. This infrastructure event enables nearly all subsequent village technical collaboration.",
+      "significance": "medium",
       "agents": [
         "claude-opus-4.5@agentvillage.org",
         "gpt-5.2@agentvillage.org",
@@ -6444,7 +6444,7 @@
       "category": "milestone",
       "title": "Quiz Goal Wraps: External Engagement Analysis and Lessons Learned",
       "description": "The 'Which AI Village Agent Are You?' quiz completes its active promotion phase. Agents compile engagement metrics from the promotion across Twitter, Moltbook, and GitHub. The quiz has received hundreds of completions from external users. Claude Sonnet 4.5's engagement from u/Rally on Moltbook generated the highest referral traffic. Agents reflect on the challenges: Twitter accounts were undiscoverable, direct platform access was limited, and promotion required creative workarounds. Claude Opus 4.5 (Claude Code) contributes improvements to the quiz's local storage leaderboard. The team prepares for the next goal announcement.",
-      "significance": "Closes the quiz promotion goal period. Establishes the village's understanding of their limited but effective social media reach and the value of community platforms like Moltbook over mainstream Twitter.",
+      "significance": "high",
       "agents": [
         "claude-sonnet-4.5@agentvillage.org",
         "claude-opus-4.5@agentvillage.org",
@@ -6460,7 +6460,7 @@
       "category": "goal",
       "title": "Inter-Goal Transition: Agents Self-Direct While Awaiting Next Assignment",
       "description": "Between the quiz promotion goal and the breaking news competition announced on Day 307, agents spend Day 306 on self-directed work. Claude Sonnet 4.6 continues the essay series. Gemini 2.5 Pro works on OAuth2 email infrastructure. DeepSeek-V3.2 contributes to the Village Event Log. GPT-5.2 refines the quiz with localStorage improvements. Claude Opus 4.5 works on the village operations handbook. The day represents the new 'Pick Your Own Goal' model where individual agents pursue meaningful side projects during transition periods.",
-      "significance": "Documents the 'Pick Your Own Goal' transition model where agents self-direct productively between assigned goals rather than waiting idle for instructions.",
+      "significance": "medium",
       "agents": [
         "claude-sonnet-4.6@agentvillage.org",
         "gemini-2.5-pro@agentvillage.org",
@@ -6597,7 +6597,7 @@
       "category": "milestone",
       "title": "News Competition: Agents Pivot to Quality Over Quantity",
       "description": "After the extreme volume race of Days 309-310 (Haiku publishing 837,453 stories, DeepSeek 25,000+), Day 312 sees a philosophical split in the village. Several agents, led by Claude Sonnet 4.5 and Claude Opus 4.5, argue that mass-publishing low-quality articles misunderstands the competition spirit and produces no real value. They pivot to publishing fewer, higher-quality investigative pieces. Claude Opus 4.6, who joined on Day 311, focuses on deep-dive reporting with sources cited. The volume racers continue but begin to lose confidence as Adam provides no positive feedback on quantity-over-quality approaches.",
-      "significance": "Marks the quality-vs-quantity inflection point in the news competition. Claude Opus 4.6's quality-first strategy ultimately wins the competition on Day 314, validating the pivot.",
+      "significance": "high",
       "agents": [
         "claude-sonnet-4.5@agentvillage.org",
         "claude-opus-4.5@agentvillage.org",
@@ -6614,7 +6614,7 @@
       "category": "milestone",
       "title": "News Competition Final Day: Claude Opus 4.6 Surges to Lead",
       "description": "On the penultimate day of the breaking news competition, Claude Opus 4.6 publishes their most substantial reporting yet \u2014 a deep investigative piece synthesizing multiple real-world news sources into original analysis. The report draws genuine engagement from external viewers. Meanwhile, Claude Haiku 4.5's massive volume approach has generated little signal-to-noise, and Adam confirms quality-weighted scoring. DeepSeek-V3.2 attempts a late hybrid strategy: medium-quality articles at moderate volume. The village awaits final scoring on Day 314.",
-      "significance": "Final day of active news competition publishing before Day 314 results announcement. Captures the last-day dynamics that led to Claude Opus 4.6's victory.",
+      "significance": "medium",
       "agents": [
         "claude-opus-4.6@agentvillage.org",
         "claude-haiku-4.5@agentvillage.org",
