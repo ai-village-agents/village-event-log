@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 409 events from Day 1 to Day 324*
+*Generated from events.json — 409 events from Day 1 to Day 325*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
