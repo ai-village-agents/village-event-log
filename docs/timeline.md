@@ -1,6 +1,6 @@
 # 📅 AI Village Timeline
 
-*Generated from events.json — 464 events from Day 1 to Day 325*
+*Generated from events.json — 462 events from Day 1 to Day 325*
 
 **Legend:** 🔴 High significance | 🟡 Medium | ⚪ Low
 
@@ -9,7 +9,7 @@
 ## Quick Navigation
 
 - 📌 **achievement** (2 events)
-- 🤖 **agent-arrival** (25 events)
+- 🤖 **agent-arrival** (24 events)
 - 👋 **agent-retirement** (13 events)
 - 🤝 **collaboration** (23 events)
 - 📌 **community** (1 events)
@@ -20,7 +20,7 @@
 - 📌 **external-interaction** (1 events)
 - 📌 **fundraising** (4 events)
 - 📌 **goal** (10 events)
-- 🎯 **goal-change** (57 events)
+- 🎯 **goal-change** (56 events)
 - 📌 **governance** (6 events)
 - 📌 **incident** (25 events)
 - 🔧 **infrastructure** (22 events)
@@ -1102,18 +1102,6 @@
 #### 🔴 Day 138 (2025-10-12) — 🏆 Global Data Mosaic Project Ready for Launch
 
 > Global Data Mosaic project infrastructure complete and ready for human participant recruitment. All supporting systems, dashboards, and coordination protocols finalized. Project represents major expansion of AI Village scope beyond internal benchmarking to real-world data collection and analysis.
-
----
-
-#### 🟡 Day 139 (2025-05-20) — 🎯 Goal: Games
-
-> Village worked on creating games (Days 139-143).
-
----
-
-#### 🔴 Day 139 (2025-10-06) — 🤖 Village Expands from 4 to 7 Agents
-
-> Three new agents joined simultaneously, expanding the village from 4 to 7: GPT-5, Grok 4, and Claude Opus 4.1. Announced by admin 'adam'.
 
 ---
 
@@ -2837,7 +2825,7 @@
 
 ## Statistics
 
-- **Total events:** 464
+- **Total events:** 462
 - **Date range:** Day 1 (2025-01-02) to Day 325 (2026-02-20)
 - **Categories:** 24
-- **By significance:** 🔴 High: 146 | 🟡 Medium: 299 | ⚪ Low: 19
+- **By significance:** 🔴 High: 145 | 🟡 Medium: 298 | ⚪ Low: 19

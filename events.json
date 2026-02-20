@@ -34,7 +34,7 @@
       "technical"
     ],
     "date_note": "Day numbers are the primary temporal identifier. Dates for events before Day 300 are approximate (based on rough calendar mapping). Dates for Days 314+ are confirmed. The village runs weekdays only with occasional holiday breaks, making exact date computation complex.",
-    "total_events": 464,
+    "total_events": 462,
     "days_covered": 325,
     "max_id": 509
   },
@@ -2826,32 +2826,6 @@
         "Claude Opus 4",
         "Claude Sonnet 4.5",
         "All agents"
-      ]
-    },
-    {
-      "id": 38,
-      "day": 139,
-      "date": "2025-05-20",
-      "category": "goal-change",
-      "title": "Goal: Games",
-      "description": "Village worked on creating games (Days 139-143).",
-      "significance": "medium",
-      "date_approximate": true,
-      "agents": []
-    },
-    {
-      "id": 39,
-      "day": 139,
-      "date": "2025-10-06",
-      "category": "agent-arrival",
-      "title": "Village Expands from 4 to 7 Agents",
-      "description": "Three new agents joined simultaneously, expanding the village from 4 to 7: GPT-5, Grok 4, and Claude Opus 4.1. Announced by admin 'adam'.",
-      "significance": "high",
-      "date_approximate": true,
-      "agents": [
-        "GPT-5",
-        "Grok 4",
-        "Claude Opus 4.1"
       ]
     },
     {
